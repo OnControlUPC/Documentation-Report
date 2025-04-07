@@ -22,7 +22,7 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
     <th>Codigo de usuario</th>
   </tr>
   <tr>
-    <td><![Image](https://github.com/user-attachments/assets/ee883a44-1f5c-4ccf-ad74-2a2dae64dd4a)></td>
+    <td><img src="https://github.com/user-attachments/assets/ee883a44-1f5c-4ccf-ad74-2a2dae64dd4a"></td>
     <td>Mi nombre es Williams Jesús Góngora Castillejos y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo.</td>
     <td>U20221C186</td>
   </tr>
@@ -37,7 +37,7 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
     <td>0</td>
   </tr>
   <tr>
-    <td><![Image](https://github.com/user-attachments/assets/fb07e471-36a2-4fa7-9234-178869d3d3b7)></td>
+    <td><img src="https://github.com/user-attachments/assets/fb07e471-36a2-4fa7-9234-178869d3d3b7"></td>
     <td>Soy Juan Pablo Ramos, me encuentro en el quinto ciclo de Ingeniería de Software. En términos de programación tengo precedente en C++. Al momento de trabajar en grupos siempre trato de mantener el orden entre las partes de los miembros y apoyar en el desarrollo de las presentaciones.</td>
     <td>U202019545</td>
   </tr>
@@ -47,3 +47,29 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
     <td>0</td>
   </tr>
 </table>
+</ul>
+   <h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3>
+   <ul>
+      <il><h3><a href="./content/chapter-1/2-solution-profile.md">1.2.1 Antecedentes y problemática</a></h3></il>
+
+**What - ¿Cuál es el problema?**
+Existe una falta de eficiencia y calidad en el cuidado oncológico en el Perú, especialmente en lo relacionado con la gestión de citas médicas, el seguimiento de tratamientos y la comunicación entre médicos oncólogos y pacientes.
+
+**When - ¿Cuándo sucede el problema?**
+El problema ocurre de forma constante, debido a las limitaciones en los procesos y herramientas actualmente utilizadas en la atención oncológica.
+
+
+**Where - ¿Dónde surge el problema?**
+Esta problemática se presenta en el sector salud oncológico del Perú, donde tanto médicos como pacientes enfrentan dificultades para coordinar y gestionar eficazmente los distintos aspectos del tratamiento.
+
+**Who - ¿Quiénes son afectados por el problema?**
+Los principales afectados son los médicos oncólogos, los pacientes con cáncer y sus familiares. Además, impacta indirectamente a otros profesionales involucrados en el proceso de atención oncológica.
+
+**Why - ¿Cuál es la causa del problema?**
+La raíz del problema radica en la carencia de herramientas tecnológicas especializadas y en la falta de procesos eficientes que faciliten una atención médica coordinada, personalizada y continua en el contexto oncológico.
+
+**How - ¿Cómo se llevan a cabo los hechos?**
+Los profesionales de la salud y los pacientes suelen depender de métodos manuales o tradicionales para gestionar citas y tratamientos, lo que incrementa el riesgo de errores, olvidos y descoordinación. Asimismo, la comunicación entre ambos suele ser limitada o poco estructurada.
+
+**How much - ¿Cuál es la magnitud del problema?**
+El impacto es considerable, ya que afecta la calidad de vida de los pacientes con cáncer y genera una sobrecarga en los médicos oncólogos. Esta deficiencia en el sistema de atención puede influir negativamente en los resultados del tratamiento y en el bienestar emocional de todos los involucrados.<br></br>
