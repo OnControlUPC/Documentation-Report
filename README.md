@@ -1,16 +1,16 @@
 <div align='center'>
 
-   <img src="content/images/random/UPC_logo.png" >
+   <img src="https://github.com/user-attachments/assets/8cd823fb-13d4-445c-ac96-641882771637">
    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
    <h2>Ingeniería de Software</h2>
    <h2>Aplicaciones para Dispositivos Moviles</h2>
    </br></br>
-   <p><strong>Sección:</strong> </p>
-   <p><strong>Docente:</strong> </p>
+   <p><strong>Sección:</strong>CC238</p>
+   <p><strong>Docente:</strong> Mayta Guillermo, Jorge Luis</p>
    <p><strong>Informe:</strong> TB1</p>
    <p><strong>Nombre de la Startup:</strong> OnControl</p>
    <p><strong>Nombre del producto:</strong> OnControl</p>
-   <p><strong>Ciclo:</strong> 2024-01</p>
+   <p><strong>Ciclo:</strong> 2025-01</p>
 </div>
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 <br>
 <br>
-<h4>Link del repositorio: </h4>
+<h4>Link del repositorio: https://github.com/OnControlUPC/Documentation-Report</h4>
 </div>
 </br>
 
@@ -69,216 +69,6 @@
                <td>Acuña, Diego </td>
                <td>Cambio de directorio del informe(Capítulo 1 y 2)</td>
             </tr>
-            <tr>
-               <td>1.2</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>As-Is-Scenario-Mapping</td>
-            </tr>
-            <tr>
-               <td>1.3</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>User Task Matrix</td>
-            </tr>
-            <tr>
-               <td>1.4</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>To-be-scenario mapping</td>
-            </tr>
-             <tr>
-               <td>1.5</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>SEO y Meta Tags</td>
-            </tr>
-            <tr>
-               <td>1.6</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Organization Systems</td>
-            </tr>
-            <tr>
-               <td>1.7</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Labeling Systems</td>
-            </tr>
-            <tr>
-               <td>1.8</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Searching Systems</td>
-            </tr> 
-            <tr>
-               <td>1.9</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td> Navigation Systems</td>
-            </tr>
-            <tr>
-               <td>1.10</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Diseño de entrevistas </td>
-            </tr>
-            <tr>
-               <td>1.11</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Software Architecture Components Diagram </td>
-            </tr>
-            <tr>
-               <td>1.12</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Juan Pablo </td>
-               <td>Registro y Análisis de Entrevistas </td>
-            </tr>
-            <tr>
-               <td>1.13</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Juan Pablo </td>
-               <td>Web Style Guidelines</td>
-            </tr>
-            <tr>
-               <td>1.14</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Renzo </td>
-               <td>Wireflows </td>
-            </tr>
-            <tr>
-               <td>1.15</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Renzo </td>
-               <td>User Flows </td>
-            </tr>
-            <tr>
-               <td>1.16</td>
-               <td>14/04/2024</td>
-               <td>Pardo, Gustavo </td>
-               <td>Wireframes</td>
-            </tr>
-            <tr>
-               <td>1.17</td>
-               <td>14/04/2024</td>
-               <td>Pardo, Gustavo </td>
-               <td>Mock ups</td>
-            </tr>
-             <tr>
-               <td>1.18</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>Descripción de la Startup</td>
-            </tr>
-            <tr>
-               <td>1.19</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>Segmentos objetivo</td>
-            </tr>
-            <tr>
-               <td>1.20</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>User Personas</td>
-            </tr>
-            <tr>
-               <td>1.21</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>User Personas</td>
-            </tr>
-            <tr>
-               <td>1.22</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>User Journey Mapping</td>
-            </tr>
-              <tr>
-               <td>1.23</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>Empathy Mapping</td>
-            </tr>
-              <tr>
-               <td>1.24</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>User Stories</td>
-            </tr>
-              <tr>
-               <td>1.25</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>Product Backlog</td>
-            </tr>
-             <tr>
-               <td>1.26</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra  </td>
-               <td>Impact Mapping</td>
-            </tr>
-            <tr>
-               <td>1.27</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Juan Pablo </td>
-               <td>Class Diagram</td>
-            </tr>
-            <tr>
-               <td>1.28</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Juan Pablo </td>
-               <td>Database Diagram</td>
-            </tr>
-             <tr>
-               <td>1.29</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra </td>
-               <td>Database Diagram</td>
-            </tr>
-             <tr>
-               <td>1.30</td>
-               <td>14/04/2024</td>
-               <td>Ramos, Alexandra </td>
-               <td>Class Diagram</td>
-            </tr>
-             <tr>
-               <td>2.0</td>
-               <td>03/05/2024</td>
-               <td>Ramos, Alexandra y Juan Pardo </td>
-               <td>Mejora del ClassDiagram</td>
-            </tr>
-            <tr>
-               <td>2.1</td>
-               <td>03/05/2024</td>
-               <td>Diego Acuña</td>
-               <td>Aumento User Storie</td>
-            </tr>
-            <tr>
-               <td>2.2</td>
-               <td>03/05/2024</td>
-               <td>Diego Acuña</td>
-               <td>Sprint 5.2(primera version)</td>
-            </tr>
-            <tr>
-               <td>2.3</td>
-               <td>03/05/2024</td>
-               <td>Diego Acuña</td>
-               <td>Mejora criterios de aceptacion en las Epicas</td>
-            </tr>
-            <tr>
-               <td>3.0</td>
-               <td>09/06/2024</td>
-               <td>Diego Acuña</td>
-               <td>Sprint 3, Validation interview</td>
-            </tr>
-              <tr>
-               <td>3.1</td>
-               <td>09/06/2024</td>
-               <td>Renzo Ramos</td>
-               <td>Database Diagram</td>
-            </tr>
     </table>
 </span>
 </div>
@@ -287,8 +77,32 @@
 <ul style="list-style-type: none;">
    <li><h1><a href="./content/student-outcome.md">Student Outcome</a></h1></li>
   
-   ## ABET – EAC - Student Outcome 5
+En Ingeniería de Software, el logro contribuye a alcanzar el:
+## ABET – EAC - Student Outcome 7
 
+**Criterio**: La capacidad de adquirir y aplicar nuevos
+conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
+</br>
+
+| **Criterio específico**| **Acciones realizadas**| **Conclusiones**|
+|--|--|--|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. |  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |  |
+
+
+<br>
+
+<ul style="list-style-type: none;">
+   <h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1>
+
+   | **Integrantes**| **Objetivos**|
+|--|--|
+|Williams Gongora Castillejos  | ss |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 <div display="flex" align="right" >
