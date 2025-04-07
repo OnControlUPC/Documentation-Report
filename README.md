@@ -1,6 +1,6 @@
 <div align='center'>
 
-   <img src="[UPC_logo](https://github.com/user-attachments/assets/8cd823fb-13d4-445c-ac96-641882771637)" >
+   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" >
    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
    <h2>Ingeniería de Software</h2>
    <h2>Aplicaciones para Dispositivos Moviles</h2>
@@ -92,8 +92,9 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 
 
 <br>
+
 <ul style="list-style-type: none;">
-   <li><h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1></li>
+   <h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1>
 
    | ** Integrantes **| **Objetivos**|
 |--|--|
