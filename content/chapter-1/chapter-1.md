@@ -50,26 +50,33 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
 </ul>
    <h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3>
    <ul>
-      <il><h3><a href="./content/chapter-1/2-solution-profile.md">1.2.1 Antecedentes y problemática</a></h3></il>
+      <il><h3><a href="./content/chapter-1/2-solution-profile.md">1.2.1 Antecedentes y problemáticas</a></h3></il>
 
-**What - ¿Cuál es el problema?**
+- **What - ¿Cuál es el problema?**
+
 Existe una falta de eficiencia y calidad en el cuidado oncológico en el Perú, especialmente en lo relacionado con la gestión de citas médicas, el seguimiento de tratamientos y la comunicación entre médicos oncólogos y pacientes.
 
-**When - ¿Cuándo sucede el problema?**
+- **When - ¿Cuándo sucede el problema?**
+
 El problema ocurre de forma constante, debido a las limitaciones en los procesos y herramientas actualmente utilizadas en la atención oncológica.
 
 
-**Where - ¿Dónde surge el problema?**
+- **Where - ¿Dónde surge el problema?**
+  
 Esta problemática se presenta en el sector salud oncológico del Perú, donde tanto médicos como pacientes enfrentan dificultades para coordinar y gestionar eficazmente los distintos aspectos del tratamiento.
 
-**Who - ¿Quiénes son afectados por el problema?**
+- **Who - ¿Quiénes son afectados por el problema?**
+
 Los principales afectados son los médicos oncólogos, los pacientes con cáncer y sus familiares. Además, impacta indirectamente a otros profesionales involucrados en el proceso de atención oncológica.
 
-**Why - ¿Cuál es la causa del problema?**
+- **Why - ¿Cuál es la causa del problema?**
+
 La raíz del problema radica en la carencia de herramientas tecnológicas especializadas y en la falta de procesos eficientes que faciliten una atención médica coordinada, personalizada y continua en el contexto oncológico.
 
-**How - ¿Cómo se llevan a cabo los hechos?**
+- **How - ¿Cómo se llevan a cabo los hechos?**
+
 Los profesionales de la salud y los pacientes suelen depender de métodos manuales o tradicionales para gestionar citas y tratamientos, lo que incrementa el riesgo de errores, olvidos y descoordinación. Asimismo, la comunicación entre ambos suele ser limitada o poco estructurada.
 
-**How much - ¿Cuál es la magnitud del problema?**
+- **How much - ¿Cuál es la magnitud del problema?**
+
 El impacto es considerable, ya que afecta la calidad de vida de los pacientes con cáncer y genera una sobrecarga en los médicos oncólogos. Esta deficiencia en el sistema de atención puede influir negativamente en los resultados del tratamiento y en el bienestar emocional de todos los involucrados.<br></br>
