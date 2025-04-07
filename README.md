@@ -1,6 +1,6 @@
 <div align='center'>
 
-   <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" >
+   <img src="https://github.com/user-attachments/assets/8cd823fb-13d4-445c-ac96-641882771637">
    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
    <h2>Ingeniería de Software</h2>
    <h2>Aplicaciones para Dispositivos Moviles</h2>
@@ -96,7 +96,7 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 <ul style="list-style-type: none;">
    <h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1>
 
-   | ** Integrantes **| **Objetivos**|
+   | **Integrantes**| **Objetivos**|
 |--|--|
 |Williams Gongora Castillejos  | ss |
 |  |  |
