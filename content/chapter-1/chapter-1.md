@@ -15,3 +15,35 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
 </ul>
 <ul style="list-style-type: none;">
       <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h3></li>
+      <table>
+  <tr>
+    <th>Miembro del equipo</th>
+    <th>Descripción</th>
+    <th>Codigo de usuario</th>
+  </tr>
+  <tr>
+    <td><![Image](https://github.com/user-attachments/assets/ee883a44-1f5c-4ccf-ad74-2a2dae64dd4a)></td>
+    <td>Mi nombre es Williams Jesús Góngora Castillejos y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo.</td>
+    <td>U20221C186</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_2.png"></td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_6.jpg"></td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td><![Image](https://github.com/user-attachments/assets/fb07e471-36a2-4fa7-9234-178869d3d3b7)></td>
+    <td>Soy Juan Pablo Ramos, me encuentro en el quinto ciclo de Ingeniería de Software. En términos de programación tengo precedente en C++. Al momento de trabajar en grupos siempre trato de mantener el orden entre las partes de los miembros y apoyar en el desarrollo de las presentaciones.</td>
+    <td>U202019545</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_5.png"></td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
