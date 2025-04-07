@@ -80,3 +80,12 @@ Los profesionales de la salud y los pacientes suelen depender de métodos manual
 - **How much - ¿Cuál es la magnitud del problema?**
 
 El impacto es considerable, ya que afecta la calidad de vida de los pacientes con cáncer y genera una sobrecarga en los médicos oncólogos. Esta deficiencia en el sistema de atención puede influir negativamente en los resultados del tratamiento y en el bienestar emocional de todos los involucrados.<br></br>
+      <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2 Lean UX Process</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.1. Lean UX Problem Statements</a></h3></il>
+         El tratamiento y atención de los pacientes con cáncer es bastante agotador y agobiante, siendo la falta de información, organización y claridad del tratamiento en sí un factor que incrementa la ansiedad y el estrés en los pacientes y en sus familiares. En Perú, más del 60 % de los casos se detectan en etapas avanzadas, lo que agrava aún más esta situación (MINSA, 2023).
+
+Además de esto, los médicos oncólogos deben tratar a una gran cantidad de pacientes con horarios y tratamientos muy delicados y específicos, causando también una sobrecarga en su labor. Estudios reportan que más del 45 % de oncólogos experimentan síntomas de agotamiento profesional (Shanafelt et al., 2014).
+
+Con el problema de la falta de información sobre medicamentos y tratamientos y de la falta de organización accesible para los pacientes, sus familiares y los médicos, podemos plantear la siguiente pregunta:
+**¿Qué herramientas podríamos brindar para mejorar el acceso a la información y la organización de los pacientes oncológicos y sus médicos tratantes para reducir el estrés causado por esta situación tan delicada?**
