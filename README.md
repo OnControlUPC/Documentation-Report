@@ -99,7 +99,7 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
    | **Integrantes**              | **Objetivos**|
 |------------------------------|--|
 | Williams Gongora Castillejos | ss |
-| Quique Vladimir Jara Benites |  |
+| Quique Vladimir Jara Benites | Realizar pruebas de usabilidad con al menos 20 usuarios reales para obtener feedback sobre la interfaz y la experiencia de usuario, en un plazo de 1 mes. |
 |                              |  |
 |                              |  |
 |                              |  |
