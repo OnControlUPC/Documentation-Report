@@ -12,13 +12,22 @@
     <td colspan="5" valign="top">Este análisis nos ayudará a comprender mejor a nuestra competencia para así ver las debilidades y fortalezas de nuestra aplicación web. Esto nos permitirá desarrollar diversas estrategias para mejorar nuestro producto.</td>
   </tr>
   <tr></tr>
-  <tr>
-    <td colspan="2" valign="top"></td>
-    <td colspan="1" valign="top"><p>OncorApp</p><p></p><img src="https://github.com/user-attachments/assets/c3077ee6-d023-483c-91f4-df3c7e19239d"/><p></p></td>
-    <td colspan="1" valign="top"><p>Outcome4Me</p><img src="https://github.com/user-attachments/assets/34b15363-fc7b-481f-949d-168c867739b7"/> <p></p><p></p><p></p></td>
-    <td colspan="1" valign="top"><p>My Cancer Coach</p><img src="https://github.com/user-attachments/assets/b612f6a1-24d5-41ba-bfad-310987addd8e"/><p></p></td>
-    <td colspan="1" valign="top"><p>OnControl</p><img src="https://github.com/user-attachments/assets/4d4bcfd7-0cf5-4b0d-82f8-ba4968255948"/></td>
-  </tr>
+ <tr>
+  <td colspan="2" valign="top"></td>
+  <td colspan="1" valign="top" style="vertical-align: middle; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/c3077ee6-d023-483c-91f4-df3c7e19239d"/>
+  </td>
+  <td colspan="1" valign="top" style="vertical-align: middle; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/34b15363-fc7b-481f-949d-168c867739b7"/>
+  </td>
+  <td colspan="1" valign="top" style="vertical-align: middle; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/b612f6a1-24d5-41ba-bfad-310987addd8e"/>
+  </td>
+  <td colspan="1" valign="top" style="vertical-align: middle; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/4d4bcfd7-0cf5-4b0d-82f8-ba4968255948"/>
+  </td>
+</tr>
+
   <tr>
     <td colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>Perfil</p></td>
     <td colspan="1" valign="top">Overview</td>
