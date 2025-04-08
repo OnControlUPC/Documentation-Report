@@ -17,13 +17,13 @@
 
 <h3>Integrantes</h3>
 
-| Alumnos                         |   Codigo   |
-| :------------------------------ | :--------: |
-| Williams Gongora Castillejos | U20221c186  |
-|    2     |  |
-|   3  | |
-|   Juan Pablo Ramos Mendoza  | U202019545 |
-| 5|  |
+| Alumnos                      |   Codigo   |
+|:-----------------------------|:----------:|
+| Williams Gongora Castillejos | U20221c186 |
+| Quique Vladimir Jara Benites | U202022365 |
+| 3                            |            |
+| Juan Pablo Ramos Mendoza     | U202019545 |
+| 5                            |            |
 
 <br>
 <br>
@@ -96,13 +96,13 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 <ul style="list-style-type: none;">
    <h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1>
 
-   | **Integrantes**| **Objetivos**|
-|--|--|
-|Williams Gongora Castillejos  | ss |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+   | **Integrantes**              | **Objetivos**|
+|------------------------------|--|
+| Williams Gongora Castillejos | ss |
+| Quique Vladimir Jara Benites |  |
+|                              |  |
+|                              |  |
+|                              |  |
 
 
 <div display="flex" align="right" >
