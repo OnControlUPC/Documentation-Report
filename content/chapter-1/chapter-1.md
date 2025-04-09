@@ -42,9 +42,9 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
     <td>U202019545</td>
   </tr>
   <tr>
-    <td><img src="../images/chapter-1/perfil_5.png"></td>
-    <td>0</td>
-    <td>0</td>
+    <td><img src="https://github.com/user-attachments/assets/598744c7-c721-4c20-ab43-83f3e314f24d"></td>
+    <td>Mi nombre es Quispe Roldan Michael Fred actualmente estoy cursando el sexto ciclo de ingenieria de software. Mi compromiso con la responsabilidad, la atención y la disposición para liderar me capacita para desempeñar un papel efectivo como líder en mi equipo. Estas cualidades me permiten trabajar en colaboración con mis compañeros, mantener altos estándares de desempeño y avanzar hacia el logro de nuestros objetivos comunes.</td>
+    <td>U20221e734</td>
   </tr>
 </table>
 </ul>
