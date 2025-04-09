@@ -21,7 +21,7 @@
 |:-----------------------------|:----------:|
 | Williams Gongora Castillejos | U20221c186 |
 | Quique Vladimir Jara Benites | U202022365 |
-| 3                            |            |
+| Quispe Roldan Michael Fred   | U20221E734 |
 | Juan Pablo Ramos Mendoza     | U202019545 |
 | 5                            |            |
 
@@ -100,7 +100,7 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 |------------------------------|--|
 | Williams Gongora Castillejos | ss |
 | Quique Vladimir Jara Benites | Realizar pruebas de usabilidad con al menos 20 usuarios reales para obtener feedback sobre la interfaz y la experiencia de usuario, en un plazo de 1 mes. |
-|                              |  |
+| Quispe Roldan Michael Fred   |  |
 |                              |  |
 |                              |  |
 
