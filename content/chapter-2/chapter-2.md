@@ -178,3 +178,86 @@
 **Táctica:** Colaborar con médicos en el campo de la oncología para promover la aplicación y organizar eventos de lanzamiento y charlas informativas.
 
    </ul>
+
+   </ul>
+<il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2. Entrevistas</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.1. Diseño de entrevistas</a></h3></il>
+
+
+### PREGUNTAS GENERALES
+
+#### Información Demográfica
+<ul>
+<li>¿Podría decirme su edad y distrito de residencia?</li>
+<li>¿Cuál es su estado civil y composición familiar (número de hijos, personas a cargo, etc.)?</li>
+<li>¿A qué se dedica actualmente? (Estudiante, profesión, jubilado, etc.)</li>
+</ul>
+
+#### Hábitos y Preferencias Digitales
+<ul>
+<li>¿Qué dispositivos digitales utiliza con más frecuencia (smartphone, tablet, computadora, etc.)?</li>
+<li>¿Cuáles son sus aplicaciones o servicios en línea favoritos y por qué?</li>
+<li>¿Cómo prefiere comunicarse digitalmente con profesionales de la salud o servicios médicos (correo electrónico, mensajes de texto, llamadas, videoconferencias)?</li>
+</ul>
+
+#### Objetivos y Frustraciones
+<ul>
+<li>¿Cuáles son sus principales objetivos al buscar una aplicación relacionada con la salud o el cuidado oncológico?</li>
+<li>¿Ha experimentado frustraciones o dificultades al usar aplicaciones o servicios en línea de salud? Por favor, descríbalas.</li>
+</ul>
+
+#### Experiencia Personal
+<ul>
+<li>Relacionado con su salud o la gestión del cuidado oncológico, ¿podría compartir alguna experiencia positiva o negativa que haya tenido?</li>
+<li>¿Qué características considera indispensables en una aplicación de salud?</li>
+</ul>
+
+#### Expectativas y Necesidades Específicas
+<ul>
+<li>En términos de ayuda y organización para el cuidado oncológico, ¿qué es lo que más valora o necesitaría?</li>
+<li>¿Cómo cree que una aplicación podría mejorar su experiencia o la gestión del cuidado oncológico?</li>
+</ul>
+
+### PREGUNTAS ESPECÍFICAS PARA MÉDICOS ONCÓLOGOS
+
+#### Gestión de Pacientes
+<ul>
+<li>¿Cuál es su método actual para organizar la información y los horarios de sus pacientes?</li>
+<li>¿Qué desafíos enfrenta al asignar y hacer seguimiento de los medicamentos y procedimientos para sus pacientes?</li>
+</ul>
+
+#### Comunicación y Recordatorios
+<ul>
+<li>¿Cómo se comunica actualmente con sus pacientes para recordatorios o información importante?</li>
+<li>¿Qué funcionalidades considera clave en una aplicación para mejorar la comunicación con sus pacientes?</li>
+</ul>
+
+#### Herramientas Digitales
+<ul>
+<li>¿Utiliza actualmente alguna herramienta o software de gestión de pacientes? Si es así, ¿qué le gusta y qué le falta a estas herramientas?</li>
+</ul>
+
+### PREGUNTAS ESPECÍFICAS PARA PACIENTES ONCOLÓGICOS Y SUS FAMILIARES
+
+#### Gestión de la Información Médica
+<ul>
+<li>¿Cómo lleva registro de los medicamentos, citas y procedimientos actualmente?</li>
+<li>¿Cuáles son las principales fuentes de información que utiliza para obtener información sobre su cáncer y su tratamiento?</li>
+<li>¿Qué recursos y servicios de apoyo le han sido útiles durante el tratamiento y recuperación?</li>
+<li>¿Ha tenido dificultades para entender o recordar las indicaciones médicas y los detalles de los medicamentos?</li>
+</ul>
+
+#### Comunicación con Profesionales de la Salud
+<ul>
+<li>¿Qué tan fácil o difícil ha sido para usted comunicarse con su médico oncólogo o encontrar nuevos especialistas cuando lo necesita?</li>
+<li>¿Qué características valoraría en una aplicación que le facilite el contacto con profesionales de la salud o servicios de apoyo oncológico?</li>
+</ul>
+
+#### Experiencias y Mejoras
+<ul>
+<li>¿Qué información te hubiera gustado tener cuando usted o su familiar pasó por el proceso de tratamiento oncológico?</li>
+<li>¿Qué recomendaciones tiene para mejorar la experiencia de los pacientes con cáncer en el sistema de atención médica?</li>
+<li>Basándose en su experiencia, ¿qué aspectos cree que podrían mejorar en la gestión del cuidado oncológico a través de una aplicación?</li>
+<li>¿Cómo cree que una aplicación podría ayudarle a sentirse más apoyado y menos abrumado en su proceso de cuidado oncológico?</li>
+</ul>
