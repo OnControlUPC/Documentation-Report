@@ -261,3 +261,78 @@
 <li>Basándose en su experiencia, ¿qué aspectos cree que podrían mejorar en la gestión del cuidado oncológico a través de una aplicación?</li>
 <li>¿Cómo cree que una aplicación podría ayudarle a sentirse más apoyado y menos abrumado en su proceso de cuidado oncológico?</li>
 </ul>
+
+<il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <table>
+  <tr>
+    <th>Tareas</th>
+    <th>Paciente: Frecuencia</th>
+    <th>Paciente: Importancia</th>
+    <th>Doctor: Frecuencia</th>
+    <th>Doctor: Importancia</th>
+  </tr>
+  <tr>
+    <td>Obtener información sobre los medicamentos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar calendario de citas médicas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar especialistas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Gestión de Medicamentos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Seguimiento del tratamiento</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Coordinación con especialistas no-oncólogos</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Gestionar pagos y tratamientos</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+   <tr>
+    <td>Revisar tratamientos anteriores	</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Acceder a recordatorios de citas y procedimientos	</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <!-- Agrega más filas según sea necesario -->
+</table>
