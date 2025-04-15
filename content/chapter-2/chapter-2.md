@@ -328,3 +328,169 @@ Finalmente, el doctor vuelve a resaltar la importancia de que los datos como tra
 **Resumen:** La doctora muestra un gran interés en que los pacientes oncológicos obtuvieran alertas y recordatorios de sus tratamientos y citas y en mejorar la facilidad en la que ellos pueden ingresar a dichas citas y tratamientos, usando como ejemplo que un médico simplemente encargue un análisis de sangre al paciente y que dicho paciente pueda obtener el análisis simplemente mostrando la cita del doctor. La doctora menciona que los pacientes oncológicos no presentan mucho apoyo actualmente, con la aplicación que utiliza al momento presentando una falta de opciones especiales en los pagos y citas para pacientes oncológicos. <br>
 La doctora también menciona que, actualmente, su única forma de tomar notas para todos los pacientes a quienes trata es con un cuaderno y con su asistente, quien se encarga de realizar llamadas como recordatorios y con quien comparte el cuaderno, causando mucho estrés por su parte al no conocer exactamente si es que los pacientes han recibido sus recordatorios o, incluso, si es que ambas tienen la misma información anotada, por lo que considera que una aplicación enfocada a la organización de los médicos oncólogos con comunicaciones directas a los pacientes ayudaría bastante en su trabajo. <br>
 Finalmente, menciona la importancia en que los pacientes puedan ver un cronograma de las fechas mostradas por los médicos, además de permitirle a los doctores un poco de privacidad, al realizar la comunicación entre ellos con los pacientes a través de la aplicación, ya que actualmente, usando los números personales, la comunicación convierte “el teléfono personal a uno no personal” al ser usado para contactar a todos los pacientes. <br>
+
+<il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.3. Análisis de entrevistas</a></h3></il>
+Gracias a las entrevistas realizadas, se pueden identificar los siguientes puntos: <br>
+
+- De forma técnica, un uso fácil y rápido de la aplicación es de vital importancia, con énfasis en la facilidad de identificar las opciones de la aplicación. Además, podemos apreciar que los entrevistados piden una buena y sencilla comunicación entre los médicos tratantes y los pacientes, sin interrumpir la privacidad de ambos grupos.
+- La calidad de la información es mencionada varias veces por los entrevistados, con referencias bibliográficas sobre la información de las medicinas y tratamientos siendo un beneficio que una aplicación como la nuestra debería presentar. La información también debería ser bastante clara en la forma que es presentada, con las notas de los medicamentos y tratamientos y otras notas escritas por los médicos en sí presentando la información de una forma directa.
+- Los entrevistados del grupo de pacientes y parientes de pacientes mostraron gran énfasis en que, si una aplicación como OnContigo hubiera existido mientras ocurría el tratamiento oncológico completo, su estrés hubiera sido mínimo, principalmente por la información encontrada en la aplicación y sus herramientas organizativas.
+- Los médicos entrevistados, por otra parte, creen que una buena comunicación directa y una organización entre tantos pacientes reduciría en gran parte su estrés y les permitiría una mejor experiencia en el cuidado de tantos pacientes a la vez.
+- Los médicos entrevistados también mostraron un enfoque en la organización de tratamientos y medicamentos recibidos anteriormente por sus pacientes para evitar problemas futuros, como las reacciones alérgicas.
+   </ul>
+<il><h3><a href="./content/chapter-2/3-user-persona.md">2.3. Needfinding</a></h3></il>
+   <ul>
+      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
+      En esta sección, se presentan personajes ficticios, uno para cada segmento objetivo. La información empleada en la elaboración de los User personas proviene de entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue comprender mejor a las personas a las que está dirigida la aplicación. Entre la información extraída de las entrevistas se incluyen datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/tViVP
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807106084"/>
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
+
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807124194" >
+
+</ul>
+<il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <table>
+  <tr>
+    <th>Tareas</th>
+    <th>Paciente: Frecuencia</th>
+    <th>Paciente: Importancia</th>
+    <th>Doctor: Frecuencia</th>
+    <th>Doctor: Importancia</th>
+  </tr>
+  <tr>
+    <td>Buscar información sobre el cáncer</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar citas médicas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicarse con especialistas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registrar y monitorear medicamentos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Seguimiento del progreso del paciente	</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Coordinar con otros especialistas	</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Gestionar pagos y citas especiales</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+   <tr>
+    <td>Buscar apoyo psicológico	</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Revisar tratamientos anteriores	</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Acceder a recordatorios de tratamientos	</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <!-- Agrega más filas según sea necesario -->
+</table>
+<ul style="list-style-type: none;">
+      <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
+      En el proceso de desarrollo de OnContigo, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
+
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807137078" >
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
+
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807137420" >
+
+</ul>
+<ul style="list-style-type: none;">
+<il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
+      En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/JzlFH
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807147066" >
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807147389" >
+
+</ul>
+<il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
+
+**Segmento:Pacientes**
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807141226"/>
+
+**Segmento:Doctor Oncologo**
+<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807142812"/>
+   </ul>
+
+<il><h3><a href="./content/chapter-2/3-user-persona.md">2.4. Ubiquitous Language</a></h3></il>
+
+Esta es la parte donde se explicará el Ubiquitous Language. Este término hace referencia a un lenguaje común entre los desarrolladores y el dominio. En esta ocasión se va presentar un glosario con conceptos y términos comunes que se emplean en el ámbito de la oncología.
+
+1. **Tumor:** Una masa anormal de tejido que puede ser benigna o maligna.
+
+2. **Cáncer:** Un término general para enfermedades caracterizadas por el crecimiento descontrolado de células anormales que pueden invadir tejidos y propagarse a otras partes del cuerpo.
+
+3. **Metástasis:** La propagación del cáncer desde su sitio original a otro órgano del cuerpo.
+
+4. **Quimioterapia:** un tratamiento que utiliza medicamentos para destruir células cancerosas mediante el uso de fármacos.
+
+5. **Radioterapia:** Tratamiento que usa altas dosis de radiación para destruir células cancerosas.
+
+6. **Oncólogo:** Médico especializado en el diagnóstico y tratamiento del cáncer.
+
+7. **Biopsia:** Extracción de tejido para realizar exámenes bajo un microscopio con el fin de diagnósticar el cáncer.
+
+8. **Cuidados paliativos:** Atención médica que se centra en proporcionar alivio del dolor y otros síntomas de una enfermedad grave, como el cáncer.
