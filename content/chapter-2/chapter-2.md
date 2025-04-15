@@ -346,14 +346,12 @@ Gracias a las entrevistas realizadas, se pueden identificar los siguientes punto
 Segmento objetivo: Pacientes y familiares
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/p/tViVP
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807106084"/>
-
+![Image](https://github.com/user-attachments/assets/6dbdda41-00e7-451d-89fe-52a59f5610b2)
 Segmento objetivo: Oncólogos
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
 
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807124194" >
-
+![Image](https://github.com/user-attachments/assets/30ae05da-dc88-4c75-b28d-14d5e2c33ed6)
 </ul>
 <il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
       <table>
@@ -443,13 +441,13 @@ Segmento objetivo: Pacientes y familiares
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
 
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807137078" >
+![Image](https://github.com/user-attachments/assets/b2e0c990-7302-4272-ba78-ed49884cabda)
 
 Segmento objetivo: Oncólogos
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
 
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807137420" >
+![Image](https://github.com/user-attachments/assets/e889af07-0d42-4b0f-a672-b5c5c537e566)
 
 </ul>
 <ul style="list-style-type: none;">
@@ -457,22 +455,23 @@ Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
       En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
 
 Segmento objetivo: Pacientes y familiares
-
+![Image](https://github.com/user-attachments/assets/ff466ca2-f8cf-4104-a34f-ac26e0de71aa)
 Link de UXPressia: https://uxpressia.com/w/mDdvz/p/JzlFH
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807147066" >
-Segmento objetivo: Oncólogos
 
+Segmento objetivo: Oncólogos
+![Image](https://github.com/user-attachments/assets/6c72ffd7-e044-41e6-85a4-af57b6bcdab4)
 Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807147389" >
 
 </ul>
 <il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
 
 **Segmento:Pacientes**
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807141226"/>
+![Image](https://github.com/user-attachments/assets/2359f315-2417-46bc-9711-1b116608c478)
+
 
 **Segmento:Doctor Oncologo**
-<img src="https://github.com/OnControlUPC/Documentation-Report/issues/7#issuecomment-2807142812"/>
+![Image](https://github.com/user-attachments/assets/eb9d7f9c-07a7-49c1-8e80-9939f8f99ea1)
+
    </ul>
 
 <il><h3><a href="./content/chapter-2/3-user-persona.md">2.4. Ubiquitous Language</a></h3></il>
