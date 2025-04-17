@@ -264,10 +264,21 @@
 
   <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.2. Registro de entrevistas</a></h3></il>
 
-**Enlace al video: [Registro de entrevistas.mp4]** <br>
-**Duración total:**
+**Enlace al video: [Registro de entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EaQxW83LreNLg6xH_n5nAmEB0Ura-UXBJVreD38ecBwcnw?e=7eddS4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)** <br>
+**Duración total:** 1:11:35
 
-
+**Entrevistado N°1 :** Ramos Calagua Sebastian Alexander <br>
+**Segmento objetivo :** Paciente oncológicos y sus familiares <br>
+<img src="https://github.com/user-attachments/assets/af804ed3-098f-4eef-b9c9-cad16fca50e4"/> <br>
+**Sexo:** Masculino <br>
+**Edad:** 22 años <br>
+**Ubicación en la que vive:** Surco <br> 
+**Acerca de la entrevista:** Estudiante Ing de software de la UPC <br>
+**Estado y Composición familiar:** Soltero y actualmente vive con sus padres y hermanos <br>
+**Instante en el que inicia:** 0:00 <br>
+**Duración:** 10:42 <br> 
+**Resumen:** <br>
+Se destaca la importancia de la certificación y confianza en los profesionales de la salud, así como la necesidad de respuestas rápidas y actualizadas. El impacto emocional del cáncer en el paciente y su familia resalta la necesidad de apoyo psicológico. Además, se demanda una mayor personalización, incluyendo recordatorios específicos y acceso a información confiable sobre restricciones alimentarias. La simplicidad y facilidad de uso son esenciales, junto con una comunicación efectiva y regular entre pacientes y profesionales de la salud, incluido el reporte de estado de paciente. También se resalta la importancia de la seguridad y confidencialidad de la información médica, garantizando que la aplicación y servicio de salud sean seguros y protejan la privacidad de los usuarios. <br> <br>
 
 **Entrevistado N°2 :** Raymundo Sernaque <br>
 **Segmento objetivo :** Médico Oncólogo <br>
