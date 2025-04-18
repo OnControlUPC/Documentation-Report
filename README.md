@@ -98,7 +98,7 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 
    | **Integrantes**              | **Objetivos**|
 |------------------------------|--|
-| Williams Gongora Castillejos | ss |
+| Williams Gongora Castillejos | |
 | Quique Vladimir Jara Benites | Realizar pruebas de usabilidad con al menos 20 usuarios reales para obtener feedback sobre la interfaz y la experiencia de usuario, en un plazo de 1 mes. |
 | Quispe Roldan Michael Fred   |  |
 |                              |  |
@@ -113,7 +113,9 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
    <a href="./chapter-1/1-startup-profile.md">Next</a>
    &gt;
    </br></br>
-<div style="font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto;">
+</div>
+
+<div style="font-family: sans-serif; padding: 5rem; max-width: 800px; margin: auto;">
   <h1><a href="./content/chapter-1/chapter-1.md">Capítulo I: Presentación</a></h1>
   <h3><a href="./content/chapter-1/chapter-1.md">1.1. Startup Profile</a></h3>
   <p><a href="./content/chapter-1/chapter-1.md">1.1.1. Descripción de la Startup</a></p>
