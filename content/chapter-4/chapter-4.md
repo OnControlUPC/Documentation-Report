@@ -171,3 +171,9 @@ Esta capa contiene las implementaciones concretas para interactuar con tecnolog�
 * **`S3FileStorageService` / `LocalStorageFileStorageService`**: Implementa `IFileStorageService`.
 * **`KafkaEventConsumer` / `RabbitMqEventConsumer`**: Implementa lógica de suscripción y despacho de eventos externos.
 
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.5. Bounded Context Software Architecture Component Level Diagrams</a></h3></il> 
+
+Este diagrama ilustra la descomposición del Container del Chat en sus componentes principales y sus interacciones.
+
+![Component Level Diagrams](https://github.com/user-attachments/assets/3f0b6f9b-8b3b-4733-92d4-1178d683199e)
