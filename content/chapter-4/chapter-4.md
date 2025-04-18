@@ -109,3 +109,26 @@ Esta capa contiene el núcleo del modelo de negocio y las reglas específicas de
 * **`IAttachmentRepository`**
     * **Propósito:** Define el contrato para la persistencia de entidades `Attachment`.
     * **Métodos:** `save(attachment)`, `findById(id)`, `findByMessageId(messageId)`.
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.2. Interface Layer</a></h3></il>
+
+
+Esta capa expone la funcionalidad del Bounded Context al exterior, ya sea a través de APIs o consumiendo eventos de otros contextos.
+
+### Controllers (Controladores - para API REST)
+
+* **`ChatController`**
+    * **Propósito:** Maneja las solicitudes HTTP entrantes relacionadas con conversaciones y mensajes.
+    * **Métodos (Endpoints):**
+        * `GET /conversations`: Obtiene la lista de conversaciones para el usuario autenticado.
+        * `GET /conversations/{conversationId}/messages`: Obtiene los mensajes de una conversación específica (paginado).
+        * `POST /conversations/{conversationId}/messages`: Envía un nuevo mensaje.
+        * `POST /conversations/{conversationId}/messages/read`: Marca mensajes como leídos.
+        * `POST /conversations`: (Opcional) Inicia una nueva conversación.
+        * `POST /conversations/{conversationId}/archive`: Archiva una conversación.
+* **`AttachmentController`**
+    * **Propósito:** Maneja las solicitudes HTTP para la carga y descarga de archivos adjuntos.
+    * **Métodos (Endpoints):**
+        * `POST /messages/{messageId}/attachments`: Sube un archivo adjunto.
+        * `GET /attachments/{attachmentId}`: Descarga un archivo adjunto.
