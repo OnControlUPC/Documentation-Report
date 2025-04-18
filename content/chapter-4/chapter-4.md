@@ -132,3 +132,24 @@ Esta capa expone la funcionalidad del Bounded Context al exterior, ya sea a trav
     * **Métodos (Endpoints):**
         * `POST /messages/{messageId}/attachments`: Sube un archivo adjunto.
         * `GET /attachments/{attachmentId}`: Descarga un archivo adjunto.
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.3. Application Layer</a></h3></il>
+
+Esta capa orquesta los casos de uso y flujos de trabajo, conectando la Interface Layer con el Domain Layer.
+
+### Command Handlers (Manejadores de Comandos)
+
+* **`SendMessageCommandHandler`**
+    * **Propósito:** Procesa el comando para enviar un mensaje.
+    * **Lógica:** Valida, crea `Message`, actualiza `Conversation`, guarda, publica `MessageSentEvent`.
+* **`MarkMessagesAsReadCommandHandler`**
+    * **Propósito:** Procesa el comando para marcar mensajes como leídos.
+    * **Lógica:** Actualiza `Message` y `Conversation`, guarda, publica `MessagesReadEvent`.
+* **`UploadAttachmentCommandHandler`**
+    * **Propósito:** Procesa el comando para adjuntar un archivo.
+    * **Lógica:** Guarda archivo (vía Infra), crea/actualiza `Attachment`, guarda.
+* **`ArchiveConversationCommandHandler`**
+    * **Propósito:** Procesa el comando para archivar una conversación.
+    * **Lógica:** Llama a `conversation.archive()`, guarda, publica `ConversationArchivedEvent`.
+
