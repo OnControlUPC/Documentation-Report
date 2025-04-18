@@ -153,3 +153,21 @@ Esta capa orquesta los casos de uso y flujos de trabajo, conectando la Interface
     * **Propósito:** Procesa el comando para archivar una conversación.
     * **Lógica:** Llama a `conversation.archive()`, guarda, publica `ConversationArchivedEvent`.
 
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.4. Infrastructure Layer</a></h3></il>
+
+Esta capa contiene las implementaciones concretas para interactuar con tecnologías externas (bases de datos, servicios de almacenamiento, colas de mensajes, etc.).
+
+### Repository Implementations (Implementaciones de Repositorios)
+
+* **`SqlConversationRepository`**: Implementa `IConversationRepository`.
+* **`SqlMessageRepository`**: Implementa `IMessageRepository`.
+* **`SqlAttachmentRepository`**: Implementa `IAttachmentRepository`.
+
+### External Service Implementations (Implementaciones de Servicios Externos)
+
+* **`DatabaseClient`**: Implementacion del cliente de BD.
+* **`FirebasePushNotificationSender` / `EmailNotificationSender`**: Implementa `INotificationSender`.
+* **`S3FileStorageService` / `LocalStorageFileStorageService`**: Implementa `IFileStorageService`.
+* **`KafkaEventConsumer` / `RabbitMqEventConsumer`**: Implementa lógica de suscripción y despacho de eventos externos.
+
