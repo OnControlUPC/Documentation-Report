@@ -113,172 +113,61 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
    <a href="./chapter-1/1-startup-profile.md">Next</a>
    &gt;
    </br></br>
+<div style="font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto;">
+  <h1><a href="./content/chapter-1/chapter-1.md">Capítulo I: Presentación</a></h1>
+  <h3><a href="./content/chapter-1/chapter-1.md">1.1. Startup Profile</a></h3>
+  <p><a href="./content/chapter-1/chapter-1.md">1.1.1. Descripción de la Startup</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.1.2. Perfiles de integrantes del equipo</a></p>
+  <h3><a href="./content/chapter-1/chapter-1.md">1.2. Solution Profile</a></h3>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.1. Antecedentes y problemática</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.2. Lean UX Process</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.2.1. Lean UX Problem Statements</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.2.2. Lean UX Assumptions</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.2.3. Lean UX Hypothesis Statements</a></p>
+  <p><a href="./content/chapter-1/chapter-1.md">1.2.2.4. Lean UX Canvas</a></p>
+  <h3><a href="./content/chapter-1/chapter-1.md">1.3. Segmentos objetivo</a></h3>
+
+  <h1><a href="./content/chapter-2/chapter-2.md">Capítulo II: Requirements Elicitation & Analysis</a></h1>
+  <h3><a href="./content/chapter-2/chapter-2.md">2.1. Competidores</a></h3>
+  <p><a href="./content/chapter-2/chapter-2.md">2.1.1. Análisis competitivo</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.1.2. Estrategias y tácticas frente a competidores</a></p>
+  <h3><a href="./content/chapter-2/chapter-2.md">2.2. Entrevistas</a></h3>
+  <p><a href="./content/chapter-2/chapter-2.md">2.2.1. Diseño de entrevistas</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.2.2. Registro de entrevistas</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.2.3. Análisis de entrevistas</a></p>
+  <h3><a href="./content/chapter-2/chapter-2.md">2.3. Needfinding</a></h3>
+  <p><a href="./content/chapter-2/chapter-2.md">2.3.1. User Personas</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.3.2. User Task Matrix</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></p>
+  <p><a href="./content/chapter-2/chapter-2.md">2.3.5. As-is Scenario Mapping</a></p>
+  <h3><a href="./content/chapter-2/chapter-2.md">2.4. Ubiquitous Language</a></h3>
+
+  <h1><a href="./content/chapter-3/chapter-3.md">Capítulo III: Requirements Specification</a></h1>
+  <p><a href="./content/chapter-3/chapter-3.md">3.1. To-Be Scenario Mapping</a></p>
+  <p><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></p>
+  <p><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></p>
+  <p><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></p>
+
+  <h1><a href="./content/chapter-4/chapter-4.md">Capítulo IV: Solution Software Design</a></h1>
+  <h3><a href="./content/chapter-4/chapter-4.md">4.1. Strategic-Level Domain-Driven Design</a></h3>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.1. EventStorming</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.1.1. Candidate Context Discovery</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.1.2. Domain Message Flows Modeling</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.1.3. Bounded Context Canvases</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.2. Context Mapping</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.3. Software Architecture</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.3.1. Software Architecture Context Level Diagrams</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.3.2. Software Architecture Container Level Diagrams</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.1.3.3. Software Architecture Deployment Diagrams</a></p>
+  <h3><a href="./content/chapter-4/chapter-4.md">4.2. Tactical-Level Domain-Driven Design</a></h3>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X. Bounded Context: &lt;Bounded Context Name&gt;</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.1. Domain Layer</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.2. Interface Layer</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.3. Application Layer</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.4. Infrastructure Layer</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.5. Bounded Context Software Architecture Component Level Diagrams</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a></p>
+  <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.2. Bounded Context Database Design Diagram</a></p>
 </div>
-   <li><h1><a href="./content/chapter-1/chapter-1.md">Capítulo I: Introducción</a></h1></li>
-   <li><h3><a href="./content/chapter-1/chapter-1.md">1.1. Startup Profile</a></h3></li>
-   <ul style="list-style-type: none;">
-      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.1.  Descripción de la Startup</a></h3></li>
-</ul>
-<ul style="list-style-type: none;">
-      <li><h3><a href="./content/chapter-1/chapter-1.md">1.1.2. Perfiles de integrantes del equipo</a></h3></li>
-   </ul>
-   <li><h3><a href="./content/chapter-1/chapter-1.md">1.2. Solution Profile</a></h3></li>
-   <ul>
-      <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.1 Antecedentes y problemática</a></h3></il>
-      <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.2 Lean UX Process</a></h3>
-      </il>
-          <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.2.1. Lean UX Problem Statements</a></h3></il>
-         <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.2.2. Lean UX Assumptions</a></h3></il>
-         <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
-         <il><h3><a href="./content/chapter-1/chapter-1.md">1.2.2.4. Lean UX Canvas</a></h3></il>
-      </ul>
-   </ul>
-<ul style="list-style-type: none;">
-   <li><h3><a href="./content/chapter-1/chapter-1.md">1.3. Segmentos objetivo</a></h3></li>
-</ul>
-<il><h1><a href="./content/chapter-2/chapter-2.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
-<li><h3><a href="./content/chapter-2/chapter-2.md">2.1. Competidores</a></h3></li>
-
-   <ul>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.1.1. Análisis competitivo</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-2/chapter-2.md">2.2. Entrevistas</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.2.1. Diseño de entrevistas</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.2.2. Registro de entrevistas</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.2.3. Análisis de entrevistas</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-2/chapter-2.md">2.3. Needfinding</a></h3></il>
-   <ul>
-<ul style="list-style-type: none;">
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.1. User Personas</a></h3></il>
-      
-
-</ul>
-<il><h3><a href="./content/chapter-2/chapter-2.md">2.3.2. User Task Matrix</a></h3></il>
-      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></h3></il>
-</ul>      
-<ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
-</ul>      
-<il><h3><a href="./content/chapter-2/chapter-2.md">2.3.5. As-is Scenario Mapping</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-2/chapter-2.md">2.4. Ubiquitous Language</a></h3></il>
-
-<il><h1><a href="./content/chapter-3/chapter-3.md">Capítulo III: Requirements Specification</a></h1></il>
-<il><h3><a href="./content/chapter-3/chapter-3.md">3.1. To-Be Scenario Mapping</a></h3></il>
-<il><h3><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></h3></il>
-<ul style="list-style-type: none;">
-<il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
-
-
-</ul>
-<il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
-
-<il><h1><a href="./content/chapter-4/chapter-4.md">Capítulo IV: Product Design</a></h1></il>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.1. Style Guidelines</a></h3></il>
-
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1. General Style Guidelines</a></h3></il>
-      <il><h3><a href="">4.1.2. Web Style Guidelines</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2. Information Architecture</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1. Organization Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2. Labeling Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3. SEO Tags and Meta Tags</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.4. Searching Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.5. Navigation Systems</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.3. Landing Page UI Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.1. Landing Page Wireframe</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.2. Landing Page Mock-up</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.4. Web Applications UX/UI Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.1. Web Applications Wireframes</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4//chapter-4.md">4.4.3. Web Applications Mock-ups</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.6. Domain-Driven Software Architecture</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.1. Software Architecture Context Diagram</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.2. Software Architecture Container Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.3. Software Architecture Components Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.7. Software Object-Oriented Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.1. Class Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.2. Class Dictionary</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.8. Database Design</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.8.1. Database Diagram</a></h3></il>
-   </ul>
-
-<il><h1><a href="./content/chapter-5.1/chapter-5.1.md">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
-<il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1. Software Configuration Management</a></h3></il>
-
-   <ul>
-      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.1. Software Development Environment Configuration</a></h3></il>
-      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.2. Source Code Management</a></h3></il>
-      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
-      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.4. Software Deployment Configuration</a></h3></il>
-   </ul>
-<il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
-   <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
-      <ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
-      </ul>
-   </ul>
-      <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
-      <ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
-      </ul>
-   </ul>
-      <ul>
-      <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1. Sprint 2</a></h3></il>
-      <ul>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.1. Sprint Planning 2</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.2. Sprint Backlog 2</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
-      </ul>
-   </ul>
-       <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3 Validation Interviews</a></h3></il>
-      <ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.1. Diseño de Entrevista</a></h3></il>
-          <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.2. Registro de Entrevista</a></h3></il>
-           <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
-      </ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.4 Video About The Product</a></h3></il>
-      <ul>
-      </ul>
-   </ul>
-</ul>
- 
-
-
