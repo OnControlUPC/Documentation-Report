@@ -182,3 +182,9 @@ Este diagrama ilustra la descomposición del Container del Chat en sus component
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
 
 Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la implementación de los componentes del Bounded Context de Chat.
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a></h3></il>
+
+Este diagrama de clases del dominio proporciona una vista detallada de los elementos clave del modelo de negocio del Chat. Se representan las entidades con sus atributos y comportamientos, el objeto de valor `MessageType`, y las interfaces de los repositorios.
+
+![ClassDiagram_Chat](https://github.com/user-attachments/assets/571f6a04-45ae-4003-b36c-6fb4ab2c1db5)
