@@ -177,3 +177,8 @@ Esta capa contiene las implementaciones concretas para interactuar con tecnolog�
 Este diagrama ilustra la descomposición del Container del Chat en sus componentes principales y sus interacciones.
 
 ![Component Level Diagrams](https://github.com/user-attachments/assets/3f0b6f9b-8b3b-4733-92d4-1178d683199e)
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
+
+Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la implementación de los componentes del Bounded Context de Chat.
