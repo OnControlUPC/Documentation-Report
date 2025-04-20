@@ -78,26 +78,25 @@ Notificaciones: Ambos, médicos y pacientes, deben recibir notificaciones de nue
   </tr>
     <tr>
     <td>EP06</td>
-    <td>Consultas virtuales
+    <td>
 </td>
-    <td>Como usuario general
-Quiero realizar consultas virtuales con mis pacientes
-Para poder darles esa facilidad.</td>
-    <td>Herramientas de Videoconferencia: Integración de herramientas de videoconferencia que permitan consultas virtuales en tiempo real.<br>
-Calendario de Citas: Integración con un calendario para programar y visualizar citas virtuales.<br>
-Acceso Seguro: Asegurar que las consultas virtuales sean seguras y privadas, cumpliendo con las normativas de privacidad y protección de datos.</td>
+    <td></td>
+    <td><br>
+<br>
+</td>
     <td>EP06</td>
   </tr>  <tr>
     <td>EP07</td>
-    <td>Gestión de información médica para pacientes</td>
-    <td>Como paciente
-Quiero tener acceso a con mayor detalle mi información médica
-Para estar informado
-
+    <td>Acceso a información médica relevante para el paciente</td>
+    <td>Como paciente Quiero acceder fácilmente a la información médica que se me ha proporcionado
+Para consultar mis consultas, medicamentos y tratamientos cuando lo necesite.</td>
 </td>
-    <td>Acceso Detallado a la Información Médica: Los pacientes deben tener acceso a su información médica detallada a través de la plataforma.<br>
-Actualizaciones en Tiempo Real: La información médica debe actualizarse en tiempo real a medida que los médicos ingresan nuevos datos.<br>
-Privacidad y Seguridad: La plataforma debe asegurar la privacidad y seguridad de los datos médicos de los pacientes.</td>
+    <td>Acceso a Información Médica Relevante:
+Los pacientes deben poder acceder a los detalles de sus consultas, medicamentos y tratamientos desde la aplicación, en cualquier momento.<br>
+Consulta de Medicamentos:
+Los pacientes deben visualizar los medicamentos que les han sido indicados, incluyendo nombre, dosis y frecuencia.<br>
+Revisión de Tratamientos:
+Los pacientes deben poder revisar los tratamientos que han recibido, con información clara sobre su propósito y duración.</td>
     <td>EP07</td>
   </tr>
     <tr>
@@ -307,7 +306,7 @@ Facilidad de Navegación: Los usuarios deben poder navegar fácilmente por la la
     <td>
       E01: Agendar una sesión virtual.<br>Dado que el médico se encuentra en el apartado de nueva cita<br>Cuando seleccione la opción “virtual”<br>Entonces se le abrirá la opción de colocar un link a la sala virtual que proporcione.
     </td>
-    <td>EP06</td>
+    <td>EP05</td>
 </tr>
 <tr>
     <td>US19</td>
