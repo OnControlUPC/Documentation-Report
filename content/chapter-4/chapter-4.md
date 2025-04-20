@@ -41,11 +41,25 @@ El diagrama completo se encuentra en el siguiente enlace:
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3. Software Architecture</a></h3></il>
 
+En esta sección mostraremos los diagramas del diseño de software de la aplicación OnControl, usando patrones de alto y bajo nivel:
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3.1. Software Architecture Context Level Diagrams</a></h3></il>
+
+En este diagrama podemos observar el contexto de nuestra aplicación, identificando el sistema y las relaciones con los diferentes tipos de usuarios que este presenta, además de otros sistemas externos y de terceros que son de ayuda para el desarrollo.
+
+![Image](https://github.com/user-attachments/assets/53b88efc-5bb9-45ba-a540-553e6a2781bb)
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3.2. Software Architecture Container Level Diagrams</a></h3></il>
 
+Este diagrama muestra los contenedores dentro del sistema de nuestra aplicación, con componentes de alto nivel que centra el enfoque hacia la arquitectura de nuestro software.
+
+![Image](https://github.com/user-attachments/assets/4ce8d409-ae71-4f31-9db0-9ad8083576b7)
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3.3. Software Architecture Deployment Diagrams</a></h3></il>
+
+Finalmente, se presenta un diagrama de componentes, en este caso, centrado al componente de Login de nuestro sistema, mostrando las implementaciones de los distintos servicios y responsabilidades de cada uno de ellos.
+
+![Image](https://github.com/user-attachments/assets/b59fa339-5580-468b-88c9-8e64cbe76538)
 
 <il><h2><a href="./content/chapter-4/chapter-4.md">4.2. Tactical-Level Domain-Driven Design</a></h2></il>
 
