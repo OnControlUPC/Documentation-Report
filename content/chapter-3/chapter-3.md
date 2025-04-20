@@ -14,6 +14,8 @@
 
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></h3></il>
 
+<il><h3><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></h3></il>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
