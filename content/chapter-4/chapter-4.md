@@ -4,7 +4,34 @@
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1. EventStorming</a></h3></il>
 
+Mediante la tecnica del event storming definimos los siguientes bounded context los cuales son principales dentro del proyecto:
+El diagrama completo se encuentra en el siguiente enlace:
+[Enlace](https://miro.com/welcomeonboard/RENPaXdVZVRsdU1xOTNOYXFVcmY4ZzBpKzFwb2Y4cUN1TmdLZkQvQ0pudVZsNWZKaG5DL1poeU0wV2ptem55SWtSVStLOXpBZ3J3cVN1MUswRjIzQW9XTkpIa2ROOTk0TEVTM21kR29MOWdSVnBaUFd1SFpWdEpJOHZ3Z3ZGc2h3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=994329467841)
+
+### Account Managed
+![Image](https://github.com/user-attachments/assets/e8c31e5f-ddf1-4f51-8720-32d5cc9e9bb4)
+
+### Treatment Managed
+![Image](https://github.com/user-attachments/assets/5417e257-4acc-466d-b7d8-509a1f600e26)
+
+### Comunication Managed
+![Image](https://github.com/user-attachments/assets/67954401-a663-456e-8722-e1dc9c94fec4)
+
+### Calendar Managed
+![Image](https://github.com/user-attachments/assets/44e2a840-14dd-4aeb-8d7d-dda4fc9c9da8)
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1.1. Candidate Context Discovery</a></h3></il>
+![Image](https://github.com/user-attachments/assets/da3b2c4d-c1e2-4145-b18d-00eb8eabea3c)
+![Image](https://github.com/user-attachments/assets/3b42a571-4390-4384-8248-5f6669ed6baa)
+![Image](https://github.com/user-attachments/assets/2345dc02-02de-470a-ac7e-c9bf62284858)
+![Image](https://github.com/user-attachments/assets/61c191c6-c639-4453-97fe-4839723c4f1b)
+![Image](https://github.com/user-attachments/assets/b5e97564-f933-4e30-8d8d-f5f1601215e9)
+![Image](https://github.com/user-attachments/assets/3df6939c-074c-4d7a-a1b3-59d2e10491ca)
+![Image](https://github.com/user-attachments/assets/7db7c4c1-3db6-44a2-82c7-7b5431bcc452)
+![Image](https://github.com/user-attachments/assets/9d7ffc30-46f7-4b4b-a758-49bd589379dd)
+![Image](https://github.com/user-attachments/assets/8728d14a-62d4-41df-b90c-56659314a272)
+![Image](https://github.com/user-attachments/assets/9b205f02-f2c5-43eb-a142-6ae2f5966fbb)
+
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1.2. Domain Message Flows Modeling</a></h3></il>
 
