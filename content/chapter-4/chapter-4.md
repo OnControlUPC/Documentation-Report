@@ -22,12 +22,12 @@
 
 <il><h2><a href="./content/chapter-4/chapter-4.md">4.2. Tactical-Level Domain-Driven Design</a></h2></il>
 
-<il><h2><a href="./content/chapter-4/chapter-4.md">4.2.X. Bounded Context: Chat</a></h2></il>
+<il><h2><a href="./content/chapter-4/chapter-4.md">4.2.1. Bounded Context: Chat</a></h2></il>
 
 Este Bounded Context (BC) encapsula la funcionalidad de mensajería directa entre médicos y pacientes dentro de la aplicación oncológica. Su responsabilidad principal es gestionar las conversaciones, los mensajes, los participantes y las notificaciones relacionadas, asegurando una comunicación fluida y registrada como soporte al seguimiento del tratamiento y la coordinación de cuidados.
 
 
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.1. Domain Layer</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.1. Domain Layer</a></h3></il>
 
 Esta capa contiene el núcleo del modelo de negocio y las reglas específicas del dominio de Chat. Se compone de las siguientes clases y abstracciones:
 
@@ -111,7 +111,7 @@ Esta capa contiene el núcleo del modelo de negocio y las reglas específicas de
     * **Métodos:** `save(attachment)`, `findById(id)`, `findByMessageId(messageId)`.
 
 <br>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.2. Interface Layer</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.2. Interface Layer</a></h3></il>
 
 
 Esta capa expone la funcionalidad del Bounded Context al exterior, ya sea a través de APIs o consumiendo eventos de otros contextos.
@@ -134,7 +134,7 @@ Esta capa expone la funcionalidad del Bounded Context al exterior, ya sea a trav
         * `GET /attachments/{attachmentId}`: Descarga un archivo adjunto.
 
 <br>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.3. Application Layer</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.3. Application Layer</a></h3></il>
 
 Esta capa orquesta los casos de uso y flujos de trabajo, conectando la Interface Layer con el Domain Layer.
 
@@ -154,7 +154,7 @@ Esta capa orquesta los casos de uso y flujos de trabajo, conectando la Interface
     * **Lógica:** Llama a `conversation.archive()`, guarda, publica `ConversationArchivedEvent`.
 
 <br>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.4. Infrastructure Layer</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.4. Infrastructure Layer</a></h3></il>
 
 Esta capa contiene las implementaciones concretas para interactuar con tecnologías externas (bases de datos, servicios de almacenamiento, colas de mensajes, etc.).
 
@@ -172,25 +172,145 @@ Esta capa contiene las implementaciones concretas para interactuar con tecnolog�
 * **`KafkaEventConsumer` / `RabbitMqEventConsumer`**: Implementa lógica de suscripción y despacho de eventos externos.
 
 <br>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.5. Bounded Context Software Architecture Component Level Diagrams</a></h3></il> 
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.5. Bounded Context Software Architecture Component Level Diagrams</a></h3></il> 
 
 Este diagrama ilustra la descomposición del Container del Chat en sus componentes principales y sus interacciones.
 
 ![Component Level Diagrams](https://github.com/user-attachments/assets/3f0b6f9b-8b3b-4733-92d4-1178d683199e)
 
 <br>
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
 
 Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la implementación de los componentes del Bounded Context de Chat.
 
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.6.1. Bounded Context Domain Layer Class Diagrams</a></h3></il>
 
 Este diagrama de clases del dominio proporciona una vista detallada de los elementos clave del modelo de negocio del Chat. Se representan las entidades con sus atributos y comportamientos, el objeto de valor `MessageType`, y las interfaces de los repositorios.
 
 ![ClassDiagram_Chat](https://github.com/user-attachments/assets/571f6a04-45ae-4003-b36c-6fb4ab2c1db5)
 
-<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.6.X.2. Bounded Context Database Design Diagram</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.6.2. Bounded Context Database Design Diagram</a></h3></il>
 
 Este diagrama de diseño de la base de datos detalla el esquema de persistencia para el Bounded Context de Chat. Se especifican las tablas requeridas para almacenar las conversaciones, los mensajes y los archivos adjuntos, así como sus columnas, tipos de datos, restricciones y las relaciones entre ellas.
 
 ![BasedeDatos_Chat](https://github.com/user-attachments/assets/57870fa2-19ec-4bba-9042-682d30ee31fb)
+
+
+<il><h2><a href="./content/chapter-4/chapter-4.md">4.2.2. Bounded Context: Usuario</a></h2></il>
+
+Este Bounded Context (BC) encapsula la funcionalidad relacionada con la gestión de usuarios dentro de la aplicación OnContigo. Su responsabilidad principal es representar a los actores principales del sistema (médicos y pacientes), registrar sus datos personales y especializaciones, manejar su autenticación, y permitir funcionalidades clave como el registro de pacientes o la asignación de tratamientos por parte de los médicos. Este contexto también permite a los pacientes acceder y revisar su información médica.
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.1. Domain Layer</a></h3></il>
+
+
+### Aggregates / Aggregate Roots
+
+* **Usuario** (Aggregate Root)
+    * **Propósito:** Representa un usuario del sistema (médico o paciente). Contiene información común y opera como entrada principal de operaciones.
+
+### Entities
+
+* **Usuario**
+    * **Atributos:**
+        * `nombre` (String) - Nombre del usuario.
+        * `apellido` (String) - Apellido del usuario.
+        * `contrasenha` (String) - Contraseña encriptada del usuario.
+        * `numeroTelefono` (String) - Número de teléfono.
+        * `email` (String) - Correo electrónico del usuario.
+    * **Métodos:**
+        * `registrarCita(cita, nombre, apellido)`
+
+* **Paciente** (hereda de Usuario)
+    * **Métodos:**
+        * `revisarHistorial(historialMedico)`
+        * `agregarMedicamento(nombreMedicamento)`
+
+* **Medico** (hereda de Usuario)
+    * **Atributos:**
+        * `especializacion` (String)
+    * **Métodos:**
+        * `revisarHistorialPaciente(nombre, apellido)`
+        * `registrarPaciente(nombre, apellido)`
+        * `asignarMedicamentoPaciente(...)`
+        * `asignarTratamientoPaciente(...)`
+        * `asignarProcedimientoPaciente(...)`
+
+### Domain Services
+
+* **UsuarioPolicy**
+    * **Propósito:** Encapsular reglas de negocio como validación de identidad de usuario, rol o permisos de acceso.
+
+### Repositories
+
+* **IUsuarioRepository**
+    * `findById(id)`
+    * `add(usuario)`
+    * `update(usuario)`
+    * `remove(id)`
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.2. Interface Layer</a></h3></il>
+
+### Controllers
+
+* **UsuarioController**
+    * **Propósito:** Exponer la lógica relacionada al registro y administración de usuarios.
+    * **Endpoints:**
+        * `GET /usuarios`: Obtener lista de usuarios.
+        * `POST /usuarios`: Registrar nuevo usuario.
+        * `PUT /usuarios/{id}`: Actualizar datos de un usuario.
+        * `DELETE /usuarios/{id}`: Eliminar un usuario.
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1.3. Application Layer</a></h3></il>
+
+### Command Handlers
+
+* **RegisterUsuarioCommandHandler**
+    * Procesa el registro de un usuario nuevo.
+
+* **LoginUsuarioCommandHandler**
+    * Procesa el inicio de sesión del usuario.
+
+* **LogoutUsuarioCommandHandler**
+    * Procesa el cierre de sesión del usuario.
+
+### Event Handlers
+
+* **UsuarioRegistradoEventHandler**
+    * Maneja el evento luego del registro de usuario.
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.4. Infrastructure Layer</a></h3></il>
+
+### Repository Implementations
+
+* **UsuarioRepository**: Implementación concreta de `IUsuarioRepository`.
+    * `ListByIdAsync()`
+    * `AddAsync()`
+    * `Update()`
+    * `Remove()`
+
+### External Infrastructure
+
+* **AppDbContext**
+    * `DbSet<Usuario>`: Tabla de usuarios.
+
+
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.5. Bounded Context Software Architecture Component Level Diagrams</a></h3></il> 
+
+![ComponentLevelDiagrams_usuario](https://github.com/user-attachments/assets/bbc7d312-aa98-43d9-a7cf-5a51f72e617a)
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
+
+Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la implementación de los componentes del Bounded Context de Usuario.
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.6.1. Bounded Context Domain Layer Class Diagrams</a></h3></il>
+![ClassDiagram_Usuario](https://github.com/user-attachments/assets/00a20a71-d7a5-4b45-97b2-83e9d05d69f9)
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.6.2. Bounded Context Database Design Diagram</a></h3></il>
+
+![BasedeDatos_Usuario](https://github.com/user-attachments/assets/70f2f5ec-2309-4da6-91ba-8131fe0853ce)
