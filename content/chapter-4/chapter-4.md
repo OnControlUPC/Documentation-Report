@@ -357,3 +357,135 @@ Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.6.2. Bounded Context Database Design Diagram</a></h3></il>
 
 ![BasedeDatos_Usuario](https://github.com/user-attachments/assets/70f2f5ec-2309-4da6-91ba-8131fe0853ce)
+
+
+<il><h2><a href="./content/chapter-4/chapter-4.md">4.2.3. Bounded Context: Tratamiento</a></h2></il>
+
+Este Bounded Context (BC) gestiona la creación, seguimiento y modificación de tratamientos oncológicos, incluyendo asignación de terapias, control de medicamentos y coordinación entre profesionales médicos.
+
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.1. Domain Layer</a></h3></il>
+
+**Aggregates (Agregados)**  
+**Tratamiento** (Aggregate Root)  
+- **Propósito**: Coordina todas las entidades y reglas asociadas a un plan terapéutico.  
+- **Atributos**:  
+  - `id` (UUID): Identificador único (PK)  
+  - `pacienteId` (UUID): ID del paciente asociado  
+  - `medicoId` (UUID): ID del médico responsable  
+  - `tipo` (TipoTratamiento): Tipo de tratamiento (VO)  
+  - `estado` (EstadoTratamiento): Activo/Pausado/Completado (VO)  
+  - `fechaInicio` (DateTime): Fecha de inicio  
+  - `ultimaModificacion` (DateTime): Última actualización  
+- **Métodos**:  
+  - `agregarProcedimiento(procedimiento: Procedimiento)`: Añade un procedimiento al plan  
+  - `validarCompatibilidadMedicamentos()`: Detecta interacciones farmacológicas  
+  - `marcarComoCompletado()`: Cambia el estado a "Completado"  
+
+**Entities (Entidades)**  
+**Procedimiento**  
+- **Propósito**: Representa una intervención médica programada.  
+- **Atributos**:  
+  - `id` (UUID): Identificador único (PK)  
+  - `tratamientoId` (UUID): ID del tratamiento asociado (FK)  
+  - `tipo` (TipoProcedimiento): Quimioterapia/Radioterapia/etc. (VO)  
+  - `fechaProgramada` (DateTime): Fecha de ejecución  
+
+**Medicación**  
+- **Propósito**: Gestiona la administración de fármacos.  
+- **Atributos**:  
+  - `id` (UUID): Identificador único (PK)  
+  - `tratamientoId` (UUID): ID del tratamiento asociado (FK)  
+  - `dosis` (DosisVO): Cantidad y frecuencia (VO)  
+  - `viaAdministracion` (String): Oral/Intravenosa/etc.  
+
+**Value Objects (Objetos de Valor)**  
+- **TipoTratamiento**: `Quimioterapia`, `Radioterapia`, `Inmunoterapia`  
+- **EstadoTratamiento**: `Activo`, `Pausado`, `Completado`  
+- **DosisVO**:  
+  - `valor` (Decimal): Cantidad numérica  
+  - `unidad` (String): mg/ml/unidades  
+  - `frecuencia` (String): Diaria/Semanal  
+
+**Domain Services (Servicios de Dominio)**  
+- **ValidadorInteracciones**:  
+  - Verifica interacciones entre medicamentos usando bases farmacológicas.  
+- **GeneradorAlertas**:  
+  - Crea notificaciones automáticas por dosis incorrectas o cambios de estado.  
+
+**Repositories (Interfaces)**  
+- **ITratamientoRepository**:  
+  - `save(tratamiento: Tratamiento)`, `findById(id: UUID)`, `findByPacienteId(pacienteId: UUID)`  
+- **IProcedimientoRepository**:  
+  - `save(procedimiento: Procedimiento)`, `findByTratamientoId(tratamientoId: UUID)`  
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.2. Interface Layer</a></h3></il>
+
+
+**Controllers (API REST)**  
+**TratamientoController**  
+- **Endpoints**:  
+  - `POST /tratamientos`: Crea un nuevo tratamiento  
+  - `PUT /tratamientos/{id}/procedimientos`: Añade procedimiento al tratamiento  
+  - `PATCH /tratamientos/{id}/estado`: Actualiza estado (Activo/Pausado)  
+
+**Eventos Consumidos**  
+- **NuevaInteraccionFarmacologica**:  
+  - Actualiza tratamientos con medicamentos afectados.  
+- **HistorialMedicoActualizado**:  
+  - Recalcula restricciones de tratamiento.
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.3. Application Layer</a></h3></il>
+
+**Command Handlers**  
+- **ProgramarProcedimientoHandler**:  
+  1. Valida disponibilidad de recursos médicos  
+  2. Ejecuta `tratamiento.agregarProcedimiento()`  
+  3. Publica `ProcedimientoProgramadoEvent`  
+
+- **ActualizarDosisHandler**:  
+  1. Verifica rangos seguros de dosificación  
+  2. Actualiza entidad Medicación  
+  3. Genera alertas si hay anomalías  
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.4. Infrastructure Layer</a></h3></il>
+
+**Repository Implementations**  
+- **TratamientoPostgresRepository**:  
+  - Implementa `ITratamientoRepository` usando PostgreSQL.  
+- **ProcedimientoMongoRepository**:  
+  - Implementa `IProcedimientoRepository` usando MongoDB.  
+
+**External Services**  
+- **FarmaciaService**:  
+  - Consulta interacciones medicamentosas en tiempo real vía API.  
+- **SistemaArchivosMedicos**:  
+  - Almacena documentos clínicos relacionados con tratamientos.  
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.5. Bounded Context Software Architecture Component Level Diagrams</a></h3></il> 
+
+Este diagrama ilustra la descomposición del Container de Tratamiento en sus componentes principales y sus interacciones.
+
+![Component Level Diagrams]()
+
+<br>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
+
+Esta sección presenta diagramas que ofrecen un mayor nivel de detalle sobre la implementación de los componentes del Bounded Context de Tratamiento.
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.6.1. Bounded Context Domain Layer Class Diagrams</a></h3></il>
+
+Este diagrama de clases del dominio proporciona una vista detallada de los elementos clave del modelo de negocio del Tratamiento. Se representan las entidades con sus atributos y comportamientos y las interfaces de los repositorios.
+
+![ClassDiagram_Chat](https://github.com/user-attachments/assets/d8026949-3ea9-49a4-b19a-2dfcfcf4bee2)
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.6.2. Bounded Context Database Design Diagram</a></h3></il>
+
+Este diagrama de diseño de la base de datos detalla el esquema de persistencia para el Bounded Context de Tratamiento. Se especifican las tablas requeridas para almacenar los pacientes , los procedimientos, las medicaciones y los tratamientos, así como sus columnas, tipos de datos, restricciones y las relaciones entre ellas.
+
+![BasedeDatos_Chat](https://github.com/user-attachments/assets/7bfe88b8-5d68-464a-b465-c53f54beb213)
+
