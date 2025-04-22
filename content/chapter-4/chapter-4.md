@@ -35,6 +35,8 @@ El diagrama completo se encuentra en el siguiente enlace:
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1.2. Domain Message Flows Modeling</a></h3></il>
 
+![Image](https://github.com/user-attachments/assets/3378b7b6-3c84-4351-a539-7f44a1fd6a3f)
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1.3. Bounded Context Canvases</a></h3></il>
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.2. Context Mapping</a></h3></il>
