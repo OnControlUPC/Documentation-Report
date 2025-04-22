@@ -59,18 +59,18 @@
       <td>EP05</td>
     </tr>
     <tr>
-      <td>EP07</td>
+      <td>EP06</td>
       <td>Acceso a información médica relevante para el paciente</td>
       <td>Como paciente Quiero acceder fácilmente a la información médica que se me ha proporcionado Para consultar mis consultas, medicamentos y tratamientos cuando lo necesite.</td>
       <td>Acceso a Información Médica Relevante: Los pacientes deben poder acceder a los detalles de sus consultas, medicamentos y tratamientos desde la aplicación, en cualquier momento.<br>Consulta de Medicamentos: Los pacientes deben visualizar los medicamentos que les han sido indicados, incluyendo nombre, dosis y frecuencia.<br>Revisión de Tratamientos: Los pacientes deben poder revisar los tratamientos que han recibido, con información clara sobre su propósito y duración.</td>
-      <td>EP07</td>
+      <td>EP06</td>
     </tr>
     <tr>
-      <td>EP08</td>
+      <td>EP07</td>
       <td>Visualización de la Landing Page</td>
       <td>Como paciente Quiero visualizar la landing page Para tener una primera impresión de la aplicación</td>
       <td>Diseño Atractivo: La landing page debe tener un diseño atractivo y profesional que ofrezca una buena primera impresión.<br>Información Clave Visible: La landing page debe contener información clave sobre la aplicación, incluyendo características y beneficios para los usuarios.<br>Facilidad de Navegación: Los usuarios deben poder navegar fácilmente por la landing page para encontrar la información que necesitan.</td>
-      <td>EP08</td>
+      <td>EP07</td>
     </tr>
     <tr>
       <td>us01</td>
@@ -196,21 +196,21 @@
       <td>Enviar sintomas</td>
       <td>Como paciente<br>Quiero enviar síntomas registrados en un tratamiento<br>Para que el doctor tenga un registro del estado de salud durante el tratamiento y pueda hacer seguimiento clínico</td>
       <td>E01: Enviar síntoma con éxito<br>Dado que el paciente está siguiendo un tratamiento activo<br>Cuando accede a la opción de registrar síntomas<br>Y completa los campos requeridos<br>Entonces el síntoma se registra exitosamente<br>Y el doctor puede visualizarlo en su panel<br><br>E02: Intentar enviar síntoma sin seleccionar tratamiento<br>Dado que el paciente no ha asociado un tratamiento<br>Cuando intenta registrar un síntoma<br>Entonces el sistema muestra un mensaje indicando que debe seleccionar un tratamiento activo<br><br></td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>us19</td>
       <td>Revisar sintomas</td>
       <td>Como doctor<br>Quiero ver la lista de síntomas reportados por el paciente<br>Para evaluar la evolución del tratamiento y tomar decisiones médicas informadas</td>
       <td>E01: Visualizar lista de síntomas de un paciente con tratamiento activo<br>Dado que el doctor accede al perfil de un paciente<br>Cuando selecciona un tratamiento específico<br>Entonces se muestra la lista de síntomas registrados durante ese tratamiento<br><br>E02: No hay síntomas registrados<br>Dado que el paciente aún no ha reportado síntomas<br>Cuando el doctor revisa la sección de síntomas<br>Entonces el sistema muestra un mensaje indicando que no hay registros disponibles<br><br></td>
-      <td>EP01</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>us20</td>
       <td>Consultar medicamento</td>
       <td>Como paciente<br>Quiero consultar la composición de medicamentos y posibles reacciones<br>Para identificar efectos adversos, comparar con síntomas graves y enviar información al doctor para su evaluación</td>
       <td>E01: Consultar detalles de un medicamento asignado<br>Dado que el paciente tiene medicamentos asignados<br>Cuando accede a la sección de medicamentos<br>Y selecciona uno<br>Entonces puede ver su composición, efectos secundarios y advertencias<br><br>E02: Reportar reacción adversa desde la vista del medicamento<br>Dado que el paciente consulta un medicamento<br>Cuando detecta una posible reacción<br>Y presiona “Reportar reacción”<br>Entonces el sistema envía el reporte al doctor correspondiente</td>
-      <td>EP03</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>us21</td>
@@ -231,21 +231,21 @@
       <td>Consulta a doctor</td>
       <td>Como paciente<br>Quiero realizar consultas generales al doctor a través del chat<br>Para resolver dudas sobre mi tratamiento o estado de salud</td>
       <td>E01: Paciente envía mensaje por el chat<br>Dado que el paciente está autenticado<br>Cuando accede al chat y redacta una consulta<br>Entonces el mensaje se envía al doctor<br>Y queda registrado en la conversación<br><br>E02: Doctor responde consulta en el chat<br>Dado que el doctor recibe una consulta por chat<br>Cuando responde al mensaje<br>Entonces el paciente visualiza la respuesta en tiempo real<br><br></td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
     <tr>
       <td>us24</td>
       <td>Adjuntar archivos</td>
       <td>Como usuario general<br>Quiero poder adjuntar archivos para enviarlos por chat<br>Para compartir imágenes, recetas o resultados médicos con el doctor</td>
       <td>E01: Adjuntar imagen y enviarla por chat<br>Dado que el usuario está en una conversación activa<br>Cuando selecciona un archivo e imagen válida<br>Entonces el archivo se adjunta y se envía al chat<br><br>E02: Intentar adjuntar archivo no permitido<br>Dado que el usuario quiere enviar un archivo<br>Cuando selecciona un formato no admitido<br>Entonces el sistema muestra un mensaje de error<br>Y no permite el envío<br><br></td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
     <tr>
       <td>us25</td>
       <td>Agregar paciente</td>
-      <td>Como doctor<br>Quiero enviar una solicitud de atención a paciente usando su username<br>Para agregarlo a mi lista de pacientes y asignarle un tratamiento</td>
+      <td>Como doctor<br>Quiero enviar una solicitud de atención a paciente usando su nombre de usuario<br>Para agregarlo a mi lista de pacientes y asignarle un tratamiento</td>
       <td>E01: Agregar paciente con username válido<br>Dado que el doctor accede a la función de agregar paciente<br>Cuando introduce un username válido<br>Entonces se envía una solicitud al paciente<br>Y este puede aceptarla o rechazarla<br><br>E02: Username no existe en la plataforma<br>Dado que el doctor intenta agregar un paciente<br>Cuando introduce un username inválido<br>Entonces el sistema muestra un mensaje de error<br>Y no permite enviar la solicitud<br><br></td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
     <tr>
       <td>us26</td>
@@ -259,7 +259,7 @@
       <td>Resumen de tratamiento</td>
       <td>Como paciente<br>Quiero ver un resumen del tratamiento que voy a seguir<br>Para tener una vista general antes de aceptarlo, incluyendo fechas, medicamentos, procedimientos y duración</td>
       <td>E01: Ver resumen antes de aceptar tratamiento<br>Dado que el paciente ha recibido una propuesta de tratamiento<br>Cuando accede a la vista de resumen<br>Entonces se muestran todos los detalles del tratamiento<br><br>E02: Aceptar tratamiento desde resumen<br>Dado que el paciente revisó el resumen<br>Cuando selecciona “Aceptar tratamiento”<br>Entonces el tratamiento se activa en su cuenta<br>Y se configuran los recordatorios<br><br></td>
-      <td>EP03</td>
+      <td>EP06</td>
     </tr>
     <tr>
       <td>us28</td>
@@ -273,7 +273,7 @@
       <td>Modificar la fecha de inicio</td>
       <td>Como paciente<br>Quiero modificar la fecha de inicio del tratamiento<br>Para tener un margen de tiempo para conseguir los medicamentos o programar citas con especialistas</td>
       <td>E01: Cambiar fecha de inicio con éxito<br>Dado que el paciente tiene un tratamiento próximo a iniciar<br>Cuando selecciona una nueva fecha válida<br>Entonces la fecha se actualiza<br>Y se reprograman los recordatorios<br><br>E02: Seleccionar fecha inválida (anterior al día actual)<br>Dado que el paciente accede a la configuración del tratamiento<br>Cuando intenta seleccionar una fecha anterior al presente<br>Entonces el sistema muestra un mensaje de error<br>Y no guarda el cambio<br><br></td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>us30</td>
@@ -287,28 +287,28 @@
       <td>Aviso de cambios en el sistema</td>
       <td>Como usuario en general<br>Quiero ser notificado si se ha realizado algún cambio en el calendario<br>Para estar al tanto de citas reprogramadas, cancelaciones o ajustes en mi tratamiento</td>
       <td>E01: Recibir notificación por reprogramación de cita<br>Dado que una cita ha sido reprogramada por el doctor<br>Cuando se actualiza la información<br>Entonces el paciente recibe una notificación inmediata<br>Y puede revisar la nueva fecha<br><br>E02: Notificación de cambios en el tratamiento<br>Dado que el tratamiento ha sido ajustado<br>Cuando se modifica la duración o procedimiento<br>Entonces el paciente recibe una alerta<br>Y puede consultar los cambios en su perfil<br><br></td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>us32</td>
       <td>Eliminar paciente</td>
       <td>Como doctor<br>Quiero eliminar pacientes que ya cumplieron con su tratamiento<br>Para mantener organizada mi lista de pacientes activos</td>
       <td>E01: Eliminar paciente que finalizó tratamiento<br>Dado que el paciente ha completado su tratamiento<br>Cuando el doctor selecciona la opción “Eliminar paciente”<br>Entonces el paciente se elimina de su lista<br>Y el sistema confirma la acción<br><br>E02: Intentar eliminar paciente con tratamiento activo<br>Dado que el paciente aún tiene tratamiento en curso<br>Cuando el doctor intenta eliminarlo<br>Entonces el sistema muestra una advertencia<br>Y no permite completar la eliminación</td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>us33</td>
       <td>Contactar con OnControl</td>
       <td>Como usuario general<br>Quiero contactar con el equipo de soporte de OnControl<br>Para resolver dudas, reportar errores o recibir ayuda técnica</td>
       <td>E01: Enviar mensaje al soporte correctamente<br>Dado que el usuario accede a la sección de contacto<br>Cuando llena el formulario y presiona “Enviar”<br>Entonces el mensaje se envía al equipo de soporte<br>Y el usuario recibe confirmación<br><br>E02: Formulario con campos vacíos<br>Dado que el usuario intenta contactar con soporte<br>Cuando deja campos obligatorios vacíos<br>Entonces el sistema muestra un mensaje de error<br>Y no permite enviar el mensaje</td>
-      <td>EP01</td>
+      <td>EP05</td>
     </tr>
     <tr>
       <td>us34</td>
       <td>Lista de pacientes</td>
       <td>Como doctor<br>Quiero ver la lista de mis pacientes<br>Para acceder rápidamente a sus tratamientos y consultar su progreso</td>
       <td>E01: Visualizar lista completa de pacientes asignados<br>Dado que el doctor ha iniciado sesión<br>Cuando accede a la sección “Mis pacientes”<br>Entonces se muestra una lista con sus datos y estado de tratamiento<br><br>E02: Lista vacía si aún no tiene pacientes<br>Dado que el doctor no tiene pacientes registrados<br>Cuando accede a la sección<br>Entonces el sistema muestra un mensaje indicando que no hay pacientes asignados<br>E02: Lista vacía si aún no tiene pacientes<br>Dado que el doctor no tiene pacientes registrados<br>Cuando accede a la sección<br>Entonces el sistema muestra un mensaje indicando que no hay pacientes asignados</td>
-      <td>EP01</td>
+      <td>EP03</td>
     </tr>
     <tr>
       <td>us35</td>
@@ -326,24 +326,24 @@
     </tr>
     <tr>
       <td>us37</td>
-      <td>Visualizar landing</td>
+      <td>Visualizar landing page</td>
       <td>Como usuario en general<br>Quiero dar un primer vistazo a la aplicación y conocer en qué consiste<br>Para entender su funcionalidad mediante una landing page clara y atractiva</td>
       <td>E01: Acceder a la landing correctamente<br>Dado que el usuario accede al sitio web<br>Cuando ingresa a la landing page<br>Entonces se muestra una descripción general clara y los beneficios de la app<br><br>E02: Landing sin contenido disponible<br>Dado que hay un error de carga<br>Cuando el usuario accede a la landing<br>Entonces el sistema muestra un mensaje indicando que la información no está disponible por el momento<br><br></td>
-      <td>EP08</td>
+      <td>EP07</td>
     </tr>
     <tr>
       <td>us38</td>
       <td>Acceso a la app</td>
       <td>Como usuario<br>Quiero ser redirigido a la tienda donde puedo descargar la app<br>Para instalarla fácilmente y comenzar a usarla</td>
       <td>E01: Redirección exitosa a tienda de apps<br>Dado que el usuario presiona el botón de descarga<br>Cuando está en la landing page<br>Entonces el sistema lo redirige correctamente a la tienda correspondiente (App Store o Play Store)<br><br>E02: Error en enlace de redirección<br>Dado que el enlace de redirección está roto<br>Cuando el usuario intenta descargar<br>Entonces se muestra un mensaje de error<br>Y se ofrece alternativa de contacto con soporte</td>
-      <td>EP01</td>
+      <td>EP07</td>
     </tr>
     <tr>
       <td>us39</td>
       <td>Recibir informacion</td>
       <td>Como usuario general<br>Quiero recibir información completa al correo electrónico<br>Para tener una copia detallada de mis registros o actividades realizadas en la app</td>
       <td>E01: Solicitar envío de información por correo<br>Dado que el usuario accede a la opción de exportar información<br>Cuando introduce su correo electrónico y confirma<br>Entonces el sistema envía un resumen completo de su actividad<br><br>E02: Correo no válido<br>Dado que el usuario introduce un correo con formato incorrecto<br>Cuando intenta confirmar<br>Entonces el sistema muestra un mensaje de error<br>Y no envía la información<br><br></td>
-      <td>EP01</td>
+      <td>EP07</td>
     </tr>
     <tr>
       <td>TS01</td>
@@ -542,37 +542,156 @@ Link de UXPressia:
     </tr>
     <tr>
         <td>18</td>
-        <td>EP07-US18</td>
+        <td>EP06-US18</td>
         <td>Enviar sintomas</td>
         <td>Como paciente<br>Quiero enviar síntomas registrados en un tratamiento<br>Para que el doctor tenga un registro del estado de salud durante el tratamiento y pueda hacer seguimiento clínico</td>
         <td>3</td>
     </tr>
     <tr>
         <td>19</td>
-        <td>EP07-US19</td>
+        <td>EP06-US19</td>
         <td>Revisar sintomas</td>
         <td>Como doctor<br>Quiero ver la lista de síntomas reportados por el paciente<br>Para evaluar la evolución del tratamiento y tomar decisiones médicas informadas</td>
         <td>3</td>
     </tr>
     <tr>
         <td>20</td>
-        <td>EP01-US03</td>
-        <td>Cierre de sesión</td>
-        <td>Como usuario general<br>Quiero cerrar mi cuenta al terminar de usar el aplicativo<br>Para evitar que otras personas accedan a mi cuenta</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>21</td>
-        <td>EP04-US13</td>
-        <td>Contactar con OnControl</td>
-        <td>Como usuario general<br>Quiero visualizar una forma de contacto en el footer de la Landing Page.<br>Para poder comunicarme con OnControl.</td>
+        <td>EP06-US20</td>
+        <td>Consultar medicamento</td>
+        <td>Como paciente<br>Quiero consultar la composición de medicamentos y posibles reaccioneso<br>Para identificar efectos adversos, comparar con síntomas graves y enviar información al doctor para su evaluación</td>
         <td>5</td>
     </tr>
     <tr>
+        <td>21</td>
+        <td>EP03-US21</td>
+        <td>Recibir notificaciones de cambios en tratamiento</td>
+        <td>Como paciente<br>Quiero recibir notificación sobre solicitudes de cambios en el tratamiento<br>Para estar informado y tomar decisiones sobre la continuidad o modificación del plan terapéutico</td>
+        <td>2</td>
+    </tr>
+    <tr>
         <td>22</td>
-        <td>EP08-US22</td>
-        <td>Visualizar Landing Page</td>
-        <td>Como usuario general <br>Quiero visualizar toda la landing page<br>Para conocer la startup</td>
+        <td>EP03-US22</td>
+        <td>Recibir notificacion de culminacion de tratamiento</td>
+        <td>Como doctor<br>Quiero recibir notificación de finalización de tratamiento de los pacientes<br>Para agendar una cita de cierre, evaluar el progreso del paciente y definir próximos pasos si son necesarios</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>EP05-US23</td>
+        <td>Consulta a doctor</td>
+        <td>Como paciente<br>Quiero realizar consultas generales al doctor a través del chat<br>Para resolver dudas sobre mi tratamiento o estado de salud</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>EP05-US24</td>
+        <td>Adjuntar archivos</td>
+        <td>Como usuario general<br>Quiero poder adjuntar archivos para enviarlos por chat<br>Para compartir imágenes, recetas o resultados médicos con el doctor</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>EP05-US25</td>
+        <td>Agregar paciente</td>
+        <td>Como doctor<br>Quiero enviar una solicitud de atención a paciente usando su nombre de usuario<br>Para agregarlo a mi lista de pacientes y asignarle un tratamiento</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>EP03-US26</td>
+        <td>Crear procedimiento</td>
+        <td>Como doctor<br>Quiero agregar procedimientos que debe realizar el paciente<br>Para definir los pasos del tratamiento, asignar tareas específicas y hacer seguimiento de su cumplimiento</td>
         <td>8</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>EP06-US27</td>
+        <td>Resumen de tratamiento</td>
+        <td>Como paciente<br>Quiero ver un resumen del tratamiento que voy a seguir<br>Para tener una vista general antes de aceptarlo, incluyendo fechas, medicamentos, procedimientos y duración</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>EP03-US28</td>
+        <td>Configurar procedimiento</td>
+        <td>Como doctor<br>Quiero tener control sobre el tipo de procedimiento que se asignará<br>Para definir su duración, frecuencia y condiciones específicas según cada caso</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>EP03-US29</td>
+        <td>Modificar la fecha de inicio</td>
+        <td>Como paciente<br>Quiero modificar la fecha de inicio del tratamiento<br>Para tener un margen de tiempo para conseguir los medicamentos o programar citas con especialistas</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>EP03-US30</td>
+        <td>Configuracion de recordatorios</td>
+        <td>Descripción:<br>Como usuario en general<br>Quiero personalizar las notificaciones, tonos, duración y repetición de los recordatorios<br>Para adaptarlos a mi rutina diaria y no olvidar mis actividades médicas</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>EP03-US31</td>
+        <td>Aviso de cambios en el sistema</td>
+        <td>Como usuario en general<br>Quiero ser notificado si se ha realizado algún cambio en el calendario<br>Para estar al tanto de citas reprogramadas, cancelaciones o ajustes en mi tratamiento</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>EP03-US32</td>
+        <td>Eliminar paciente</td>
+        <td>Como doctor<br>Quiero eliminar pacientes que ya cumplieron con su tratamiento<br>Para mantener organizada mi lista de pacientes activos</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>EP05-US33</td>
+        <td>Contactar con OnControl</td>
+        <td>Como usuario general<br>Quiero contactar con el equipo de soporte de OnControl<br>Para resolver dudas, reportar errores o recibir ayuda técnica</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>EP03-US34</td>
+        <td>Lista de pacientes</td>
+        <td>Como doctor<br>Quiero ver la lista de mis pacientes<br>Para acceder rápidamente a sus tratamientos y consultar su progreso</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>EP03-US35</td>
+        <td>Revisar historial de tratamientos</td>
+        <td>Como doctor<br>Quiero ver el historial completo de los tratamientos realizados por el paciente desde que empezó a usar la aplicación<br>Para tener una visión cronológica de su evolución médica</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>EP03-US36</td>
+        <td>Lista de procedimientos</td>
+        <td>Como paciente<br>Quiero ver la lista de procedimientos a seguir el día de hoy y de forma detallada<br>Para asegurarme de cumplir con mi tratamiento correctamente</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>EP07-US37</td>
+        <td>Visualizar landing page</td>
+        <td>Como usuario en general<br>Quiero dar un primer vistazo a la aplicación y conocer en qué consiste<br>Para entender su funcionalidad mediante una landing page clara y atractiva</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>EP07-US38</td>
+        <td>Acceso a la app</td>
+        <td>Como usuario<br>Quiero ser redirigido a la tienda donde puedo descargar la app<br>Para instalarla fácilmente y comenzar a usarla</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>EP07-US39</td>
+        <td>Recibir informacion</td>
+        <td>Como usuario general<br>Quiero recibir información completa al correo electrónico<br>Para tener una copia detallada de mis registros o actividades realizadas en la app</td>
+        <td>2</td>
     </tr>
 </table>
