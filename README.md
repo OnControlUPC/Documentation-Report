@@ -108,7 +108,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 | Williams Gongora Castillejos |	Startup Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Domain Layer, Interface Layer, Application Layer, Infrastructure Layer, Bounded Context Software Architecture Component Level Diagrams, Bounded Context Software Architecture Code Level Diagrams, Bounded Context Domain Layer Class Diagrams, Bounded Context Database Design Diagram|
 | Quique Vladimir Jara Benites | Event Storming |
 | Quispe Roldan Michael Fred   |  |
-| Juan Pablo Ramos Mendoza     |  |
+| Juan Pablo Ramos Mendoza     | Diagramas C4, participación grupal en Event Storming, entrevistas de aceptación, Product Backlog y revisiones en User Stories. |
 | Garayar Mori Oscar Nathaniel |  |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
@@ -145,7 +145,7 @@ Adquiere nuevos conocimientos de manera autónoma
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
 | TB1              | Williams Gongora Castillejos |Investigué de manera autónoma la técnica de Event Storming como parte del enfoque Domain-Driven Design, y cómo se relaciona con la identificación de eventos clave, actores y comandos dentro de un dominio. Además, profundizó en los principios del Bounded Context y sus capas, incluyendo la documentación mediante diagramas de clases, componentes y base de datos.|
-| TB1              | Juan Pablo Ramos Mendoza     |  |
+| TB1              | Juan Pablo Ramos Mendoza     | Colaboré de forma grupal para realizar el Product Backlog, además de investigar y revisar clases anteriores para la realización de los diagramas C4, además de poner en práctica como grupo la realización de un Event Storming |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
 | TB1              | Garayar Mori Oscar Nathaniel |  |
@@ -160,7 +160,7 @@ Aplica los nuevos conocimientos de manera efectiva
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
 | TB1              | Williams Gongora Castillejos |Aplicó la técnica de Event Storming para identificar y organizar los eventos relevantes del sistema dentro del Bounded Context <Chat>. Utilizó los resultados para definir entidades, comandos y flujos de interacción, los cuales sirvieron como base para estructurar las capas Domain, Application, Interface e Infrastructure, y desarrollar los diagramas correspondientes.|
-| TB1              | Juan Pablo Ramos Mendoza     |  |
+| TB1              | Juan Pablo Ramos Mendoza     | Usando la secuencia de Fibonacci, se ajustó los valores de cada User Story en un Product Backlog. Se usó de conocimientos adquiridos en clases anteriores para elaborar los diagramas de C4 de tal forma que se muestren de forma clara todos los elementos y contenedores de nuestro sistema en esta aplicación. |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
 | TB1              | Garayar Mori Oscar Nathaniel |  |
@@ -182,7 +182,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 | Williams Gongora Castillejos | Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad. |
 | Quique Vladimir Jara Benites |  |
 | Quispe Roldan Michael Fred   |  |
-| Juan Pablo Ramos Mendoza     |  |
+| Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora. |
 | Garayar Mori Oscar Nathaniel |  |
 
 
