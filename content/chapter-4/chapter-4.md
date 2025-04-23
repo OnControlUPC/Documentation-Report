@@ -470,7 +470,7 @@ Este Bounded Context (BC) gestiona la creación, seguimiento y modificación de 
 
 Este diagrama ilustra la descomposición del Container de Tratamiento en sus componentes principales y sus interacciones.
 
-![Component Level Diagrams]()
+![Component Level Diagrams](https://github.com/user-attachments/assets/e5258227-0d2d-45c2-af4f-ff66a6096a9e)
 
 <br>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3.6. Bounded Context Software Architecture Code Level Diagrams</a></h3></il> 
