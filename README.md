@@ -101,7 +101,7 @@ conocimientos según sea necesario, utilizando estrategias de aprendizaje apropi
 | Williams Gongora Castillejos | |
 | Quique Vladimir Jara Benites | Realizar pruebas de usabilidad con al menos 20 usuarios reales para obtener feedback sobre la interfaz y la experiencia de usuario, en un plazo de 1 mes. |
 | Quispe Roldan Michael Fred   |  |
-|                              |  |
+| Ramos Mendoza Juan Pablo | Obtener feedback de al menos 5 médicos oncólogos de la aplicación y 10 usuarios médicos especialistas distintos o generales. |
 |                              |  |
 
 
