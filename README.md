@@ -190,6 +190,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 <div align="center">
 
    <h1><a href="./content/README.md">Contenido</a></h1>
+
 </div>
 
 <div style="font-family: sans-serif; padding: 5rem; max-width: 800px; margin: auto;">
