@@ -105,8 +105,8 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 |Integrante|Tareas Asignadas|
 |------|------|
-| Williams Gongora Castillejos |  |
-| Quique Vladimir Jara Benites |  |
+| Williams Gongora Castillejos |	Startup Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Domain Layer, Interface Layer, Application Layer, Infrastructure Layer, Bounded Context Software Architecture Component Level Diagrams, Bounded Context Software Architecture Code Level Diagrams, Bounded Context Domain Layer Class Diagrams, Bounded Context Database Design Diagram|
+| Quique Vladimir Jara Benites | Event Storming |
 | Quispe Roldan Michael Fred   |  |
 | Juan Pablo Ramos Mendoza     |  |
 | Garayar Mori Oscar Nathaniel |  |
@@ -144,7 +144,7 @@ Adquiere nuevos conocimientos de manera autónoma
 
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
-| TB1              | Williams Gongora Castillejos |  |
+| TB1              | Williams Gongora Castillejos |Investigué de manera autónoma la técnica de Event Storming como parte del enfoque Domain-Driven Design, y cómo se relaciona con la identificación de eventos clave, actores y comandos dentro de un dominio. Además, profundizó en los principios del Bounded Context y sus capas, incluyendo la documentación mediante diagramas de clases, componentes y base de datos.|
 | TB1              | Juan Pablo Ramos Mendoza     |  |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
@@ -152,13 +152,14 @@ Adquiere nuevos conocimientos de manera autónoma
 
 **Conclusiones**
 
+El equipo demostró una sólida capacidad para adquirir conocimientos de manera autónoma, investigando y aplicando técnicas avanzadas como Event Storming, Domain-Driven Design (DDD) y Ubiquitous Language. Cada miembro se encargó de investigar diferentes aspectos del diseño y la arquitectura del software, lo que les permitió integrar enfoques novedosos y adecuados al proyecto, asegurando que el aprendizaje fuera aplicado de forma efectiva.
 
 **Criterio específico**
 Aplica los nuevos conocimientos de manera efectiva
 
 | Acción Realizada | Participantes          | Descripción |
 |------------------|------------------------|-------------|
-| TB1              | Williams Gongora Castillejos |  |
+| TB1              | Williams Gongora Castillejos |Aplicó la técnica de Event Storming para identificar y organizar los eventos relevantes del sistema dentro del Bounded Context <Chat>. Utilizó los resultados para definir entidades, comandos y flujos de interacción, los cuales sirvieron como base para estructurar las capas Domain, Application, Interface e Infrastructure, y desarrollar los diagramas correspondientes.|
 | TB1              | Juan Pablo Ramos Mendoza     |  |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
@@ -167,6 +168,7 @@ Aplica los nuevos conocimientos de manera efectiva
 
 **Conclusiones**
 
+El conocimiento adquirido se aplicó de manera efectiva a lo largo del proyecto, utilizando herramientas como Event Storming para modelar los flujos de mensajes y eventos dentro de los Bounded Contexts. Además, se emplearon estos conocimientos para diseñar una arquitectura robusta con diagramas detallados, lo que permitió una implementación coherente y eficiente de las soluciones propuestas.
 
 <br>
 
