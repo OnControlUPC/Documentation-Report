@@ -1,21 +1,44 @@
-<div align='center'>
-
-   <img src="https://github.com/user-attachments/assets/8cd823fb-13d4-445c-ac96-641882771637">
-   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-   <h2>Ingeniería de Software</h2>
-   <h2>Aplicaciones para Dispositivos Moviles</h2>
-   </br></br>
-   <p><strong>Sección:</strong>CC238</p>
-   <p><strong>Docente:</strong> Mayta Guillermo, Jorge Luis</p>
-   <p><strong>Informe:</strong> TB1</p>
-   <p><strong>Nombre de la Startup:</strong> OnControl</p>
-   <p><strong>Nombre del producto:</strong> OnControl</p>
-   <p><strong>Ciclo:</strong> 2025-01</p>
-</div>
 <div align="center">
 
+<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<h3>Integrantes</h3>
+<img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/UPC-logo.png"
+alt="Logo UPC"
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=30%"/>
+
+<h5 style="text-align: center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h5>
+
+<h5 style="text-align: center">CARRERA</h5>
+<p style="text-align: center">Ingeniería de Software
+</p>
+
+<h5 style="text-align: center">CICLO</h5>
+<p style="text-align: center">2025-01</p>
+
+<h5 style="text-align: center">CURSO</h5>
+<p style="text-align: center">Aplicaciones para Dispositivos Moviles</p>
+
+<h5 style="text-align: center">SECCIÓN</h5>
+<p style="text-align: center">1ACC0238</p>
+
+<h5 style="text-align: center">DOCENTE</h5>
+<p style="text-align: center">Mayta Guillermo, Jorge Luis</p>
+
+<h5 style="text-align: center">Grupo</h5>
+<p style="text-align: center">OnControl</p>
+
+<h5 style="text-align: center">PRODUCTO</h5>
+<p style="text-align: center">OnControl</p>
+
+<h5 style="text-align: center">2025</h5>
+
+</div>
+
+## Team members:
 
 | Alumnos                      |   Codigo   |
 |:-----------------------------|:----------:|
@@ -23,15 +46,13 @@
 | Quique Vladimir Jara Benites | U202022365 |
 | Quispe Roldan Michael Fred   | U20221E734 |
 | Juan Pablo Ramos Mendoza     | U202019545 |
-| 5                            |            |
+| Garayar Mori Oscar Nathaniel | U202014115 |
 
-<br>
 <br>
 <h4>Link del repositorio: https://github.com/OnControlUPC/Documentation-Report</h4>
-</div>
 </br>
 
-<div align="center">
+<div align="left">
    <h1>Registro de versiones</h1>
    </br>
    <span align-item="center">
@@ -72,47 +93,104 @@
     </table>
 </span>
 </div>
-<h1 align="center">Contenido</h1>
+
+<br><br>
+## Project Report Collaboration Insights
+
+Enlace de la organización para el reporte del proyecto: https://https://github.com/OnControlUPC
+
+**TB1**
+
+Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|------|------|
+| Williams Gongora Castillejos |	Startup Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Domain Layer, Interface Layer, Application Layer, Infrastructure Layer, Bounded Context Software Architecture Component Level Diagrams, Bounded Context Software Architecture Code Level Diagrams, Bounded Context Domain Layer Class Diagrams, Bounded Context Database Design Diagram|
+| Quique Vladimir Jara Benites | Event Storming |
+| Quispe Roldan Michael Fred   |  |
+| Juan Pablo Ramos Mendoza     |  |
+| Garayar Mori Oscar Nathaniel |  |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
+
 </br>
-<ul style="list-style-type: none;">
-   <li><h1><a href="./content/student-outcome.md">Student Outcome</a></h1></li>
-  
+
+## **Github Collaboration Insights**
+
+Los integrantes son:
+
+* Williams Gongora Castillejos (WiJeGo)
+* Quique Vladimir Jara Benites (QuiqueVladimir)
+* Quispe Roldan Michael Fred   (MQRF123)
+* Juan Pablo Ramos Mendoza     (JJPPRRMM)
+* Garayar Mori Oscar Nathaniel (OscarGarayar)
+
+(Fotos)
+
+
+<br><br>
+## Student Outcome
+
 En Ingeniería de Software, el logro contribuye a alcanzar el:
-## ABET – EAC - Student Outcome 7
+**ABET – EAC - Student Outcome 7**
 
 **Criterio**: La capacidad de adquirir y aplicar nuevos
 conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
 </br>
 
-| **Criterio específico**| **Acciones realizadas**| **Conclusiones**|
-|--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. |  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |  |
+**Criterio específico:**
+Adquiere nuevos conocimientos de manera autónoma
 
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Williams Gongora Castillejos |Investigué de manera autónoma la técnica de Event Storming como parte del enfoque Domain-Driven Design, y cómo se relaciona con la identificación de eventos clave, actores y comandos dentro de un dominio. Además, profundizó en los principios del Bounded Context y sus capas, incluyendo la documentación mediante diagramas de clases, componentes y base de datos.|
+| TB1              | Juan Pablo Ramos Mendoza     |  |
+| TB1              | Quispe Roldan Michael Fred   |  |
+| TB1              | Quique Vladimir Jara Benites |  |
+| TB1              | Garayar Mori Oscar Nathaniel |  |
+
+**Conclusiones**
+
+El equipo demostró una sólida capacidad para adquirir conocimientos de manera autónoma, investigando y aplicando técnicas avanzadas como Event Storming, Domain-Driven Design (DDD) y Ubiquitous Language. Cada miembro se encargó de investigar diferentes aspectos del diseño y la arquitectura del software, lo que les permitió integrar enfoques novedosos y adecuados al proyecto, asegurando que el aprendizaje fuera aplicado de forma efectiva.
+
+**Criterio específico**
+Aplica los nuevos conocimientos de manera efectiva
+
+| Acción Realizada | Participantes          | Descripción |
+|------------------|------------------------|-------------|
+| TB1              | Williams Gongora Castillejos |Aplicó la técnica de Event Storming para identificar y organizar los eventos relevantes del sistema dentro del Bounded Context <Chat>. Utilizó los resultados para definir entidades, comandos y flujos de interacción, los cuales sirvieron como base para estructurar las capas Domain, Application, Interface e Infrastructure, y desarrollar los diagramas correspondientes.|
+| TB1              | Juan Pablo Ramos Mendoza     |  |
+| TB1              | Quispe Roldan Michael Fred   |  |
+| TB1              | Quique Vladimir Jara Benites |  |
+| TB1              | Garayar Mori Oscar Nathaniel |  |
+
+
+**Conclusiones**
+
+El conocimiento adquirido se aplicó de manera efectiva a lo largo del proyecto, utilizando herramientas como Event Storming para modelar los flujos de mensajes y eventos dentro de los Bounded Contexts. Además, se emplearon estos conocimientos para diseñar una arquitectura robusta con diagramas detallados, lo que permitió una implementación coherente y eficiente de las soluciones propuestas.
 
 <br>
 
-<ul style="list-style-type: none;">
-   <h1><a href="./content/objetivos-smart.md">Objetivos SMART</a></h1>
+<br><br>
+## Objetivos SMART
+
+A continuación, se presentan los objetivos SMART personales definidos tras culminar la carrera de cada uno de los Team Members. Cada meta está orientada al crecimiento profesional en áreas específicas como bases de datos y ciberseguridad, y busca promover el aprendizaje continuo a corto y mediano plazo.
 
    | **Integrantes**              | **Objetivos**|
 |------------------------------|--|
-| Williams Gongora Castillejos | |
-| Quique Vladimir Jara Benites | Realizar pruebas de usabilidad con al menos 20 usuarios reales para obtener feedback sobre la interfaz y la experiencia de usuario, en un plazo de 1 mes. |
+| Williams Gongora Castillejos | Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad. |
+| Quique Vladimir Jara Benites |  |
 | Quispe Roldan Michael Fred   |  |
-| Ramos Mendoza Juan Pablo | Obtener feedback de al menos 5 médicos oncólogos de la aplicación y 10 usuarios médicos especialistas distintos o generales. |
-|                              |  |
+| Juan Pablo Ramos Mendoza     |  |
+| Garayar Mori Oscar Nathaniel |  |
 
 
-<div display="flex" align="right" >
-   </br></br>
-   &lt;
-   <a href="../README.md">Previous</a>
-   &boxh;
-   <a href="./chapter-1/1-startup-profile.md">Next</a>
-   &gt;
-   </br></br>
+<br><br>
+<div align="center">
+
+   <h1><a href="./content/README.md">Contenido</a></h1>
+
 </div>
 
 <div style="font-family: sans-serif; padding: 5rem; max-width: 800px; margin: auto;">
