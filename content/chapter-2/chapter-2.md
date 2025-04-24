@@ -345,7 +345,7 @@ Gracias a las entrevistas realizadas, se pueden identificar los siguientes punto
 
 - De forma técnica, un uso fácil y rápido de la aplicación es de vital importancia, con énfasis en la facilidad de identificar las opciones de la aplicación. Además, podemos apreciar que los entrevistados piden una buena y sencilla comunicación entre los médicos tratantes y los pacientes, sin interrumpir la privacidad de ambos grupos.
 - La calidad de la información es mencionada varias veces por los entrevistados, con referencias bibliográficas sobre la información de las medicinas y tratamientos siendo un beneficio que una aplicación como la nuestra debería presentar. La información también debería ser bastante clara en la forma que es presentada, con las notas de los medicamentos y tratamientos y otras notas escritas por los médicos en sí presentando la información de una forma directa.
-- Los entrevistados del grupo de pacientes y parientes de pacientes mostraron gran énfasis en que, si una aplicación como OnContigo hubiera existido mientras ocurría el tratamiento oncológico completo, su estrés hubiera sido mínimo, principalmente por la información encontrada en la aplicación y sus herramientas organizativas.
+- Los entrevistados del grupo de pacientes y parientes de pacientes mostraron gran énfasis en que, si una aplicación como OnControl hubiera existido mientras ocurría el tratamiento oncológico completo, su estrés hubiera sido mínimo, principalmente por la información encontrada en la aplicación y sus herramientas organizativas.
 - Los médicos entrevistados, por otra parte, creen que una buena comunicación directa y una organización entre tantos pacientes reduciría en gran parte su estrés y les permitiría una mejor experiencia en el cuidado de tantos pacientes a la vez.
 - Los médicos entrevistados también mostraron un enfoque en la organización de tratamientos y medicamentos recibidos anteriormente por sus pacientes para evitar problemas futuros, como las reacciones alérgicas.
    </ul>
@@ -447,7 +447,7 @@ Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
 </table>
 <ul style="list-style-type: none;">
       <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
-      En el proceso de desarrollo de OnContigo, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
+      En el proceso de desarrollo de OnControl, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
 Segmento objetivo: Pacientes y familiares
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
