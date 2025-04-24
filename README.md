@@ -49,9 +49,7 @@ width=30%"/>
 | Garayar Mori Oscar Nathaniel | U202014115 |
 
 <br>
-<h4>Link del repositorio: https://github.com/OnControlUPC/Documentation-Report</h4>
-</br>
-
+Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Report)
 <div align="left">
    <h1>Registro de versiones</h1>
    </br>
@@ -68,7 +66,7 @@ width=30%"/>
          <tbody>
             <tr>
                <td>0.1</td>
-               <td>26/03/2024</td>
+               <td>26/03/2025</td>
                <td>Acuña, Diego</td>
                <td>Caratula del informe</td>
             </tr>
@@ -90,54 +88,98 @@ width=30%"/>
                <td>Acuña, Diego </td>
                <td>Cambio de directorio del informe(Capítulo 1 y 2)</td>
             </tr>
+         </tbody>
     </table>
 </span>
 </div>
 
-<br><br>
+
+
+## **Github Collaboration Insights**
+
+|Integrante|Foto|
+|-|-|
+|Williams Gongora Castillejos (WiJeGo)||
+|Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://github.com/user-attachments/assets/8da82869-3361-4bb6-97ec-51c98621bce8" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
+|Quispe Roldan Michael Fred   (MQRF123)||
+|Juan Pablo Ramos Mendoza     (JJPPRRMM)||
+|Garayar Mori Oscar Nathaniel (OscarGarayar)||
+
+
 ## Project Report Collaboration Insights
 
-Enlace de la organización para el reporte del proyecto: https://https://github.com/OnControlUPC
+Enlace de la organización para el reporte del proyecto: [Enlace](https://github.com/OnControlUPC)
 
 **TB1**
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-|Integrante|Tareas Asignadas|
-|------|------|
-| Williams Gongora Castillejos |	Startup Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Domain Layer, Interface Layer, Application Layer, Infrastructure Layer, Bounded Context Software Architecture Component Level Diagrams, Bounded Context Software Architecture Code Level Diagrams, Bounded Context Domain Layer Class Diagrams, Bounded Context Database Design Diagram|
-| Quique Vladimir Jara Benites | Event Storming |
-| Quispe Roldan Michael Fred   |  |
-| Juan Pablo Ramos Mendoza     | Diagramas C4, participación grupal en Event Storming, entrevistas de aceptación, Product Backlog y revisiones en User Stories. |
-| Garayar Mori Oscar Nathaniel | Participación en el event storming, Bounded context Usuario y todo lo relacionado a ello, implementación de nuevos user stories y sus criterios de aceptación. |
+|Integrante| Tareas Asignadas                                                                                                                                                                                                                                                                                                                                                                                         |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Williams Gongora Castillejos | 	Startup Profile, Antecedentes y problemática, Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions, Domain Layer, Interface Layer, Application Layer, Infrastructure Layer, Bounded Context Software Architecture Component Level Diagrams, Bounded Context Software Architecture Code Level Diagrams, Bounded Context Domain Layer Class Diagrams, Bounded Context Database Design Diagram |
+| Quique Vladimir Jara Benites | Problem Statement, Assumptions, Hypothesis statements, Lean Ux Canvas, Competidores, User stories, Event Storming, Candidate Discovery, Domain Message Flows Modeling, Bounded context canvases, Context Maping                                                                                                                                                                                          |
+| Quispe Roldan Michael Fred   |                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Juan Pablo Ramos Mendoza     | Diagramas C4, participación grupal en Event Storming, entrevistas de aceptación, Product Backlog y revisiones en User Stories.                                                                                                                                                                                                                                                                           |
+| Garayar Mori Oscar Nathaniel | Participación en el event storming, Bounded context Usuario y todo lo relacionado a ello, implementación de nuevos user stories y sus criterios de aceptación.                                                                                                                                                                                                                                           |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
-
-</br>
-
-## **Github Collaboration Insights**
-
-Los integrantes son:
-
-* Williams Gongora Castillejos (WiJeGo)
-* Quique Vladimir Jara Benites (QuiqueVladimir)
-* Quispe Roldan Michael Fred   (MQRF123)
-* Juan Pablo Ramos Mendoza     (JJPPRRMM)
-* Garayar Mori Oscar Nathaniel (OscarGarayar)
-
-(Fotos)
 
 
 <br><br>
 ## Student Outcome
 
 En Ingeniería de Software, el logro contribuye a alcanzar el:
-**ABET – EAC - Student Outcome 7**
+ABET – EAC - Student Outcome 7
+
+<table align="center" style="border: 1px solid black; border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; text-align: center;"><b>Criterio <br/>específico</b></td>
+      <td style="border: 1px solid black; text-align: center;"><b>Acciones realizadas</b></td>
+      <td style="border: 1px solid black; text-align: center;"><b>Conclusiones</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. </td>      <td style="border: 1px solid black;">
+        <ul>
+          <li>
+            <b>CAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>Jara Benites, Quique Vladimir<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+        </ul>
+      </td>
+      <td style="border: 1px solid black;">
+CAMBIAR 
+      </td>
+    </tr>
+<tr>
+      <td style="border: 1px solid black;">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. </td>      <td style="border: 1px solid black;">
+        <ul>
+          <li>
+            <b>CAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>Jara Benites, Quique Vladimir<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+        </ul>
+      </td>
+      <td style="border: 1px solid black;"> CAMBIAR</td>
+    </tr>
+  </tbody>
+</table>
 
 **Criterio**: La capacidad de adquirir y aplicar nuevos
 conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
-</br>
 
 **Criterio específico:**
 Adquiere nuevos conocimientos de manera autónoma
@@ -147,7 +189,7 @@ Adquiere nuevos conocimientos de manera autónoma
 | TB1              | Williams Gongora Castillejos |Investigué de manera autónoma la técnica de Event Storming como parte del enfoque Domain-Driven Design, y cómo se relaciona con la identificación de eventos clave, actores y comandos dentro de un dominio. Además, profundizó en los principios del Bounded Context y sus capas, incluyendo la documentación mediante diagramas de clases, componentes y base de datos.|
 | TB1              | Juan Pablo Ramos Mendoza     | Colaboré de forma grupal para realizar el Product Backlog, además de investigar y revisar clases anteriores para la realización de los diagramas C4, además de poner en práctica como grupo la realización de un Event Storming |
 | TB1              | Quispe Roldan Michael Fred   |  |
-| TB1              | Quique Vladimir Jara Benites |  |
+| TB1              | Quique Vladimir Jara Benites | Durante este proyecto, adquirí nuevos conocimientos de manera autónoma al investigar sobre técnicas de modelado como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling y Bounded Context Canvases. Busqué documentación especializada y recursos en línea para entender cómo aplicar estas metodologías en el diseño de sistemas. Este proceso de autoaprendizaje me permitió profundizar en la estructuración de dominios complejos y optimizar la comunicación entre componentes del sistema. A través de estas herramientas, mejoré mis habilidades para crear arquitecturas más eficientes y bien definidas. |
 | TB1              | Garayar Mori Oscar Nathaniel | Investigué sobre el Event Storming para poder desarrollarlo junto a mis compañeros, además de investigar sobre los Bounded context para poder realizar mi parte asignada del BC Usuario. También repasé las normas para la creación de user stories y sus criterios de aceptación. |
 
 **Conclusiones**
@@ -177,13 +219,13 @@ El conocimiento adquirido se aplicó de manera efectiva a lo largo del proyecto,
 
 A continuación, se presentan los objetivos SMART personales definidos tras culminar la carrera de cada uno de los Team Members. Cada meta está orientada al crecimiento profesional en áreas específicas como bases de datos y ciberseguridad, y busca promover el aprendizaje continuo a corto y mediano plazo.
 
-   | **Integrantes**              | **Objetivos**|
-|------------------------------|--|
-| Williams Gongora Castillejos | Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad. |
-| Quique Vladimir Jara Benites |  |
-| Quispe Roldan Michael Fred   |  |
-| Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora. |
-| Garayar Mori Oscar Nathaniel | Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc. |
+   | **Integrantes**              | **Objetivos**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Williams Gongora Castillejos | Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad.                                                                                                                                                                                                                                                         |
+| Quique Vladimir Jara Benites | Realizar pruebas exhaustivas de la aplicación móvil en las áreas de funcionalidad, usabilidad y rendimiento para garantizar su estabilidad y usabilidad antes del lanzamiento. Esto incluye completar al menos 20 pruebas de usabilidad y 10 pruebas de rendimiento, con un 90% de satisfacción en las respuestas de los testers, dedicando 5 horas a la semana durante los próximos 2 meses para asegurar que la app cumpla con los estándares de calidad y brinde una excelente experiencia al usuario |
+| Quispe Roldan Michael Fred   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora.                                                                                                                                                                                                                                                                                                    |
+| Garayar Mori Oscar Nathaniel | Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc.                                                                                                                                                                                                                                                             |
 
 
 <br><br>
