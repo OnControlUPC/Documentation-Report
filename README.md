@@ -131,6 +131,10 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 En Ingeniería de Software, el logro contribuye a alcanzar el:
 ABET – EAC - Student Outcome 7
 
+**Criterio**: La capacidad de adquirir y aplicar nuevos conocimientos según sea
+necesario, utilizando estrategias de aprendizaje apropiadas.
+
+**Criterios específicos:**
 <table align="center" style="border: 1px solid black; border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
@@ -142,12 +146,27 @@ ABET – EAC - Student Outcome 7
       <td style="border: 1px solid black;">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
           <li>
-            <b>CAMBIAR<br/>
+            <b>NOMBRECAMBIAR<br/>
             TB1</b><br/>
             CAMBIAR<br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
+            TB1</b><br/>
+            Actualicé mis conocimientos a través de la investigación sobre metodologías de modelado como EventStorming y Bounded Context Canvases, aplicando estas herramientas en el diseño de la arquitectura de mi proyecto. A través de cursos y documentación, profundicé en técnicas que optimizan la estructura de soluciones de software, mejorando la eficiencia del desarrollo.<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
             TB1</b><br/>
             CAMBIAR<br/>
           </li>
@@ -161,12 +180,27 @@ CAMBIAR
       <td style="border: 1px solid black;">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
           <li>
-            <b>CAMBIAR<br/>
+            <b>NOMBRECAMBIAR<br/>
             TB1</b><br/>
             CAMBIAR<br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
+            TB1</b><br/>
+            Reconociendo la importancia del aprendizaje continuo, me comprometí a investigar las últimas tendencias en desarrollo de software y participé en seminarios y cursos en línea. Esta práctica constante me permitió aplicar nuevos conocimientos y mantenerme actualizado para mejorar el desempeño en mis proyectos.<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
+            TB1</b><br/>
+            CAMBIAR<br/>
+          </li>
+          <li>
+            <b>NOMBRECAMBIAR<br/>
             TB1</b><br/>
             CAMBIAR<br/>
           </li>
@@ -176,9 +210,6 @@ CAMBIAR
     </tr>
   </tbody>
 </table>
-
-**Criterio**: La capacidad de adquirir y aplicar nuevos
-conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
 
 
 **Criterio específico:**
