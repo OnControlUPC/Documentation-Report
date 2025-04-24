@@ -46,6 +46,8 @@ El diagrama completo se encuentra en el siguiente enlace:
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.2. Context Mapping</a></h3></il>
 
+
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3. Software Architecture</a></h3></il>
 
 En esta sección mostraremos los diagramas del diseño de software de la aplicación OnControl, usando patrones de alto y bajo nivel:

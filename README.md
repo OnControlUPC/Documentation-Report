@@ -3,12 +3,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/UPC-logo.png"
-alt="Logo UPC"
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%"/>
+<img src="https://github.com/user-attachments/assets/566e958b-6085-4b30-a385-11be51066a26" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>
 
 <h5 style="text-align: center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h5>
 

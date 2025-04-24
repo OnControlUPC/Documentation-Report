@@ -27,7 +27,7 @@ Otro punto relevante de OnControl es que proporciona un espacio seguro y compren
     <td>U20221C186</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/71358a50-f479-449e-ae68-77dd0c7dbb61"></td>
+    <td><img src="https://github.com/user-attachments/assets/8da82869-3361-4bb6-97ec-51c98621bce8"></td>
     <td>Mi es Quique Vladimir Jara Benites, soy estudiante de sexto ciclo de la carrera Ingenieria de Software, tengo conocimientos técnicos en Java, Js y python. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones</td>
     <td>U202022365</td>
   </tr>
