@@ -39,6 +39,11 @@ El diagrama completo se encuentra en el siguiente enlace:
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1.3. Bounded Context Canvases</a></h3></il>
 
+![Image](https://github.com/user-attachments/assets/3c109b5c-a841-4528-9cb5-05c983d72542)
+![Image](https://github.com/user-attachments/assets/c0397f26-4ca8-4724-a253-37aff347773a)
+![Image](https://github.com/user-attachments/assets/536090e4-3561-47f9-9359-8d07bfc660a5)
+![Image](https://github.com/user-attachments/assets/3c727884-49ea-49e4-9771-ad4b2a34e3ca)
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.2. Context Mapping</a></h3></il>
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3. Software Architecture</a></h3></il>
