@@ -102,7 +102,7 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
 |Williams Gongora Castillejos (WiJeGo)||
 |Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://github.com/user-attachments/assets/8da82869-3361-4bb6-97ec-51c98621bce8" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
 |Quispe Roldan Michael Fred   (MQRF123)||
-|Juan Pablo Ramos Mendoza     (JJPPRRMM)||
+|Juan Pablo Ramos Mendoza     (JJPPRRMM)| <img src="https://avatars.githubusercontent.com/u/30060649?v=4" alt="Dibujo hecho por Juan Pablo Ramos y su foto de perfil en Github" style="width:150px; height:150px;"/> |
 |Garayar Mori Oscar Nathaniel (OscarGarayar)||
 
 
@@ -161,9 +161,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             CAMBIAR<br/>
           </li>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Ramos Mendoza, Juan PAblo<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del informe del proyect y durante el Event Storming. He comunicado cada uno de mis avances con el resto de mi grupo.<br/>
           </li>
           <li>
             <b>NOMBRECAMBIAR<br/>
@@ -195,9 +195,9 @@ CAMBIAR
             CAMBIAR<br/>
           </li>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Ramos Mendoza, Juan Pablo<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Utilizando mis notas y aprendizajes de cursos anteriores he realizado los diagramas C4 necesarios para nuestro proyecto, además de otras técnicas de organización de información.<br/>
           </li>
           <li>
             <b>NOMBRECAMBIAR<br/>
