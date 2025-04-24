@@ -241,7 +241,7 @@ Este diagrama de diseño de la base de datos detalla el esquema de persistencia 
 
 <il><h2><a href="./content/chapter-4/chapter-4.md">4.2.2. Bounded Context: Usuario</a></h2></il>
 
-Este Bounded Context (BC) encapsula la funcionalidad relacionada con la gestión de usuarios dentro de la aplicación OnContigo. Su responsabilidad principal es representar a los actores principales del sistema (médicos y pacientes), registrar sus datos personales y especializaciones, manejar su autenticación, y permitir funcionalidades clave como el registro de pacientes o la asignación de tratamientos por parte de los médicos. Este contexto también permite a los pacientes acceder y revisar su información médica.
+Este Bounded Context (BC) encapsula la funcionalidad relacionada con la gestión de usuarios dentro de la aplicación OnControl. Su responsabilidad principal es representar a los actores principales del sistema (médicos y pacientes), registrar sus datos personales y especializaciones, manejar su autenticación, y permitir funcionalidades clave como el registro de pacientes o la asignación de tratamientos por parte de los médicos. Este contexto también permite a los pacientes acceder y revisar su información médica.
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2.1. Domain Layer</a></h3></il>
 
