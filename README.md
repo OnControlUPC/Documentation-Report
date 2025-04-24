@@ -151,9 +151,9 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
 |-|-|
 |Williams Gongora Castillejos (WiJeGo)|<img src="https://github.com/user-attachments/assets/e34c1253-2dde-4977-8239-71c3b892ae14" alt="Foto de Williams Gongora" style="width:150px; height:150px;"/>|
 |Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://avatars.githubusercontent.com/u/89040472?v=4" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
-|Quispe Roldan Michael Fred   (MQRF123)||
+|Quispe Roldan Michael Fred   (MQRF123)| <img src="https://avatars.githubusercontent.com/u/172080301?v=4" alt="Foto de Michael Quispe" style="width:150px; height:150px;"/> |
 |Juan Pablo Ramos Mendoza     (JJPPRRMM)| <img src="https://avatars.githubusercontent.com/u/30060649?v=4" alt="Dibujo hecho por Juan Pablo Ramos y su foto de perfil en Github" style="width:150px; height:150px;"/> |
-|Garayar Mori Oscar Nathaniel (OscarGarayar)||
+|Garayar Mori Oscar Nathaniel (OscarGarayar)| <img src="https://avatars.githubusercontent.com/u/102541011?v=4" alt="Foto de Oscar Nathaniel" style="width:150px; height:150px;"/> |
 
 
 ## Project Report Collaboration Insights
