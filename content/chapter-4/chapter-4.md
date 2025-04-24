@@ -46,7 +46,17 @@ El diagrama completo se encuentra en el siguiente enlace:
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.2. Context Mapping</a></h3></il>
 
+En este diagrama se muestran las relaciones estructurales entre los Bounded Contexts de Tratamiento, User, Calendar y Communicate. Cada contexto se interconecta según las reglas de Domain-Driven Design para garantizar una correcta coordinación y eficiencia en el sistema.
 
+- **Tratamiento y User**: El contexto de User proporciona la información necesaria sobre los pacientes (datos personales, historial médico, etc.), la cual es utilizada por el contexto de Tratamiento para asignar y gestionar los tratamientos adecuados. Esta relación sigue el patrón Customer/Supplier, donde User actúa como un Supplier que provee la información al contexto de Tratamiento.
+
+- **Tratamiento y Calendar**: El contexto de Calendar gestiona los recordatorios y citas relacionadas con los tratamientos. Los recordatorios de citas y procedimientos son generados a partir de los datos de Tratamiento. Aquí, Calendar es un Supplier que recibe la información de Tratamiento para crear y actualizar los recordatorios correspondientes, asegurando que el paciente y el doctor sean notificados a tiempo.
+
+- **Tratamiento y Communicate**: Existe una relación de Shared Kernel (SK) entre Tratamiento y Communicate, ya que ambos contextos comparten la funcionalidad de notificaciones y mensajes. El contexto de Communicate es responsable de gestionar la comunicación entre los pacientes y los doctores, enviando notificaciones sobre el progreso del tratamiento o recordatorios importantes relacionados con el mismo.
+
+- **Calendar y Communicate**: La relación entre Calendar y Communicate es de tipo Customer/Supplier, donde Calendar actúa como un Supplier al proveer a Communicate con los datos necesarios para enviar las notificaciones correspondientes a los pacientes sobre sus citas o procedimientos programados.
+
+![Image](https://github.com/user-attachments/assets/f6a1aeb4-6dbc-433b-886d-2bf967cf2ae8)
 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.3. Software Architecture</a></h3></il>
 
