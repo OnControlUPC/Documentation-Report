@@ -32,9 +32,9 @@ Otro punto relevante de OnControl es que proporciona un espacio seguro y compren
     <td>U202022365</td>
   </tr>
   <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/17fbc67a-a19d-42c5-8c8d-6dc9d8ab9316)"></td>
+    <td><img src="https://github.com/user-attachments/assets/17fbc67a-a19d-42c5-8c8d-6dc9d8ab9316"></td>
     <td>Soy Oscar Garayar, estudiante de ingeniería de software de 6to ciclo. Tengo experiencia trabajando con distintos lenguajes de programación así como también en el trabajo en equipo. Me destaco por ser adaptable a la hora de trabajar y personalemente creo que me realto a la hora de realizar la ingeniería atrás del proyecto.</td>
-    <td>0</td>
+    <td>U202014115</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/fb07e471-36a2-4fa7-9234-178869d3d3b7"></td>
