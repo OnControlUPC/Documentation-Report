@@ -341,3 +341,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
   <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a></p>
   <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.2. Bounded Context Database Design Diagram</a></p>
 </div>
+
+# Anexos
+
+Link del video (TB1): https://drive.google.com/drive/folders/1ysWorKN_fZnZEBhoClflUg5wBYiW2QBJ?usp=sharing
