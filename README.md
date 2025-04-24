@@ -216,9 +216,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del informe del proyect y durante el Event Storming. He comunicado cada uno de mis avances con el resto de mi grupo.<br/>
           </li>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Garayar Mori, Oscar Nathaniel<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Para la entrega de ahora, volví a investigar sobre el EventStorming y las practicas de los criterios de aceptación para arreglar los user stories.<br/>
           </li>
         </ul>
       </td>
@@ -250,9 +250,9 @@ CAMBIAR
             Utilizando mis notas y aprendizajes de cursos anteriores he realizado los diagramas C4 necesarios para nuestro proyecto, además de otras técnicas de organización de información.<br/>
           </li>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Garayar Mori, Oscar Nathaniel<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Investigue sobre las tecnicas del event storming, también sobre los bounded context para poder realizar mi parte del trabajo.<br/>
           </li>
         </ul>
       </td>
