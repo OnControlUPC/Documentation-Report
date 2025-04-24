@@ -149,11 +149,11 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
 
 |Integrante|Foto|
 |-|-|
-|Williams Gongora Castillejos (WiJeGo)||
+|Williams Gongora Castillejos (WiJeGo)|<img src="https://github.com/user-attachments/assets/e34c1253-2dde-4977-8239-71c3b892ae14" alt="Foto de Williams Gongora" style="width:150px; height:150px;"/>|
 |Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://avatars.githubusercontent.com/u/89040472?v=4" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
-|Quispe Roldan Michael Fred   (MQRF123)||
+|Quispe Roldan Michael Fred   (MQRF123)| <img src="https://avatars.githubusercontent.com/u/172080301?v=4" alt="Foto de Michael Quispe" style="width:150px; height:150px;"/> |
 |Juan Pablo Ramos Mendoza     (JJPPRRMM)| <img src="https://avatars.githubusercontent.com/u/30060649?v=4" alt="Dibujo hecho por Juan Pablo Ramos y su foto de perfil en Github" style="width:150px; height:150px;"/> |
-|Garayar Mori Oscar Nathaniel (OscarGarayar)||
+|Garayar Mori Oscar Nathaniel (OscarGarayar)| <img src="https://avatars.githubusercontent.com/u/102541011?v=4" alt="Foto de Oscar Nathaniel" style="width:150px; height:150px;"/> |
 
 
 ## Project Report Collaboration Insights
@@ -196,9 +196,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
       <td style="border: 1px solid black;">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Gongora Castillejos, Williams<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -223,16 +223,16 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
         </ul>
       </td>
       <td style="border: 1px solid black;">
-CAMBIAR 
+Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocimientos esenciales para el diseño de soluciones de software, como EventStorming, Bounded Context, Lean UX, Ubiquitous Language, y arquitectura basada en DDD. Estas herramientas y conceptos fueron fundamentales para estructurar adecuadamente el sistema, comprender mejor las necesidades del usuario y modelar soluciones viables, actualizando así nuestras habilidades técnicas de manera significativa. 
       </td>
     </tr>
 <tr>
       <td style="border: 1px solid black;">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
           <li>
-            <b>NOMBRECAMBIAR<br/>
+            <b>Gongora Castillejos, Williams<br/>
             TB1</b><br/>
-            CAMBIAR<br/>
+            Reconocí la importancia de actualizarme constantemente, por lo que reforcé mis conocimientos en metodologías modernas como Domain-Driven Design. Esta actitud me permitió aplicar soluciones más estructuradas y efectivas durante el desarrollo del proyecto.<br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -256,35 +256,11 @@ CAMBIAR
           </li>
         </ul>
       </td>
-      <td style="border: 1px solid black;"> CAMBIAR</td>
+      <td style="border: 1px solid black;"> A lo largo del proyecto, el equipo reconoció la importancia de aprender continuamente para enfrentar nuevos retos en el desarrollo de software. La exploración de metodologías modernas, el análisis de documentación técnica y la integración de prácticas de diseño estratégicas evidencian una actitud proactiva de mejora constante, alineada con la necesidad de mantenerse actualizados en un entorno tecnológico en evolución.</td>
     </tr>
   </tbody>
 </table>
 
-
-**Criterio específico:**
-Adquiere nuevos conocimientos de manera autónoma
-
-| Acción Realizada | Participantes          | Descripción |
-|------------------|------------------------|-------------|
-| TB1              | Williams Gongora Castillejos |Investigué de manera autónoma la técnica de Event Storming como parte del enfoque Domain-Driven Design, y cómo se relaciona con la identificación de eventos clave, actores y comandos dentro de un dominio. Además, profundizó en los principios del Bounded Context y sus capas, incluyendo la documentación mediante diagramas de clases, componentes y base de datos.|
-| TB1              | Juan Pablo Ramos Mendoza     | Colaboré de forma grupal para realizar el Product Backlog, además de investigar y revisar clases anteriores para la realización de los diagramas C4, además de poner en práctica como grupo la realización de un Event Storming |
-| TB1              | Quispe Roldan Michael Fred   |  |
-| TB1              | Quique Vladimir Jara Benites | Durante este proyecto, adquirí nuevos conocimientos de manera autónoma al investigar sobre técnicas de modelado como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling y Bounded Context Canvases. Busqué documentación especializada y recursos en línea para entender cómo aplicar estas metodologías en el diseño de sistemas. Este proceso de autoaprendizaje me permitió profundizar en la estructuración de dominios complejos y optimizar la comunicación entre componentes del sistema. A través de estas herramientas, mejoré mis habilidades para crear arquitecturas más eficientes y bien definidas. |
-| TB1              | Garayar Mori Oscar Nathaniel | Investigué sobre el Event Storming para poder desarrollarlo junto a mis compañeros, además de investigar sobre los Bounded context para poder realizar mi parte asignada del BC Usuario. También repasé las normas para la creación de user stories y sus criterios de aceptación. |
-
-**Criterio específico**
-Aplica los nuevos conocimientos de manera efectiva
-
-| Acción Realizada | Participantes          | Descripción |
-|------------------|------------------------|-------------|
-| TB1              | Williams Gongora Castillejos |Aplicó la técnica de Event Storming para identificar y organizar los eventos relevantes del sistema dentro del Bounded Context <Chat>. Utilizó los resultados para definir entidades, comandos y flujos de interacción, los cuales sirvieron como base para estructurar las capas Domain, Application, Interface e Infrastructure, y desarrollar los diagramas correspondientes.|
-| TB1              | Juan Pablo Ramos Mendoza     | Usando la secuencia de Fibonacci, se ajustó los valores de cada User Story en un Product Backlog. Se usó de conocimientos adquiridos en clases anteriores para elaborar los diagramas de C4 de tal forma que se muestren de forma clara todos los elementos y contenedores de nuestro sistema en esta aplicación. |
-| TB1              | Quispe Roldan Michael Fred   |  |
-| TB1              | Quique Vladimir Jara Benites |  |
-| TB1              | Garayar Mori Oscar Nathaniel | Apliqué lo aprendido sobre los Bounded context diseñando las partes necesarias para el BC Usuario. Creando su diagrama y todos sus componentes necesarios para ponerlos en el informe antes de su implementación futura en la aplicación.  |
-
-<br>
 
 <br><br>
 ## Objetivos SMART
