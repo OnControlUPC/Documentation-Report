@@ -109,7 +109,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 | Quique Vladimir Jara Benites | Event Storming |
 | Quispe Roldan Michael Fred   |  |
 | Juan Pablo Ramos Mendoza     | Diagramas C4, participación grupal en Event Storming, entrevistas de aceptación, Product Backlog y revisiones en User Stories. |
-| Garayar Mori Oscar Nathaniel |  |
+| Garayar Mori Oscar Nathaniel | Participación en el event storming, Bounded context Usuario y todo lo relacionado a ello, implementación de nuevos user stories y sus criterios de aceptación. |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -148,7 +148,7 @@ Adquiere nuevos conocimientos de manera autónoma
 | TB1              | Juan Pablo Ramos Mendoza     | Colaboré de forma grupal para realizar el Product Backlog, además de investigar y revisar clases anteriores para la realización de los diagramas C4, además de poner en práctica como grupo la realización de un Event Storming |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
-| TB1              | Garayar Mori Oscar Nathaniel |  |
+| TB1              | Garayar Mori Oscar Nathaniel | Investigué sobre el Event Storming para poder desarrollarlo junto a mis compañeros, además de investigar sobre los Bounded context para poder realizar mi parte asignada del BC Usuario. También repasé las normas para la creación de user stories y sus criterios de aceptación. |
 
 **Conclusiones**
 
@@ -163,7 +163,7 @@ Aplica los nuevos conocimientos de manera efectiva
 | TB1              | Juan Pablo Ramos Mendoza     | Usando la secuencia de Fibonacci, se ajustó los valores de cada User Story en un Product Backlog. Se usó de conocimientos adquiridos en clases anteriores para elaborar los diagramas de C4 de tal forma que se muestren de forma clara todos los elementos y contenedores de nuestro sistema en esta aplicación. |
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
-| TB1              | Garayar Mori Oscar Nathaniel |  |
+| TB1              | Garayar Mori Oscar Nathaniel | Apliqué lo aprendido sobre los Bounded context diseñando las partes necesarias para el BC Usuario. Creando su diagrama y todos sus componentes necesarios para ponerlos en el informe antes de su implementación futura en la aplicación.  |
 
 
 **Conclusiones**
@@ -183,7 +183,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 | Quique Vladimir Jara Benites |  |
 | Quispe Roldan Michael Fred   |  |
 | Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora. |
-| Garayar Mori Oscar Nathaniel |  |
+| Garayar Mori Oscar Nathaniel | Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc. |
 
 
 <br><br>
