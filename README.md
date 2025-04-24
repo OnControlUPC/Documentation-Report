@@ -48,8 +48,9 @@ width=30%"/>
 | Juan Pablo Ramos Mendoza     | U202019545 |
 | Garayar Mori Oscar Nathaniel | U202014115 |
 
-<br>
+
 Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Report)
+
 <div align="left">
    <h1>Registro de versiones</h1>
    </br>
@@ -67,26 +68,80 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
             <tr>
                <td>0.1</td>
                <td>26/03/2025</td>
-               <td>Acuña, Diego</td>
+               <td>Juan Ramos</td>
                <td>Caratula del informe</td>
             </tr>
             <tr>
                <td>0.2</td>
-               <td>04/04/2024</td>
-               <td>Ramos, Juan Pablo</td>
-               <td>Lean UX Process</td>
-            </tr>
-             <tr>
-               <td>1.0</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Antecedentes y problemáticas</td>
+               <td>28/03/2025</td>
+               <td>Quispe Michael</td>
+               <td>Descripcion de startup, Antecedentes</td>
             </tr>
             <tr>
-               <td>1.1</td>
-               <td>14/04/2024</td>
-               <td>Acuña, Diego </td>
-               <td>Cambio de directorio del informe(Capítulo 1 y 2)</td>
+               <td>0.3</td>
+               <td>29/03/2025</td>
+               <td>Quique Jara</td>
+               <td>Problem Statements, Assumptions, Hypothesis, Canvas</td>
+            </tr>
+            <tr>
+               <td>0.4</td>
+               <td>30/03/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Competidores, Estrategias y Entrevistas</td>
+            </tr>
+            <tr>
+               <td>0.5</td>
+               <td>01/04/2025</td>
+               <td>Oscar Garayar</td>
+               <td>User Persona, Journey Mapping, Emphaty map</td>
+            </tr>
+            <tr>
+               <td>0.6</td>
+               <td>06/04/2025</td>
+               <td>Juan Ramos</td>
+               <td>As-Is Scenario mapping, To-Be Scenario mapping</td>
+            </tr>
+            <tr>
+               <td>0.7</td>
+               <td>11/04/2025</td>
+               <td>Quispe Michael</td>
+               <td>User stories</td>
+            </tr>
+            <tr>
+               <td>0.8</td>
+               <td>14/04/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Impact mapping, product backlog</td>
+            </tr>
+            <tr>
+               <td>0.9.2</td>
+               <td>15/04/2025</td>
+               <td>Quique Jara</td>
+               <td>Event storming, Message flow, Context canvases</td>
+            </tr>
+            <tr>
+               <td>0.9.4</td>
+               <td>17/04/2025</td>
+               <td>Oscar Garayar</td>
+               <td>Context Mapping, context level Diagram</td>
+            </tr>
+            <tr>
+               <td>0.9.6</td>
+               <td>19/04/2025</td>
+               <td>Juan Ramos</td>
+               <td>Container Level Diagrams, Deploy Diagrams</td>
+            </tr>
+            <tr>
+               <td>0.9.8</td>
+               <td>20/04/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Bounded context Tratamiento</td>
+            </tr>
+            <tr>
+               <td>1.0</td>
+               <td>22/04/2025</td>
+               <td>Quispe Michael</td>
+               <td>Bounded context CItas</td>
             </tr>
          </tbody>
     </table>
@@ -100,7 +155,7 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
 |Integrante|Foto|
 |-|-|
 |Williams Gongora Castillejos (WiJeGo)||
-|Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://github.com/user-attachments/assets/8da82869-3361-4bb6-97ec-51c98621bce8" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
+|Quique Vladimir Jara Benites (QuiqueVladimir)|<img src="https://avatars.githubusercontent.com/u/89040472?v=4" alt="Foto de Quique Vladimir" style="width:150px; height:150px;"/>|
 |Quispe Roldan Michael Fred   (MQRF123)||
 |Juan Pablo Ramos Mendoza     (JJPPRRMM)| <img src="https://avatars.githubusercontent.com/u/30060649?v=4" alt="Dibujo hecho por Juan Pablo Ramos y su foto de perfil en Github" style="width:150px; height:150px;"/> |
 |Garayar Mori Oscar Nathaniel (OscarGarayar)||
@@ -223,10 +278,6 @@ Adquiere nuevos conocimientos de manera autónoma
 | TB1              | Quique Vladimir Jara Benites | Durante este proyecto, adquirí nuevos conocimientos de manera autónoma al investigar sobre técnicas de modelado como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling y Bounded Context Canvases. Busqué documentación especializada y recursos en línea para entender cómo aplicar estas metodologías en el diseño de sistemas. Este proceso de autoaprendizaje me permitió profundizar en la estructuración de dominios complejos y optimizar la comunicación entre componentes del sistema. A través de estas herramientas, mejoré mis habilidades para crear arquitecturas más eficientes y bien definidas. |
 | TB1              | Garayar Mori Oscar Nathaniel | Investigué sobre el Event Storming para poder desarrollarlo junto a mis compañeros, además de investigar sobre los Bounded context para poder realizar mi parte asignada del BC Usuario. También repasé las normas para la creación de user stories y sus criterios de aceptación. |
 
-**Conclusiones**
-
-El equipo demostró una sólida capacidad para adquirir conocimientos de manera autónoma, investigando y aplicando técnicas avanzadas como Event Storming, Domain-Driven Design (DDD) y Ubiquitous Language. Cada miembro se encargó de investigar diferentes aspectos del diseño y la arquitectura del software, lo que les permitió integrar enfoques novedosos y adecuados al proyecto, asegurando que el aprendizaje fuera aplicado de forma efectiva.
-
 **Criterio específico**
 Aplica los nuevos conocimientos de manera efectiva
 
@@ -237,11 +288,6 @@ Aplica los nuevos conocimientos de manera efectiva
 | TB1              | Quispe Roldan Michael Fred   |  |
 | TB1              | Quique Vladimir Jara Benites |  |
 | TB1              | Garayar Mori Oscar Nathaniel | Apliqué lo aprendido sobre los Bounded context diseñando las partes necesarias para el BC Usuario. Creando su diagrama y todos sus componentes necesarios para ponerlos en el informe antes de su implementación futura en la aplicación.  |
-
-
-**Conclusiones**
-
-El conocimiento adquirido se aplicó de manera efectiva a lo largo del proyecto, utilizando herramientas como Event Storming para modelar los flujos de mensajes y eventos dentro de los Bounded Contexts. Además, se emplearon estos conocimientos para diseñar una arquitectura robusta con diagramas detallados, lo que permitió una implementación coherente y eficiente de las soluciones propuestas.
 
 <br>
 
