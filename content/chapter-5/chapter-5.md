@@ -582,6 +582,71 @@ La landing page implementará un sistema de búsqueda simple:
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.5. Navigation Systems</a></h3></il>
 
+En esta sección detallamos los sistemas de navegación que implementaremos en OnControl para guiar a los usuarios a través de la landing page y las aplicaciones, permitiéndoles cumplir sus objetivos e interactuar satisfactoriamente con el producto.
+
+### Landing Page
+
+#### 1. Navegación Global
+
+- **Barra de navegación fija**: Permanece visible al hacer scroll, incluyendo logo, enlaces a secciones principales y botón de descarga destacado.
+- **Estructura jerárquica**: Organización clara de elementos por importancia, con el botón "Descargar App" visualmente destacado.
+- **Navegación responsiva**: Se transforma en menú hamburguesa en dispositivos móviles.
+
+
+#### 2. Navegación Contextual
+
+- **Botones de llamada a la acción (CTA)**: Estratégicamente ubicados a lo largo de la página, guiando al usuario hacia la descarga o solicitud de demo.
+- **Enlaces internos**: Dentro del contenido para facilitar la navegación entre secciones relacionadas.
+- **Navegación por anclas**: Permite saltar directamente a secciones específicas desde la barra de navegación.
+
+
+#### 3. Navegación de Utilidad
+
+- **Footer**: Contiene enlaces a información legal, contacto y mapa del sitio.
+- **Botón de regreso arriba**: Aparece al hacer scroll para facilitar el retorno al inicio.
+- **Breadcrumbs**: En páginas internas para mostrar la ubicación actual y permitir navegación hacia atrás.
+
+
+#### 4. Indicadores de Navegación
+
+- **Resaltado de sección activa**: La sección actual se destaca en la barra de navegación.
+- **Cambio de estado en hover**: Feedback visual al pasar el cursor sobre elementos navegables.
+- **Animaciones de transición**: Suaves desplazamientos al navegar entre secciones mediante anclas.
+
+
+### Aplicación Móvil
+
+#### Estructura de Navegación Principal
+
+##### 1. Para Médicos
+
+- **Navegación por pestañas**: Acceso rápido a las secciones principales:
+
+    - Tratamientos
+    - Pacientes
+    - Citas
+    - Calendario
+    - Chat
+
+- **Menú lateral expandible**: Para acceso a funciones secundarias y configuración.
+- **Barra inferior en móvil**: Con iconos para las funciones principales.
+
+
+##### 2. Para Pacientes
+
+- **Navegación simplificada**: Enfocada en las necesidades del paciente:
+
+    - Mi Tratamiento
+    - Mis Citas
+    - Mis Síntomas
+    - Chat con Doctor
+
+
+
+- **Menú de hamburguesa**: Para acceso a configuración y funciones secundarias.
+- **Barra inferior en móvil**: Con iconos intuitivos para las funciones principales.
+
+
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3. Landing Page UI Design</a></h3></il>
 
