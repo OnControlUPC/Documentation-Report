@@ -468,6 +468,83 @@ A continuación, se presenta el sistema de etiquetado utilizado en la Landing Pa
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.3. SEO Tags and Meta Tags</a></h3></il>
 
+En esta sección se detallan los elementos de optimización para motores de búsqueda (SEO) y metaetiquetas que implementaremos en la landing page y aplicación web de OnControl, así como los elementos de optimización para tiendas de aplicaciones (ASO) para nuestras aplicaciones móviles.
+
+### Landing Page
+
+#### Title Tags
+
+| Página | Title Tag
+|-----|-----
+| **Home** | OnControl - Apoyo integral para pacientes oncológicos en Perú
+| **Características** | Características de OnControl - Gestión eficiente de tratamientos oncológicos
+| **Beneficios** | Beneficios de OnControl - Mejorando la experiencia oncológica para médicos y pacientes
+| **Contacto** | Contacta con OnControl - Solicita una demo personalizada
+
+
+#### Meta Description Tags
+
+| Página | Meta Description
+|-----|-----
+| **Home** | OnControl facilita la gestión del tratamiento oncológico, mejorando la comunicación entre médicos y pacientes para una atención más efectiva y personalizada en Perú.
+| **Características** | Descubre las funcionalidades de OnControl: calendario integrado, gestión de medicamentos y comunicación directa entre médicos oncólogos y pacientes.
+| **Beneficios** | OnControl reduce la ansiedad de los pacientes y optimiza el tiempo de los médicos oncólogos, mejorando la calidad de la atención oncológica en Perú.
+| **Contacto** | Solicita una demostración personalizada de OnControl y descubre cómo podemos mejorar la experiencia oncológica para ti o tus pacientes.
+
+
+#### Meta Keywords
+
+```html
+<meta name="keywords" content="oncología, cáncer, tratamiento oncológico, pacientes oncológicos, médicos oncólogos, gestión médica, Perú, aplicación médica, seguimiento de tratamiento, comunicación médico-paciente, citas médicas, recordatorios de medicamentos">
+```
+
+#### Meta Author
+
+```html
+<meta name="author" content="OnControl - Equipo de Desarrollo">
+```
+
+#### Open Graph Tags
+
+```html
+<meta property="og:title" content="OnControl - Apoyo integral para pacientes oncológicos">
+<meta property="og:description" content="Plataforma que facilita la gestión del tratamiento oncológico, mejorando la comunicación entre médicos y pacientes.">
+<meta property="og:image" content="https://oncontrol.pe/images/og-image.jpg">
+<meta property="og:url" content="https://oncontrol.pe">
+<meta property="og:type" content="website">
+```
+
+### Aplicaciones Móviles (ASO)
+
+#### App Store (iOS)
+
+| Elemento ASO | Contenido
+|-----|-----
+| **App Name** | OnControl: Gestión Oncológica
+| **App Subtitle** | Tratamientos y citas de cáncer
+| **Keywords** | oncología, cáncer, tratamiento, citas, médico, paciente, recordatorio, calendario, chat médico, Perú
+| **App Description (Primeros párrafos)** | OnControl es la aplicación esencial para pacientes oncológicos y médicos en Perú. Gestiona tratamientos, citas y comunicación en un solo lugar.<br><br>Diseñada específicamente para mejorar la experiencia oncológica, OnControl te permite llevar un seguimiento detallado de tu tratamiento o el de tus pacientes, con recordatorios personalizados y comunicación directa entre médicos y pacientes.
+| **Promotional Text** | ¡Nuevo! Ahora con sistema mejorado de registro de síntomas y notificaciones en tiempo real.
+
+
+#### Google Play Store (Android)
+
+| Elemento ASO | Contenido
+|-----|-----
+| **App Title** | OnControl: Gestión de Tratamientos Oncológicos
+| **Short Description** | Aplicación para pacientes con cáncer y médicos oncólogos en Perú.
+| **Long Description (Inicio)** | OnControl es la solución integral para la gestión de tratamientos oncológicos en Perú, diseñada tanto para pacientes como para médicos especialistas.<br><br>Nuestra aplicación facilita el seguimiento de tratamientos, la gestión de citas médicas, el registro de síntomas y la comunicación directa entre médicos y pacientes, todo en una interfaz intuitiva y accesible.
+| **Feature Graphic Text** | Mejorando la experiencia oncológica en Perú
+| **Categoría Principal** | Medicina
+| **Categoría Secundaria** | Salud y bienestar
+
+
+### Estrategia de Implementación
+
+1. **Optimización Local**: Incluiremos referencias geográficas a Perú y ciudades principales para mejorar el posicionamiento local.
+2. **Palabras Clave Longtail**: Incorporaremos términos específicos como "gestión de tratamiento de cáncer de mama" o "seguimiento de quimioterapia" en páginas internas.
+3. **Metaetiquetas Dinámicas**: Para secciones como tratamientos específicos, generaremos metaetiquetas dinámicas basadas en el contenido.
+4. **Actualización Regular**: Revisaremos y actualizaremos las metaetiquetas trimestralmente para mantener la relevancia y optimizar el rendimiento.
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.4. Searching Systems</a></h3></il>
 
