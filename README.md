@@ -340,6 +340,48 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
   <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a></p>
   <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a></p>
   <p><a href="./content/chapter-4/chapter-4.md">4.2.X.6.2. Bounded Context Database Design Diagram</a></p>
+  <h1><a href="./content/chapter-5/chapter-5.md">Capítulo V: Solution UI/UX Design</a></h1>
+<h3><a href="./content/chapter-5/chapter-5.md">5.1. Product design</a></h3>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.1. Style Guidelines</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.1.1. General Style Guidelines</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2. Information Architecture</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2.1. Organization Systems</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2.2. Labelling Systems</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2.3. SEO Tags and Meta Tags</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2.4. Searching Systems</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.2.5. Navigation Systems</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.3. Landing Page UI Design</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.3.1. Landing Page Wireframe</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.3.2. Landing Page Mock-up</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4. Mobile Applications UX/UI Design</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4.1. Mobile Applications Wireframes</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4.2. Mobile Applications Wireflow Diagrams</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4.3. Mobile Applications Mock-ups</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4.4. Mobile Applications User Flow Diagrams</a></p>
+<p><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></p>
+
+<h1><a href="./content/chapter-6/chapter-6.md">Capítulo VI: Product Implementation, Validation & Deployment</a></h1>
+<h3><a href="./content/chapter-6/chapter-6.md">6.1. Software Configuration Management</a></h3>
+<p><a href="./content/chapter-6/chapter-6.md">6.1.1. Software Development Environment Configuration</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.1.2. Source Code Management</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.1.3. Source Code Style Guide & Conventions</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.1.4. Software Deployment Configuration</a></p>
+<h3><a href="./content/chapter-6/chapter-6.md">6.2. Landing Page & Mobile Application Implementation</a></h3>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X. Sprint n</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.1. Sprint Planning n</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.2. Sprint Backlog n</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.3. Development Evidence for Sprint Review</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.4. Testing Suite Evidence for Sprint Review</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.5. Execution Evidence for Sprint Review</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.6. Services Documentation Evidence for Sprint Review</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.7. Software Deployment Evidence for Sprint Review</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.8. Team Collaboration Insights during Sprint</a></p>
+<h3><a href="./content/chapter-6/chapter-6.md">6.3. Validation Interviews</a></h3>
+<p><a href="./content/chapter-6/chapter-6.md">6.3.1. Diseño de Entrevistas</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.3.2. Registro de Entrevistas</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.3.3. Evaluaciones según heurísticas</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.4. Video About-the-Product</a></p>
+
 </div>
 
 # Anexos
