@@ -92,7 +92,7 @@ La paleta de colores de OnControl está diseñada para transmitir confianza, tra
 - **Colores de la marca**: Reservados principalmente para el logo y elementos visuales de identidad.
 - **Colores neutros**: Utilizados para fondos, texto y elementos de interfaz general.
 
-
+![Image](https://github.com/user-attachments/assets/f2c90d9a-edee-44c8-9327-af86b706a563)
 
 ### Spacing
 
