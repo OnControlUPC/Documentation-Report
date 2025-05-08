@@ -91,6 +91,109 @@ La paleta de colores de OnControl está diseñada para transmitir confianza, tra
 - **Colores neutros**: Utilizados para fondos, texto y elementos de interfaz general.
 
 
+
+### Spacing
+
+El sistema de espaciado de OnControl sigue un patrón consistente para crear una jerarquía visual clara y una experiencia de usuario coherente.
+
+```css
+:root {
+  --spacing-xs: 0.25rem;   /* 4px */
+  --spacing-sm: 0.5rem;    /* 8px */
+  --spacing-md: 1rem;      /* 16px */
+  --spacing-lg: 1.5rem;    /* 24px */
+  --spacing-xl: 2rem;      /* 32px */
+  --spacing-2xl: 3rem;     /* 48px */
+  --spacing-3xl: 4rem;     /* 64px */
+  --spacing-4xl: 5rem;     /* 80px */
+}
+```
+
+**Principios de espaciado:**
+
+- Utilizar espaciado consistente entre secciones (--spacing-3xl o --spacing-4xl)
+- Mantener un espaciado interno consistente en tarjetas y contenedores (--spacing-lg o --spacing-xl)
+- Aplicar espaciado vertical entre elementos de texto según su jerarquía
+- Utilizar márgenes proporcionales al tamaño de los elementos
+
+
+### Componentes UI
+
+#### Botones
+
+Los botones en OnControl siguen un diseño consistente con bordes redondeados y transiciones suaves.
+
+```css
+.cta-button {
+  display: inline-block;
+  background-color: var(--accent);
+  color: white;
+  padding: 12px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background-color: #e64a19;
+  transform: translateY(-3px);
+}
+
+.cta-button.secondary {
+  background-color: transparent;
+  border: 2px solid white;
+}
+
+.cta-button.secondary:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+```
+
+**Variantes de botones:**
+
+- **Primario**: Fondo naranja (--accent), texto blanco
+- **Secundario**: Borde blanco, fondo transparente, texto blanco
+- **Terciario**: Solo texto, sin fondo ni borde
+
+
+#### Tarjetas
+
+Las tarjetas son componentes fundamentales que muestran información agrupada con un estilo consistente.
+
+```css
+.card {
+  background-color: var(--card);
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+```
+
+#### Iconografía
+
+OnControl utiliza iconos de Font Awesome para mantener un estilo coherente en toda la interfaz.
+
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+```
+
+**Uso de iconos:**
+
+- Mantener tamaños consistentes (generalmente 1.5rem para iconos estándar)
+- Utilizar el color primario o de acento para iconos destacados
+- Aplicar el mismo estilo de transición para estados hover
+
+
+
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Information Architecture</a></h3></il>
 
 
