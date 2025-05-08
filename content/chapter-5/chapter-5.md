@@ -368,9 +368,6 @@ Implementamos la organización cronológica en:
 | Procedimientos              | Secuencia cronológica de actividades     |
 
 
-
-
-
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.2. Labelling Systems</a></h3></il>
 
 A continuación, se presenta el sistema de etiquetado utilizado en la Landing Page de OnControl, diseñado para representar de forma clara, concisa y accesible los distintos grupos de información relevantes para médicos oncólogos y pacientes. Las etiquetas seleccionadas utilizan un lenguaje simple, directo y empático, evitando tecnicismos innecesarios para facilitar la navegación y comprensión por parte de todos los usuarios.
@@ -547,6 +544,40 @@ En esta sección se detallan los elementos de optimización para motores de bús
 4. **Actualización Regular**: Revisaremos y actualizaremos las metaetiquetas trimestralmente para mantener la relevancia y optimizar el rendimiento.
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.4. Searching Systems</a></h3></il>
+
+En esta sección detallamos los sistemas de búsqueda que implementaremos en OnControl para ayudar a los usuarios a encontrar información relevante de manera eficiente, evitando la sensación de desorientación ante el volumen de datos disponibles.
+
+### Tipos de Búsqueda por Interfaz
+
+#### 1. Landing Page
+
+La landing page implementará un sistema de búsqueda simple:
+
+- **Barra de búsqueda en header**: Permitirá buscar términos generales dentro del contenido de la landing page.
+- **Resultados**: Se mostrarán en una página dedicada, organizados por secciones relevantes (Características, Beneficios, FAQ).
+- **Sugerencias de búsqueda**: Se mostrarán términos populares relacionados con oncología mientras el usuario escribe.
+
+
+#### 2. Aplicación Móvil
+
+##### Para Médicos
+
+| Sección | Tipo de Búsqueda | Filtros Disponibles | Visualización de Resultados
+|-----|-----|-----|-----
+| **Pacientes** | Búsqueda por texto con autocompletado | • Nombre/ID<br> • Tipo de cáncer<br>• Estado de tratamiento<br>• Fecha de última cita | Lista con tarjetas de paciente que muestran foto, nombre, diagnóstico principal y próxima cita
+| **Tratamientos** | Búsqueda combinada (texto + filtros) | • Estado (creado, iniciado, actualizado)<br>• Tipo de tratamiento<br>• Fecha de inicio<br>• Especialista asignado | Vista tabular con opciones para expandir detalles de cada tratamiento
+| **Citas** | Búsqueda en calendario + texto | • Rango de fechas<br>• Estado (creada, confirmada, cancelada)<br>• Tipo de cita<br>• Paciente | Vista de calendario con opción de cambiar a lista, mostrando hora, paciente y tipo de cita
+| **Chat** | Búsqueda en conversaciones | • Paciente<br>• Fecha<br>• Contenido del mensaje<br>• Archivos adjuntos | Fragmentos de conversación con la opción de ver el contexto completo
+
+
+##### Para Pacientes
+
+| Sección | Tipo de Búsqueda | Filtros Disponibles | Visualización de Resultados
+|-----|-----|-----|-----
+| **Tratamientos** | Búsqueda por texto simple | • Estado (activo, completado)<br>• Fecha de inicio<br>• Tipo de tratamiento | Tarjetas con información resumida y opción para ver detalles
+| **Citas** | Búsqueda en calendario | • Estado (solicitada, confirmada, cancelada)<br>• Rango de fechas<br>• Tipo de cita | Vista de calendario con opción de lista, mostrando fecha, hora, doctor y estado
+| **Síntomas** | Búsqueda por categoría y texto | • Tipo de síntoma<br>• Intensidad<br>• Fecha de registro | Gráfico temporal con opción de ver lista detallada
+| **Chat** | Búsqueda en historial | • Fecha<br>• Contenido del mensaje | Fragmentos de conversación con contexto
 
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.5. Navigation Systems</a></h3></il>
