@@ -206,7 +206,7 @@ OnControl se compromete a crear una experiencia inclusiva para todos los usuario
 - Implementar ARIA roles y atributos cuando sea necesario
 
 
-## Implementación y Mantenimiento
+### Implementación y Mantenimiento
 
 Esta guía de estilo debe ser consultada y seguida por todos los miembros del equipo de OnControl. Para mantener la consistencia:
 
