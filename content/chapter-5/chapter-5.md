@@ -373,6 +373,98 @@ Implementamos la organización cronológica en:
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.2. Labelling Systems</a></h3></il>
 
+A continuación, se presenta el sistema de etiquetado utilizado en la Landing Page de OnControl, diseñado para representar de forma clara, concisa y accesible los distintos grupos de información relevantes para médicos oncólogos y pacientes. Las etiquetas seleccionadas utilizan un lenguaje simple, directo y empático, evitando tecnicismos innecesarios para facilitar la navegación y comprensión por parte de todos los usuarios.
+
+### Etiquetas de Navegación Principal
+
+| Etiqueta | Descripción
+|-----|-----
+| **Características** | Funcionalidades clave de la plataforma, presentadas con iconos y descripciones breves.
+| **Beneficios** | Ventajas específicas para médicos y pacientes, organizadas en tarjetas visuales.
+| **Problemática** | Contexto sobre los desafíos en la atención oncológica en Perú y cómo OnControl los aborda.
+| **Testimonios** | Experiencias de usuarios reales, etiquetadas por rol (paciente, médico, familiar).
+| **Contacto** | Formulario para solicitar información o una demostración personalizada.
+| **Descargar App** | Sección dedicada a la descarga de la aplicación para iOS y Android.
+
+
+
+### Etiquetas de la Sección Hero
+
+| Etiqueta | Descripción
+|-----|-----
+| **Apoyo integral para pacientes oncológicos** | Título principal que comunica el propósito central de la plataforma.
+| **Solicitar demo** | Botón transparente que dirige al formulario de contacto para profesionales interesados.
+| **Descargar App** | Botón de acento (naranja) que dirige a la sección de descarga de la aplicación.
+
+
+### Etiquetas de Características
+
+| Etiqueta | Descripción
+|-----|-----
+| **Características principales** | Encabezado de sección que introduce las funcionalidades clave.
+| **Calendario Integrado** | Tarjeta que describe la funcionalidad de gestión de citas y recordatorios.
+| **Gestión de Medicamentos** | Tarjeta que explica el seguimiento de tratamientos y medicación.
+| **Comunicación Directa** | Tarjeta que presenta el sistema de chat entre médicos y pacientes.
+
+
+### Etiquetas de Beneficios
+
+| Etiqueta | Descripción
+|-----|-----
+| **Beneficios** | Encabezado de sección que introduce las ventajas de la plataforma.
+| **Para Médicos Oncólogos** | Subsección que agrupa beneficios específicos para profesionales médicos.
+| **Para Pacientes** | Subsección que agrupa beneficios específicos para personas con cáncer.
+| **Para Familiares** | Subsección que agrupa beneficios para el entorno de apoyo del paciente.
+| **Para el Sistema de Salud** | Subsección que presenta ventajas a nivel institucional y sistémico.
+
+
+### Etiquetas de Problemática
+
+| Etiqueta | Descripción
+|-----|-----
+| **La problemática** | Encabezado de sección que introduce el contexto del problema.
+| **Desafíos en la atención oncológica** | Subtítulo que enmarca la situación actual en Perú.
+| **Más Acerca del Problema** | Etiqueta que introduce el contenido multimedia explicativo.
+
+
+### Etiquetas de Descarga de App
+
+| Etiqueta | Descripción
+|-----|-----
+| **Lleva el control de tu tratamiento donde vayas** | Título que comunica el beneficio principal de la aplicación móvil.
+| **Descargar en App Store** | Botón con ícono de Apple para usuarios iOS.
+| **Disponible en Google Play** | Botón con ícono de Google Play para usuarios Android.
+
+
+### Etiquetas de Testimonios
+
+| Etiqueta | Descripción
+|-----|-----
+| **Lo que dicen nuestros usuarios** | Encabezado que introduce las experiencias de usuarios reales.
+| **[Nombre], Paciente oncológica** | Formato de atribución para testimonios de pacientes.
+| **Dr. [Nombre], Oncólogo** | Formato de atribución para testimonios de médicos.
+| **[Nombre], Familiar de paciente** | Formato de atribución para testimonios de familiares.
+
+
+### Etiquetas de Contacto
+
+| Etiqueta | Descripción
+|-----|-----
+| **¿Listo para mejorar la experiencia oncológica?** | Título que invita a la acción con un tono positivo y orientado a soluciones.
+| **Contáctanos hoy mismo para una demostración personalizada** | Subtítulo que especifica el propósito del formulario.
+| **Tipo de usuario** | Campo desplegable con opciones: Paciente, Médico, Familiar de paciente, Otro.
+| **Enviar** | Botón de envío del formulario con color de acento para destacarlo.
+
+
+### Etiquetas de Footer
+
+| Etiqueta | Descripción
+|-----|-----
+| **Navegación** | Encabezado de columna para enlaces internos del sitio.
+| **Contacto** | Encabezado de columna para información de contacto directo.
+| **Síguenos** | Encabezado de columna para redes sociales.
+| **Política de Privacidad** | Enlace a información legal sobre manejo de datos.
+| **Términos y Condiciones** | Enlace a información legal sobre uso del servicio.
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.3. SEO Tags and Meta Tags</a></h3></il>
 
