@@ -52,6 +52,8 @@ La tipografía principal de OnControl es Poppins, una fuente sans-serif moderna 
 | Small | 0.875rem (14px) | 400 | Texto secundario, pies de página
 
 
+![Image](https://github.com/user-attachments/assets/1c7b0440-c7d0-4818-ac12-5335a309222b)
+
 ### Colors
 
 La paleta de colores de OnControl está diseñada para transmitir confianza, tranquilidad y esperanza, utilizando tonos que reflejan el sector de la salud con acentos que aportan calidez y energía.
@@ -217,8 +219,6 @@ Esta guía de estilo debe ser consultada y seguida por todos los miembros del eq
 
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Information Architecture</a></h3></il>
-
-
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.1. Organization Systems</a></h3></il>
 
 
@@ -236,12 +236,58 @@ Esta guía de estilo debe ser consultada y seguida por todos los miembros del eq
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3. Landing Page UI Design</a></h3></il>
 
+Las Landing Pages juegan un rol fundamental en la conversión de visitantes en potenciales usuarios, empleando para ello mensajes persuasivos, información clave sobre el producto y un diseño intuitivo. Reconociendo su importancia, se ha desarrollado una propuesta de diseño preliminar adaptable tanto a dispositivos móviles como a computadoras de escritorio.
+
+Para la experiencia en computadoras, se ha concebido una interfaz con secciones visuales y opciones de navegación explícitas, acompañadas de descripciones concisas de las funcionalidades principales del sitio web. El objetivo es asegurar una comprensión inmediata y eliminar cualquier posible fricción para el usuario. Adicionalmente, se ha dispuesto una barra de navegación de posición fija, garantizando su accesibilidad constante y facilitando la exploración fluida del contenido de la Landing Page.
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3.1. Landing Page Wireframe</a></h3></il>
 
+En esta sección se presentarán los wireframes de la versión de la versión con menos exactitud del Landing Page.
 
+* **Sección Inicio**
+
+
+* **Sección Beneficios**
+
+
+* **Sección Problema**
+
+
+* **Sección Contacto**
+
+
+* **Sección Descarga**
+
+
+
+
+Figma: [Enlace Figma]()
+
+
+<br>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3.2. Landing Page Mock-up</a></h3></il>
+En esta sección se presenta el mock-up de la landing page diseñada para la plataforma EMSafe. A diferencia del wireframe, este mock-up ofrece una representación visual más cercana al producto final, incorporando elementos gráficos, colores, tipografías y disposición de contenido que reflejan la identidad visual de la marca. El objetivo de esta propuesta es demostrar cómo se comunicarán los principales beneficios del sistema, el problema que resuelve, su ubicación, y facilitar el contacto con potenciales usuarios.
 
 
+* **Sección Inicio**
 
+
+* **Sección Beneficios**
+
+
+* **Sección Problema**
+
+
+* **Sección Testimonio**
+
+
+* **Sección Contacto**
+
+
+* **Sección Descarga**
+
+
+Figma: [Enlace Figma]()
+
+<br>
 
