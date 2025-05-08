@@ -221,6 +221,155 @@ Esta guía de estilo debe ser consultada y seguida por todos los miembros del eq
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Information Architecture</a></h3></il>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.1. Organization Systems</a></h3></il>
 
+Gracias por la aclaración. A continuación te presento la versión mejorada en Markdown que conserva toda la información original sin sintetizarla, pero mejora su presentación visual mediante el uso de cuadros y separación clara por secciones. Se ha respetado el tamaño de los subtítulos y el tono serio del informe.
+
+
+
+En OnControl, hemos diseñado sistemas de organización enfocados exclusivamente en las funcionalidades específicas que implementaremos en nuestra plataforma para satisfacer las necesidades de nuestros dos grupos de usuarios principales: médicos oncólogos y pacientes con cáncer.
+
+### Organización Visual del Contenido
+
+#### 1. Organización Jerárquica (Visual Hierarchy)
+
+Aplicamos la organización jerárquica en las siguientes áreas:
+
+* Landing Page
+
+| Elemento              | Descripción                                                                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Navegación principal  | Estructura con priorización visual clara: las características más importantes (calendario, tratamientos, comunicación) se destacan mediante iconos más grandes y posiciones prominentes. |
+| Sección de beneficios | Organizada jerárquicamente según la relevancia para cada tipo de usuario, comenzando con médicos y luego pacientes.                                                                      |
+
+* Aplicación
+
+| Elemento                | Descripción                                                                                                   |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Menú principal          | Funcionalidades organizadas por importancia: Tratamientos, Citas, Calendario y Chat como elementos primarios. |
+| Sección de tratamientos | Elementos visuales que destacan el estado actual (creado, iniciado, actualizado).                             |
+| Sección de citas        | Indicadores visuales que muestran su estado (creada, cancelada, aceptada).                                    |
+
+
+
+#### 2. Organización Secuencial (Step-by-Step)
+
+Implementamos la organización secuencial en procesos que requieren completar pasos específicos:
+
+* Para Médicos
+
+| Proceso                 | Secuencia de pasos                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Registro de cuenta      | Doctor registrado → Método de pago configurado                                                                               |
+| Creación de tratamiento | Crear tratamiento → Asignar procedimiento → Revisar personal → Editar procedimiento → Aceptar solicitud → Tratamiento creado |
+| Gestión de citas        | Crear cita → Enviar solicitud → Aceptar cita                                                                                 |
+
+* Para Pacientes
+
+| Proceso              | Secuencia de pasos                                         |
+| -------------------- | ---------------------------------------------------------- |
+| Registro de cuenta   | Registrar cuenta → Aceptar solicitud → Paciente registrado |
+| Solicitud de cita    | Solicitud enviada → Solicitud aceptada → Cita creada       |
+| Registro de síntomas | Marcar síntomas personalizados → Registrar síntomas        |
+
+
+
+#### 3. Organización Matricial
+
+Utilizamos la organización matricial para presentar información que puede ser analizada desde múltiples dimensiones:
+
+| Área         | Descripción                                                                                                                                                      |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Calendario   | - Vista matricial que muestra días/fechas (eje horizontal) vs. eventos (eje vertical).<br>- Organización de recordatorios y citas en formato de matriz temporal. |
+| Tratamientos | - Matriz que relaciona procedimientos con fechas de inicio/modificación.<br>- Vista que relaciona tratamientos con especialistas asignados.                      |
+
+
+
+### Esquemas de Categorización de Contenido
+
+#### 1. Categorización por Tópicos
+
+Este es nuestro esquema principal de categorización, aplicado en:
+
+*  Para Médicos
+
+| Área                    | Categorización                                                          |
+| ----------------------- | ----------------------------------------------------------------------- |
+| Menú principal          | Organizado por áreas funcionales: Tratamientos, Citas, Calendario, Chat |
+| Sección de tratamientos | Categorizada por: Tratamientos creados, Procedimientos, Solicitudes     |
+
+* Para Pacientes
+
+| Área                   | Categorización                                                |
+| ---------------------- | ------------------------------------------------------------- |
+| Menú principal         | Organizado por: Solicitudes, Citas, Síntomas, Chat            |
+| Sección de solicitudes | Categorizada por: Solicitudes enviadas, Solicitudes aceptadas |
+
+
+
+#### 2. Categorización por Audiencia
+
+Aplicamos este esquema para diferenciar claramente el contenido según el tipo de usuario:
+
+| Audiencia                  | Descripción                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| Experiencia para Médicos   | Enfocada en la creación de tratamientos, gestión de procedimientos y aprobación de solicitudes. |
+| Experiencia para Pacientes | Centrada en enviar solicitudes, registrar síntomas y comunicarse con su doctor.                 |
+
+* La landing page utiliza esta categorización para presentar beneficios específicos para cada audiencia, con secciones claramente diferenciadas para médicos y pacientes.
+
+
+#### 3. Categorización por Estado
+
+Utilizamos la categorización por estado como esquema principal para organizar elementos según su situación actual:
+
+* Para Médicos
+
+| Elemento       | Estados posibles                    |
+| -------------- | ----------------------------------- |
+| Tratamientos   | Creados, Iniciados, Actualizados    |
+| Procedimientos | Asignados, Realizados, Actualizados |
+| Solicitudes    | Pendientes, Aceptadas, Rechazadas   |
+| Citas          | Creadas, Canceladas                 |
+
+* Para Pacientes
+
+| Elemento    | Estados posibles                 |
+| ----------- | -------------------------------- |
+| Solicitudes | Enviadas, Aceptadas, Rechazadas  |
+| Citas       | Creadas, Confirmadas, Canceladas |
+| Permisos    | Concedidos                       |
+
+
+
+#### 4. Categorización Cronológica
+
+Implementamos la organización cronológica en:
+
+* Calendario
+
+| Elemento      | Organización temporal                                     |
+| ------------- | --------------------------------------------------------- |
+| Recordatorios | Organizados cronológicamente                              |
+| Citas         | Ordenadas por fecha y hora                                |
+| Funcionalidad | Opción para actualizar, eliminar o posponer recordatorios |
+
+* Chat
+
+| Elemento          | Organización temporal          |
+| ----------------- | ------------------------------ |
+| Mensajes          | Organizados cronológicamente   |
+| Historial         | Ordenado por fecha y hora      |
+| Archivos adjuntos | Organizados por fecha de envío |
+
+* Tratamientos
+
+| Elemento                    | Organización temporal                    |
+| --------------------------- | ---------------------------------------- |
+| Historial de modificaciones | Registro cronológico de fechas de inicio |
+| Procedimientos              | Secuencia cronológica de actividades     |
+
+
+
+
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2.2. Labelling Systems</a></h3></il>
 
