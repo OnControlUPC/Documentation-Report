@@ -193,6 +193,28 @@ OnControl utiliza iconos de Font Awesome para mantener un estilo coherente en to
 - Aplicar el mismo estilo de transición para estados hover
 
 
+### Accesibilidad
+
+OnControl se compromete a crear una experiencia inclusiva para todos los usuarios, incluyendo aquellos con discapacidades.
+
+**Principios de accesibilidad:**
+
+- Mantener un contraste de color adecuado (relación mínima de 4.5:1 para texto normal)
+- Utilizar etiquetas semánticas HTML5 (header, nav, main, section, etc.)
+- Incluir atributos alt en todas las imágenes
+- Asegurar que todos los elementos interactivos sean accesibles mediante teclado
+- Implementar ARIA roles y atributos cuando sea necesario
+
+
+## Implementación y Mantenimiento
+
+Esta guía de estilo debe ser consultada y seguida por todos los miembros del equipo de OnControl. Para mantener la consistencia:
+
+1. Revisar esta documentación antes de comenzar nuevos desarrollos
+2. Utilizar los componentes y tokens definidos en este documento
+3. Consultar con el equipo de diseño ante cualquier duda o necesidad de nuevos elementos
+4. Actualizar esta guía cuando se realicen cambios significativos en el diseño
+
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Information Architecture</a></h3></il>
 
