@@ -658,24 +658,27 @@ Para la experiencia en computadoras, se ha concebido una interfaz con secciones 
 
 En esta sección se presentarán los wireframes de la versión de la versión con menos exactitud del Landing Page.
 
-* **Sección Inicio**
+* **Sección Inicio y Caracteristicas**
 
+![Image](https://github.com/user-attachments/assets/0eb45035-16a5-43ec-9d3c-e3d0804f8f2e)
 
 * **Sección Beneficios**
 
+![Image](https://github.com/user-attachments/assets/402f71a5-8e20-4a1d-a88e-0bd3e1e82e64)
 
-* **Sección Problema**
+* **Sección Problema y Testimonios**
 
+![Image](https://github.com/user-attachments/assets/f0bd95a9-1022-4c72-8071-0c74a404571f)
 
 * **Sección Contacto**
+ 
+![Image](https://github.com/user-attachments/assets/25e3440d-18e0-48ad-8d87-75f5c3439a20)
 
+* **Sección Descargas y Footer**
 
-* **Sección Descarga**
+![Image](https://github.com/user-attachments/assets/09051eb1-96b2-4581-821e-d6d3a93cd809)
 
-
-
-
-Figma: [Enlace Figma]()
+Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncontigo-Mockups--Copia-?node-id=0-1&t=n4MWl8U3TC54ga3v-1)
 
 
 <br>
@@ -701,7 +704,7 @@ En esta sección se presenta el mock-up de la landing page diseñada para la pla
 * **Sección Descarga**
 
 
-Figma: [Enlace Figma]()
+Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncontigo-Mockups--Copia-?node-id=0-1&t=n4MWl8U3TC54ga3v-1)
 
 <br>
 
