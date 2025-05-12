@@ -686,23 +686,29 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 En esta sección se presenta el mock-up de la landing page diseñada para la plataforma EMSafe. A diferencia del wireframe, este mock-up ofrece una representación visual más cercana al producto final, incorporando elementos gráficos, colores, tipografías y disposición de contenido que reflejan la identidad visual de la marca. El objetivo de esta propuesta es demostrar cómo se comunicarán los principales beneficios del sistema, el problema que resuelve, su ubicación, y facilitar el contacto con potenciales usuarios.
 
 
-* **Sección Inicio**
+* **Sección Inicio y Caracteristicas**
 
+![Image](https://github.com/user-attachments/assets/95471131-5c17-429c-bcda-c9b43836d22a)
 
 * **Sección Beneficios**
 
+![Image](https://github.com/user-attachments/assets/ed9f1075-69bc-4aa6-9cbd-3278f745a6d1)
 
 * **Sección Problema**
 
+![Image](https://github.com/user-attachments/assets/81632b1a-be84-4b88-b855-d05f47965734)
 
 * **Sección Testimonio**
 
+![Image](https://github.com/user-attachments/assets/a353270c-41cb-4ca4-b8f8-46f879969847)
 
 * **Sección Contacto**
 
+![Image](https://github.com/user-attachments/assets/4a33d806-3072-416c-b973-5a1d117fc236)
 
 * **Sección Descarga**
 
+![Image](https://github.com/user-attachments/assets/d6e78ca1-7e12-493c-92de-a63c3fc5b4c5)
 
 Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncontigo-Mockups--Copia-?node-id=0-1&t=n4MWl8U3TC54ga3v-1)
 
