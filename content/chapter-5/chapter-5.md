@@ -762,7 +762,33 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 
 <img width="209" alt="Image" src="https://github.com/user-attachments/assets/2b0dfda8-9736-4a07-a913-961700a49f53" />
 
+* **Menu principal Paciente**
+
+<img width="249" alt="Image" src="https://github.com/user-attachments/assets/dd98be85-f9f7-4854-880b-821653c09bb0" />
+
+* **Chat Paciente**
+
+<img width="249" alt="Image" src="https://github.com/user-attachments/assets/a8743b98-183d-4de7-b6a5-55e7e7ba94a5" />
+
+* **Calendario Paciente**
+
+<img width="251" alt="Image" src="https://github.com/user-attachments/assets/931e07dd-2e83-4d97-b0cf-6192ee0a0ceb" />
+
+* **Doctor del Paciente**
+
+<img width="249" alt="Image" src="https://github.com/user-attachments/assets/48bd7338-3f44-41b2-959f-1d07604765dc" />
+
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.2. Mobile Applications Wireflow Diagrams</a></h3>
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.3. Mobile Applications Mock-ups</a></h3>
+
+<img width="1420" alt="Image" src="https://github.com/user-attachments/assets/e69129e2-2adc-40fd-a917-a995d1b76052" />
+
+<img width="1659" alt="Image" src="https://github.com/user-attachments/assets/d061cd27-2c66-4978-a5e1-cc0378f8925f" />
+
+<img width="1290" alt="Image" src="https://github.com/user-attachments/assets/f07ebcb9-6f9c-4c9c-9fda-28ab60dce2e4" />
+
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.4. Mobile Applications User Flow Diagrams</a></h3>
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></h3>
+
+ - Video de prueba: 
+ - Prototype Figma link: https://www.figma.com/proto/Q6qOeWezIbHOmzR6j1iWoX/OnControl?node-id=4037-11&p=f&t=m9eeTfSQOcWJTrFF-1&scaling=min-zoom&content-scaling=fixed&page-id=4036%3A2
