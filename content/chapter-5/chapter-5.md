@@ -714,3 +714,55 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 
 <br>
 
+<h2><a href="./content/chapter-5/chapter-5.md">5.1.4. Mobile Applications UX/UI Design</a></h2>
+<h3><a href="./content/chapter-5/chapter-5.md">5.1.4.1. Mobile Applications Wireframes</a></h3>
+
+* **Menu inicial**
+
+<img width="208" alt="Image" src="https://github.com/user-attachments/assets/c2a1fe9a-634f-45dc-a62f-99a85ba8a664" />
+
+* **Calendario**
+
+<img width="211" alt="Image" src="https://github.com/user-attachments/assets/03a6ddda-9e1a-4ccd-9418-7f925210b4db" />
+
+* **Lista Pacientes**
+
+<img width="209" alt="Image" src="https://github.com/user-attachments/assets/238ac66f-a325-4557-aa28-0e690da27d6f" />
+
+* **Chat**
+
+<img width="210" alt="Image" src="https://github.com/user-attachments/assets/39b65c46-bcee-41de-8b3d-c8602361c2e8" />
+
+* **Tratamientos**
+
+<img width="208" alt="Image" src="https://github.com/user-attachments/assets/2f4e43a0-a248-4424-b02d-436435a69eb8" />
+
+
+* **Alarma Paciente**
+
+<img width="211" alt="Image" src="https://github.com/user-attachments/assets/8c19dc3e-c9ec-47e4-b1d7-dd97cd0eb373" />
+
+* **Detalles del Paciente**
+
+<img width="208" alt="Image" src="https://github.com/user-attachments/assets/4d864c18-36d4-4996-a77c-45bf87840318" />
+
+* **Eliminar Paciente**
+
+<img width="209" alt="Image" src="https://github.com/user-attachments/assets/379b153a-e60e-4d96-b7ad-69dba684334a" />
+
+* **Agregar Paciente**
+
+<img width="209" alt="Image" src="https://github.com/user-attachments/assets/54e1f831-6dad-4eab-8def-57edaf66f6af" />
+
+* **Medicamentos**
+
+<img width="208" alt="Image" src="https://github.com/user-attachments/assets/dc16d813-d0a5-4a1b-bdd0-217445285734" />
+
+* **Nueva Cita**
+
+<img width="209" alt="Image" src="https://github.com/user-attachments/assets/2b0dfda8-9736-4a07-a913-961700a49f53" />
+
+<h3><a href="./content/chapter-5/chapter-5.md">5.1.4.2. Mobile Applications Wireflow Diagrams</a></h3>
+<h3><a href="./content/chapter-5/chapter-5.md">5.1.4.3. Mobile Applications Mock-ups</a></h3>
+<h3><a href="./content/chapter-5/chapter-5.md">5.1.4.4. Mobile Applications User Flow Diagrams</a></h3>
+<h3><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></h3>
