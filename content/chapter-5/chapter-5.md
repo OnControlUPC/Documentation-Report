@@ -849,5 +849,5 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></h3>
 
- - Video de prueba: 
+ - Video de prueba: https://youtu.be/y2WA_aQ5S4c
  - Prototype Figma link: https://www.figma.com/proto/Q6qOeWezIbHOmzR6j1iWoX/OnControl?node-id=4037-11&p=f&t=m9eeTfSQOcWJTrFF-1&scaling=min-zoom&content-scaling=fixed&page-id=4036%3A2
