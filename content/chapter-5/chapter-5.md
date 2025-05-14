@@ -779,6 +779,35 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 <img width="249" alt="Image" src="https://github.com/user-attachments/assets/48bd7338-3f44-41b2-959f-1d07604765dc" />
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.2. Mobile Applications Wireflow Diagrams</a></h3>
+
+ - Nueva Cita
+
+![Image](https://github.com/user-attachments/assets/4bceabf9-e6fb-4b01-bfa4-a4f7e62a9abe)
+
+ - Chat
+
+![Image](https://github.com/user-attachments/assets/01124c38-fa7a-461d-a95c-475ed3476560)
+
+ - Tratamientos
+
+![Image](https://github.com/user-attachments/assets/e78c390e-2eeb-4f94-b2a6-d52fb814e10b)
+
+- Detalles del paciente
+
+![Image](https://github.com/user-attachments/assets/60d63e9e-37f9-4af9-92cb-f55ab4a761cf)
+
+ - Agregar paciente
+
+![Image](https://github.com/user-attachments/assets/cd6933bd-6e2c-4e0b-bf5d-fd8768b8681a)
+
+ - Eliminar Paciente
+
+![Image](https://github.com/user-attachments/assets/0d568eab-08d3-4c4c-9064-b5f99c7bd700)
+
+ - Medicamentos
+
+![Image](https://github.com/user-attachments/assets/fb454d5b-6765-4add-80b5-66ca931b4759)
+
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.3. Mobile Applications Mock-ups</a></h3>
 
 <img width="1420" alt="Image" src="https://github.com/user-attachments/assets/e69129e2-2adc-40fd-a917-a995d1b76052" />
@@ -788,6 +817,36 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 <img width="1290" alt="Image" src="https://github.com/user-attachments/assets/f07ebcb9-6f9c-4c9c-9fda-28ab60dce2e4" />
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.4. Mobile Applications User Flow Diagrams</a></h3>
+
+ - Nueva Cita
+
+![Image](https://github.com/user-attachments/assets/397ecaaa-6fc5-4068-9cc8-dffc5edb878a)
+
+ - Chat
+
+![Image](https://github.com/user-attachments/assets/c797d191-e381-4cf1-8f91-874cb54ec128)
+
+ - Tratamientos
+
+![Image](https://github.com/user-attachments/assets/44e0cf36-1976-47b2-bd94-b70e9b612e37)
+
+- Detalles del paciente
+
+![Image](https://github.com/user-attachments/assets/34afd5ba-563e-4e3f-8b8c-692dc73f38a6)
+
+ - Agregar paciente
+
+![Image](https://github.com/user-attachments/assets/312c68e6-c15c-43bd-b9c8-66da0375d31c)
+
+ - Eliminar Paciente
+
+![Image](https://github.com/user-attachments/assets/bb264510-2ec2-476d-a1d9-683910e04f3f)
+
+ - Medicamentos
+
+![Image](https://github.com/user-attachments/assets/26be7253-962d-4e71-9bb6-02dd5a5b7821)
+
+
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></h3>
 
  - Video de prueba: 
