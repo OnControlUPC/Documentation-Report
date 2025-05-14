@@ -778,6 +778,8 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 
 <img width="249" alt="Image" src="https://github.com/user-attachments/assets/48bd7338-3f44-41b2-959f-1d07604765dc" />
 
+ - Link del Figma: https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/OnControl?node-id=4051-820&t=KzPnhtJr2HCN4Xn2-1
+
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.2. Mobile Applications Wireflow Diagrams</a></h3>
 
  - Nueva Cita
@@ -807,6 +809,8 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
  - Medicamentos
 
 ![Image](https://github.com/user-attachments/assets/fb454d5b-6765-4add-80b5-66ca931b4759)
+ 
+ - Link del Miro: https://miro.com/app/board/uXjVI1BluwA=/?share_link_id=789991464451
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.3. Mobile Applications Mock-ups</a></h3>
 
@@ -815,6 +819,8 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 <img width="1659" alt="Image" src="https://github.com/user-attachments/assets/d061cd27-2c66-4978-a5e1-cc0378f8925f" />
 
 <img width="1290" alt="Image" src="https://github.com/user-attachments/assets/f07ebcb9-6f9c-4c9c-9fda-28ab60dce2e4" />
+
+ - Link del Figma: https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/OnControl?node-id=4051-820&t=KzPnhtJr2HCN4Xn2-1
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.4. Mobile Applications User Flow Diagrams</a></h3>
 
@@ -846,6 +852,7 @@ Figma: [Enlace Figma](https://www.figma.com/design/Q6qOeWezIbHOmzR6j1iWoX/Oncont
 
 ![Image](https://github.com/user-attachments/assets/26be7253-962d-4e71-9bb6-02dd5a5b7821)
 
+ - Link del Miro: https://miro.com/app/board/uXjVI1BluwA=/?share_link_id=789991464451
 
 <h3><a href="./content/chapter-5/chapter-5.md">5.1.4.5. Mobile Applications Prototyping</a></h3>
 
