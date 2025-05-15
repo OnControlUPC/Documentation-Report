@@ -662,6 +662,22 @@ https://oncontrolupc.github.io/landingprueba/
     └── videos/
 
 ```
+### Despliegue del Landing Page
+
+Para el despliegue de nuestro landing page, utilizamos GitHub Pages, una plataforma que nos permite publicar sitios web estáticos directamente desde un repositorio de GitHub. Esto nos facilitó compartir el proyecto en línea de manera gratuita, rápida y sin necesidad de configurar un servidor adicional.
+
+* Estructura del Repositorio
+
+La estructura del repositorio está organizada de forma clara y modular. Incluye carpetas separadas para los estilos (/css), imágenes (/imgs) y scripts (/scripts), así como el archivo principal index.html. Esta organización favorece el mantenimiento del código y la colaboración en equipo.
+
+![image](https://github.com/user-attachments/assets/a1e5ec6d-efe5-4643-974f-48dd911644e2)
+
+* Github Page
+
+Una vez completado el desarrollo, configuramos la rama principal del repositorio para que GitHub Pages sirviera automáticamente el contenido. Esto generó una URL pública desde la cual cualquier usuario puede acceder al sitio web.
+
+![image](https://github.com/user-attachments/assets/b974c55e-1d03-4fca-b18e-a45790073539)
+
 ### Despliegue del Backend
 
 ##### 1. Creación de aplicación web + base de datos
