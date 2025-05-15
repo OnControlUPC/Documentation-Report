@@ -198,7 +198,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
           <li>
             <b>Gongora Castillejos, Williams<br/>
             TB1</b><br/>
-            Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/>
+            Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/><br/>
+             TP</b><br/>
+            Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas. <br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -232,7 +234,9 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
           <li>
             <b>Gongora Castillejos, Williams<br/>
             TB1</b><br/>
-            Reconocí la importancia de actualizarme constantemente, por lo que reforcé mis conocimientos en metodologías modernas como Domain-Driven Design. Esta actitud me permitió aplicar soluciones más estructuradas y efectivas durante el desarrollo del proyecto.<br/>
+            Reconocí la importancia de actualizarme constantemente, por lo que reforcé mis conocimientos en metodologías modernas como Domain-Driven Design. Esta actitud me permitió aplicar soluciones más estructuradas y efectivas durante el desarrollo del proyecto<br/><br/>
+             TP</b><br/>
+            A lo largo del proyecto, comprendí la importancia de mantenerme en constante actualización, especialmente en temas como diseño de interfaces, estructura de contenidos y optimización para motores de búsqueda. Dado que las tecnologías, estándares de usabilidad y expectativas de los usuarios cambian constantemente, reconozco que el aprendizaje continuo es esencial para ofrecer soluciones de software relevantes, funcionales y competitivas en el mercado actual. <br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -269,7 +273,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 
    | **Integrantes**              | **Objetivos**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Williams Gongora Castillejos | Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad.                                                                                                                                                                                                                                                         |
+| Williams Gongora Castillejos | * Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad.<br><br> * Dominar el uso de HTML, CSS y JavaScript para el diseño y desarrollo de landing pages modernas y responsivas en un plazo de 12 meses. Esto me permitirá posicionarme como desarrollador front-end en proyectos web profesionales.         |
 | Quique Vladimir Jara Benites | Realizar pruebas exhaustivas de la aplicación móvil en las áreas de funcionalidad, usabilidad y rendimiento para garantizar su estabilidad y usabilidad antes del lanzamiento. Esto incluye completar al menos 20 pruebas de usabilidad y 10 pruebas de rendimiento, con un 90% de satisfacción en las respuestas de los testers, dedicando 5 horas a la semana durante los próximos 2 meses para asegurar que la app cumpla con los estándares de calidad y brinde una excelente experiencia al usuario |
 | Quispe Roldan Michael Fred   | - Fortalecer mis competencias técnicas mediante la realización de cursos especializados, obteniendo certificaciones profesionales en los próximos meses para mejorar mi perfil profesional y empleabilidad a corto plazo.<br/> - Incrementar mis conocimientos y habilidades en áreas clave relacionadas con mi carrera profesional mediante formación continua y práctica constante, logrando avances medibles que impacten positivamente en mi desarrollo profesional a mediano plazo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 | Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora.                                                                                                                                                                                                                                                                                                    |
@@ -367,9 +371,9 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 <p><a href="./content/chapter-6/chapter-6.md">6.1.3. Source Code Style Guide & Conventions</a></p>
 <p><a href="./content/chapter-6/chapter-6.md">6.1.4. Software Deployment Configuration</a></p>
 <h3><a href="./content/chapter-6/chapter-6.md">6.2. Landing Page & Mobile Application Implementation</a></h3>
-<p><a href="./content/chapter-6/chapter-6.md">6.2.X. Sprint n</a></p>
-<p><a href="./content/chapter-6/chapter-6.md">6.2.X.1. Sprint Planning n</a></p>
-<p><a href="./content/chapter-6/chapter-6.md">6.2.X.2. Sprint Backlog n</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X. Sprint 1</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.1. Sprint Planning 1</a></p>
+<p><a href="./content/chapter-6/chapter-6.md">6.2.X.2. Sprint Backlog 1</a></p>
 <p><a href="./content/chapter-6/chapter-6.md">6.2.X.3. Development Evidence for Sprint Review</a></p>
 <p><a href="./content/chapter-6/chapter-6.md">6.2.X.4. Testing Suite Evidence for Sprint Review</a></p>
 <p><a href="./content/chapter-6/chapter-6.md">6.2.X.5. Execution Evidence for Sprint Review</a></p>
