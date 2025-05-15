@@ -609,7 +609,107 @@ https://oncontrolupc.github.io/landingprueba/
     └── videos/
 
 ```
+### Despliegue del Backend
 
+##### 1. Creación de aplicación web + base de datos
+- **Contenido**: Formulario de configuración de App Service y base de datos.
+- **Pasos clave**:
+  1. Elegir **Sistema operativo** (Windows/Linux) y **Región** (ej. East US 2).
+  2. Configurar **Plan de App Service** con tamaño (SKU) y memoria.
+  3. Crear base de datos **MySQL** con opciones como almacenamiento y versión.
+  
+ <img src="https://github.com/user-attachments/assets/0def481f-dadc-4807-ae38-32384f48182b5"/>
+
+##### 2. Detalles de implementación en curso
+- **Contenido**: Nombre de implementación, grupo de recursos y fecha de inicio.
+- **Pasos clave**:
+  1. Verificar el **Nombre de implementación**: `Microsoft.Web-WebAppDatabase-Portal-i623e2b4-b638`.
+  2. Confirmar el **Grupo de recursos asociado**: `orecipital`.
+  3. Revisar el estado **"La implementación está en curso"** y logs en **Detalles de la operación**.
+     
+  <img src="https://github.com/user-attachments/assets/0fd86907-a034-47a6-9a6c-12d0558aac1d"/>
+
+##### 3. Progreso de la implementación
+- **Contenido**: Lista de verificación con elementos completados (✓) y pendientes ( ).
+- **Pasos clave**:
+  1. Configurar **Grupo de recursos** y **Vnet** para la infraestructura.
+  2. Habilitar **Microsoft Defender for Cloud** para seguridad.
+  3. Definir alertas de costos para evitar sobrecargos.
+  4. Enlazar recursos con **Asociación** y **Identificación de implementación**.
+  
+ <img src="https://github.com/user-attachments/assets/fccdebe8-7c4c-458a-a9dc-94ac30b6f223"/>
+
+##### 4. Configuración de red privada y DNS
+- **Contenido**: Lista de recursos de red (VNet, zonas DNS privadas).
+- **Pasos clave**:
+  1. Vincular **Red virtual (VNet)** con la aplicación.
+  2. Crear **Zonas DNS privadas** para servicios como MySQL (`privatelink.mysql.database.azure.com`).
+  3. Establecer **Vínculos de red virtual** para acceso seguro a recursos.
+     
+ <img src="https://github.com/user-attachments/assets/8ad2d4b5-3017-41a4-a76a-f94aa9fb448d"/>
+
+##### 5. Configuración de variables de entorno y conexión a MySQL
+- **Contexto**: Sección de **Environment variables** en Azure App Service.
+- **Pasos clave**:
+  1. **Agregar variables de entorno**:
+     - Nombre: `ADJAE_UHTML_CONNECTIONSTRING`.
+     - Valor: Cadena de conexión a la base de datos MySQL (`Server=mi-servidor.mysql.database.stan.com;Database=oncontrol-database`).
+  2. **Configurar tipo y origen**:
+     - **Type**: MySQL (indica el motor de base de datos).
+     - **Source**: App Service (origen de la configuración).
+  3. **Acciones adicionales**:
+     - Opciones para edición avanzada o referencia completa de valores
+       
+ <img src="https://github.com/user-attachments/assets/0133e82c-857d-4675-ab72-31a6e1a07791"/>
+
+ ##### 6. Configuración de GitHub Actions para CI/CD
+- **Contexto**: Integración de Azure con GitHub Actions en **Deployment Center**.
+- **Pasos clave**:
+  1. **Vincular repositorio de GitHub**:
+     - **Organization**: `OnControlUPC`.
+     - **Repository**: `oncontrol-platform`.
+     - **Branch**: `main`.
+  2. **Definir workflow**:
+     - Crear un nuevo archivo YAML (`main_oncontrol.yml`) o usar uno existente.
+     - **Runtime stack**: .NET 8.0 (entorno de ejecución).
+  3. **Autenticación**:
+     - Elegir entre:
+       - **User-assigned identity**: Federación con Azure AD para permisos automatizados.
+       - **Basic authentication**: Credenciales manuales (menos seguro).
+     - **Suscripción asociada**: `Azure for Students`.
+  4. **Advertencias**:
+     - Evitar configurar CI/CD directamente en el **production slot** (no recomendado).
+     - Requiere permisos de escritura en el repositorio de GitHub.
+
+<img src="https://github.com/user-attachments/assets/c603dc47-5146-41b6-8f77-7f30868e4a65"/>
+
+##### 7. Deployment Center y flujo de GitHub Actions
+- **Contexto**: Configuración de automatización de despliegues en **Deployment Center**.
+- **Pasos clave**:
+  1. **Seleccionar origen**:
+     - Proveedor: **GitHub**.
+     - **Building with GitHub Actions**: Automatiza builds y despliegues.
+  2. **Detalles del workflow**:
+     - **Trigger**: Se activa con commits en la rama `main`.
+     - **Permisos**: Habilitar permisos adicionales en GitHub si es necesario.
+  3. **Configuración de seguridad**:
+     - **Microsoft Defender for Cloud**: Protege la infraestructura.
+     - **Alertas**: Monitorear eventos y costos.
+  4. **Advertencias clave**:
+     - **No usar el slot de producción para CI/CD**: Usar slots de staging para pruebas.
+     - **Validar archivo YAML**: Asegurar que el workflow no tenga errores de sintaxis.
+    
+<img src="https://github.com/user-attachments/assets/82ec9c77-539f-4e09-9278-05440a8c6fba"/>
+
+##### 8. Resultado de implementación exitosa
+- **Contenido**: Logs de ejecución y advertencias.
+- **Pasos clave**:
+  1. Verificar **Estado: Success** y duración (`20s`).
+  2. Revisar **Annotations** para resolver errores (ej: propiedades no nulas en código).
+  3. Acceder a enlaces de logs (`http://executor.buildbrackleapp.eu/index`).
+
+<img src="ttps://github.com/user-attachments/assets/a70ebc4b-7cc8-4084-9e7f-fe1394da718b"/>
+ 
 #### 6.2.1.7. Team Collaboration Insights during Sprint
 
 
