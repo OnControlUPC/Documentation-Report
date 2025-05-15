@@ -220,7 +220,7 @@ En esta sección se expone el avance correspondiente al Sprint 1, planificando e
     </tr>
     <tr>
         <th>Prepared By</th>
-        <td>Quispe Quique Vladimir Jara Benites</td>
+        <td>Quique Vladimir Jara Benites</td>
     </tr>
     <tr>
         <th>Attendees</th>
