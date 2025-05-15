@@ -234,6 +234,25 @@ https://oncontrolupc.github.io/landingprueba/
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
 
+#### Desktop Web Browser
+
+<img src="https://github.com/user-attachments/assets/bbf1b3bc-7ec9-4c73-af17-e22bdce32bc2"/>
+
+ #### Benefits
+ <img src="https://github.com/user-attachments/assets/408e9c84-b197-4ad5-84aa-c3cbc1e502d1"/>
+
+ #### The problem
+ <img src="https://github.com/user-attachments/assets/173cb90d-e7ca-4e8f-866f-902bb645b985"/>
+
+ #### What our users say
+ <img src="https://github.com/user-attachments/assets/ebf0be4f-5531-4d57-a379-836b59a9a741"/>
+
+ #### Download Our App
+ <img src="https://github.com/user-attachments/assets/2b116bc0-1f1e-4170-9e69-e4a48545e05a"/>
+
+  #### Footer
+ <img src="https://github.com/user-attachments/assets/91ca2728-48b9-4d08-a8fe-82af82e5d5f7"/>
+
 
 
 
