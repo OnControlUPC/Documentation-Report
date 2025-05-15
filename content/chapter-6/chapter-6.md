@@ -196,54 +196,118 @@ https://oncontrolupc.github.io/landingprueba/
 
 ### 6.2.1. Sprint 1
 
+En esta sección se expone el avance correspondiente al Sprint 1, planificando el desarrollo y despliegue del Landing Page de la startup. Adicionalmente, durante este sprint se sentaron las bases para el backend de la aplicación, se definieron los procesos de despliegue iniciales y se realizó una primera aproximación al desarrollo de la app móvil. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review
+
 #### 6.2.1.1. Sprint Planning 1
 
 
 <table>
-      <tr>
+    <tr>
         <th>Sprint 1</th>
         <td>Sprint 1</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Sprint Planning Date</th>
         <td>2025-05-05</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Time</th>
         <td>03:00 PM</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Location</th>
         <td>Meet</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Prepared By</th>
         <td>Quispe Quique Vladimir Jara Benites</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Attendees</th>
         <td>Williams Góngora / Oscar Garayar / Juan Ramos / Michael Quispe / Williams Góngora</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Sprint Goal</th>
-        <td>Implementar funcionalidades base: Landing Page operativa, sistema de autenticación y estructura móvil esencial</td>
-      </tr>
-      <tr>
+        <td>Entregar Landing Page funcional, desarrollo del Backend y estructura inicial con funcionalidades para la app móvil.</td>
+    </tr>
+    <tr>
         <th>Sprint Velocity</th>
         <td>5</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <th>Sum of Story Points</th>
         <td>18</td>
-      </tr>
-    </table>
+    </tr>
+</table>
 
+<br>
 
 
 #### 6.2.1.2. Sprint Backlog 1
 
+Esta primera iteración se centró en el desarrollo y despliegue completo de nuestra Landing Page, junto con la creación y el despliegue de la arquitectura del backend principal y la implementación de la primera versión de nuestra aplicación móvil.
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Épica</th>
+            <th>Responsable</th>
+            <th>Puntos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US37</td>
+            <td>Visualizar landing page</td>
+            <td>Landing Page</td>
+            <td>Williams Gongora</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>US38</td>
+            <td>Acceso a la app</td>
+            <td>Landing Page</td>
+            <td>Williams Gongora</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Registrar cuenta</td>
+            <td>Autenticación (Backend & App)</td>
+            <td>Vladimir Jara</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Iniciar sesión</td>
+            <td>Autenticación (Backend & App)</td>
+            <td>Vladimir Jara</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Cerrar sesión</td>
+            <td>Autenticación (Backend & App)</td>
+            <td>Vladimir Jara</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Recuperación de cuenta</td>
+            <td>Autenticación (Backend & App)</td>
+            <td>Vladimir Jara</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
+
+
    <table border="1">
-      <tr>
+    <tr>
         <th>Sprint #</th>
         <th>User Story</th>
         <th>Work-item/Task</th>
@@ -253,9 +317,8 @@ https://oncontrolupc.github.io/landingprueba/
         <th>Estimation (Hours)</th>
         <th>Assigned To</th>
         <th>Status</th>
-      </tr>
-      <!-- Landing Page -->
-      <tr>
+    </tr>
+    <tr>
         <td rowspan="3">Sprint 1</td>
         <td rowspan="3">US37: Visualizar landing page</td>
         <td>TA01</td>
@@ -263,29 +326,28 @@ https://oncontrolupc.github.io/landingprueba/
         <td>Diseño UI/UX landing</td>
         <td>Crear prototipo Figma con estructura básica y elementos visuales</td>
         <td>8</td>
-        <td>Oscar Garayar</td>
+        <td>Williams Góngora</td>
         <td>Done</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td>TA02</td>
         <td>#182062302</td>
         <td>Desarrollo frontend básico</td>
         <td>Implementar estructura HTML/CSS con responsive design</td>
         <td>12</td>
         <td>Williams Góngora</td>
-        <td>In Progress</td>
-      </tr>
-      <tr>
+        <td>Dones</td>
+    </tr>
+    <tr>
         <td>TA03</td>
         <td>#182062303</td>
         <td>Integración con redes sociales</td>
         <td>Agregar botones sociales y enlaces funcionales</td>
         <td>4</td>
-        <td>Michael</td>
-        <td>To Do</td>
-      </tr>
-      <!-- Backend -->
-      <tr>
+        <td>Williams Góngora</td>
+        <td>Done</td>
+    </tr>
+    <tr>
         <td rowspan="2">Sprint 1</td>
         <td rowspan="2">US01: Registrar cuenta</td>
         <td>TA04</td>
@@ -293,40 +355,101 @@ https://oncontrolupc.github.io/landingprueba/
         <td>API de registro</td>
         <td>Desarrollar endpoint POST /register con validación básica</td>
         <td>6</td>
-        <td>Juan Ramos</td>
+        <td>Vladimir Jara</td>
         <td>Done</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
         <td>TA05</td>
         <td>#182062305</td>
-        <td>Formulario frontend</td>
-        <td>Crear componente React con validación de campos</td>
+        <td>Formulario de registro</td>
+        <td>Crear componente React con validación de campos para registro</td>
         <td>8</td>
-        <td>Quique Jara</td>
-        <td>In Progress</td>
-      </tr>
-      <!-- App Móvil -->
-      <tr>
+        <td>Vladimir Jara</td>
+        <td>Done</td>
+    </tr>
+    <tr>
         <td rowspan="2">Sprint 1</td>
-        <td rowspan="2">US09: Mandar solicitud de cita</td>
+        <td rowspan="2">US01: Registrar cuenta</td>
+        <td>TA08</td>
+        <td>#182062308</td>
+        <td>UI Registro App Móvil</td>
+        <td>Diseñar interfaz de usuario para el registro en la app móvil (React Native)</td>
+        <td>8</td>
+        <td>Vladimir Jara</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TA09</td>
+        <td>#182062309</td>
+        <td>Integración API Registro (App Móvil)</td>
+        <td>Conectar el formulario de registro móvil con la API /register</td>
+        <td>6</td>
+        <td>Juan Ramos</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Sprint 1</td>
+        <td rowspan="2">US03: Iniciar sesión</td>
+        <td>TA10</td>
+        <td>#182062310</td>
+        <td>API de inicio de sesión</td>
+        <td>Desarrollar endpoint POST /login con autenticación</td>
+        <td>6</td>
+        <td>Juan Ramos</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TA11</td>
+        <td>#182062311</td>
+        <td>Formulario de inicio de sesión (Frontend)</td>
+        <td>Crear componente React para el inicio de sesión</td>
+        <td>6</td>
+        <td>Williams Góngora</td>
+        <td>To Do</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Sprint 1</td>
+        <td rowspan="2">US03: Iniciar sesión</td>
+        <td>TA12</td>
+        <td>#182062312</td>
+        <td>UI Inicio de Sesión App Móvil</td>
+        <td>Diseñar interfaz de usuario para el inicio de sesión en la app móvil (React Native)</td>
+        <td>6</td>
+        <td>Vladimir Jara</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TA13</td>
+        <td>#182062313</td>
+        <td>Integración API Login (App Móvil)</td>
+        <td>Conectar el formulario de inicio de sesión móvil con la API /login</td>
+        <td>4</td>
+        <td>Vladimir Jara</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>Sprint 1</td>
+        <td>US09: Mandar solicitud de cita</td>
         <td>TA06</td>
         <td>#182062306</td>
         <td>Componente calendario</td>
-        <td>Implementar selector de fechas en React Native</td>
+        <td>Implementar selector de fechas básico en React Native</td>
         <td>10</td>
         <td>Quique Vladimir Jara Benites</td>
         <td>In Progress</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
+        <td>Sprint 1</td>
+        <td>US09: Mandar solicitud de cita</td>
         <td>TA07</td>
         <td>#182062307</td>
-        <td>Integración backend</td>
-        <td>Conectar con API de citas</td>
+        <td>Integración backend (Citas - Mock o MVP)</td>
+        <td>Conectar con API de citas (implementación básica o mock para MVP)</td>
         <td>6</td>
         <td>Oscar Garayar</td>
         <td>To Do</td>
-      </tr>
-    </table>
+    </tr>
+</table>
 
 
 #### 6.2.1.3. Development Evidence for Sprint Review
@@ -376,6 +499,8 @@ https://oncontrolupc.github.io/landingprueba/
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
 
+En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page operativa que comunica la propuesta de valor, dirige a las tiendas de aplicaciones y permite la suscripción por correo electrónico. Adicionalmente, se completó la creación y el despliegue del backend, incluyendo las APIs necesarias para la gestión de usuarios y la autenticación. Finalmente, se desarrolló e implementó la primera versión de nuestra aplicación móvil, permitiendo a los usuarios registrarse e iniciar sesión en la plataforma.
+
 #### Header
 
  <img src="https://github.com/user-attachments/assets/91ca2728-48b9-4d08-a8fe-82af82e5d5f7"/>
@@ -404,7 +529,10 @@ https://oncontrolupc.github.io/landingprueba/
 
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review
 
+Durante el presente Sprint, se desarrollaron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente la aplicación.
 
+
+![Api](https://github.com/user-attachments/assets/9dc5be2b-ce4b-4920-a21b-61ce14b29ef3)
 
 
 
