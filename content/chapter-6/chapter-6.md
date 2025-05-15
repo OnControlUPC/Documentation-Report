@@ -171,23 +171,19 @@ getMedication(){}
 
 - Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:
 https://oncontrolupc.github.io/landingprueba/
-<br>
 - Para el desarrollo del Landing Page de OnControl se han utilizado las siguientes herramientas:
     - Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
-        Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido
-        realizado en su rama individual.
-     - Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale
-        Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
+      Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual.
+    - Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúable.
+      Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
     - JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page.
-        Evidencia: Se muestra el documento main.js.
-<br>
+      Evidencia: Se muestra el documento main.js.
+
 - El despliegue del Landing Page de OnControl no pudo ser posible sin utilizar las siguientes tecnologías:
-    - Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones.
-El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page
+    - Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones, el cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page
     - Github: Plataforma de desarrollo colaborativo
-    - Git Flow:Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al
-desarrollo del Landing Page
-    -  Git Hub PagesServicio de Github que nos permitió alojar nuestra Landing page.
+    - Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page
+    -  Git Hub Pages: Servicio de Github que nos permitió alojar nuestra Landing page.
 - Asimismo, se han realizado los siguientes pasos:
     - Dirigirse al repositorio de la página: Dado que se ha empleado Github, debemos ir al repositorio creado en este sitio web para publicar el Landing Page que ha desarrollado el equipo. Desde aquí, se podrá iniciar la configuración del vínculo de la página dirigiéndonos al apartado de Settings.
     - Ir a la opción de páginas: Una vez presentes la configuración del repositorio, debemos dirigirnos a la sección de Pages. Esto se debe a que ahí se encuentran todas las opciones de configuración de publicación de la página en un link o vínculo
