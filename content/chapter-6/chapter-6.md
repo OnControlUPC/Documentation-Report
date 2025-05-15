@@ -198,38 +198,188 @@ https://oncontrolupc.github.io/landingprueba/
 
 #### 6.2.1.1. Sprint Planning 1
 
-| Elemento                     | Detalle                                                                 |
-|-----------------------------|-------------------------------------------------------------------------|
-| Sprint #                    | Sprint 1                                                                |
-| Sprint Planning Date        | 2025-10-05                                                              |
-| Time                        | 03:00 PM                                                                |
-| Location                    | Meet                                          |
-| Prepared By                 | Quique Vladimir Jara Benites                                             |
-| Attendees                   | Williams Góngora / Quique Jara / Oscar Garayar / Juan Ramos / Michael Quispe |
-| Sprint Review Summary       | No aplica (primer sprint).                                             |
-| Sprint Retrospective Summary| No aplica (primer sprint).                                             |
-| Sprint Goal                 | Diseñar y presentar la estructura inicial del proyecto OnControl, definiendo mockups, visión y funcionalidades clave de la aplicación para oncología. |
-| Sprint Velocity             | 4                                                                       |
-| Sum of Story Points         | 15                                                                      |
+
+<table>
+      <tr>
+        <th>Sprint 1</th>
+        <td>Sprint 1</td>
+      </tr>
+      <tr>
+        <th>Sprint Planning Date</th>
+        <td>2025-05-05</td>
+      </tr>
+      <tr>
+        <th>Time</th>
+        <td>03:00 PM</td>
+      </tr>
+      <tr>
+        <th>Location</th>
+        <td>Meet</td>
+      </tr>
+      <tr>
+        <th>Prepared By</th>
+        <td>Quispe Quique Vladimir Jara Benites</td>
+      </tr>
+      <tr>
+        <th>Attendees</th>
+        <td>Williams Góngora / Oscar Garayar / Juan Ramos / Michael Quispe / Williams Góngora</td>
+      </tr>
+      <tr>
+        <th>Sprint Goal</th>
+        <td>Implementar funcionalidades base: Landing Page operativa, sistema de autenticación y estructura móvil esencial</td>
+      </tr>
+      <tr>
+        <th>Sprint Velocity</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Sum of Story Points</th>
+        <td>18</td>
+      </tr>
+    </table>
 
 
 
 #### 6.2.1.2. Sprint Backlog 1
 
-| Sprint # | User Story                          | Task   | ID     | Title                                | Description                                                       | Hours | Assigned To      | Status |
-|----------|--------------------------------------|--------|--------|--------------------------------------|-------------------------------------------------------------------|--------|------------------|--------|
-| Sprint 1 | HU01: Definición de la idea          | TA01   | #001   | Redacción de la visión del producto  | Definir la visión principal de la aplicación OnControl            | 3      | Michael Quispe   | Done   |
-| Sprint 1 | HU02: Perfil del equipo              | TA02   | #002   | Recolección de perfiles              | Descripción de integrantes y sus habilidades                      | 2      | Juan Ramos       | Done   |
-| Sprint 1 | HU03: Definición de usuarios y problemas | TA03   | #003   | Identificación de segmentos          | Segmentación del público objetivo y problemática                  | 3      | Williams Góngora | Done   |
-
+   <table border="1">
+      <tr>
+        <th>Sprint #</th>
+        <th>User Story</th>
+        <th>Work-item/Task</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status</th>
+      </tr>
+      <!-- Landing Page -->
+      <tr>
+        <td rowspan="3">Sprint 1</td>
+        <td rowspan="3">US37: Visualizar landing page</td>
+        <td>TA01</td>
+        <td>#182062301</td>
+        <td>Diseño UI/UX landing</td>
+        <td>Crear prototipo Figma con estructura básica y elementos visuales</td>
+        <td>8</td>
+        <td>Oscar Garayar</td>
+        <td>Done</td>
+      </tr>
+      <tr>
+        <td>TA02</td>
+        <td>#182062302</td>
+        <td>Desarrollo frontend básico</td>
+        <td>Implementar estructura HTML/CSS con responsive design</td>
+        <td>12</td>
+        <td>Williams Góngora</td>
+        <td>In Progress</td>
+      </tr>
+      <tr>
+        <td>TA03</td>
+        <td>#182062303</td>
+        <td>Integración con redes sociales</td>
+        <td>Agregar botones sociales y enlaces funcionales</td>
+        <td>4</td>
+        <td>Michael</td>
+        <td>To Do</td>
+      </tr>
+      <!-- Backend -->
+      <tr>
+        <td rowspan="2">Sprint 1</td>
+        <td rowspan="2">US01: Registrar cuenta</td>
+        <td>TA04</td>
+        <td>#182062304</td>
+        <td>API de registro</td>
+        <td>Desarrollar endpoint POST /register con validación básica</td>
+        <td>6</td>
+        <td>Juan Ramos</td>
+        <td>Done</td>
+      </tr>
+      <tr>
+        <td>TA05</td>
+        <td>#182062305</td>
+        <td>Formulario frontend</td>
+        <td>Crear componente React con validación de campos</td>
+        <td>8</td>
+        <td>Quique Jara</td>
+        <td>In Progress</td>
+      </tr>
+      <!-- App Móvil -->
+      <tr>
+        <td rowspan="2">Sprint 1</td>
+        <td rowspan="2">US09: Mandar solicitud de cita</td>
+        <td>TA06</td>
+        <td>#182062306</td>
+        <td>Componente calendario</td>
+        <td>Implementar selector de fechas en React Native</td>
+        <td>10</td>
+        <td>Quique Vladimir Jara Benites</td>
+        <td>In Progress</td>
+      </tr>
+      <tr>
+        <td>TA07</td>
+        <td>#182062307</td>
+        <td>Integración backend</td>
+        <td>Conectar con API de citas</td>
+        <td>6</td>
+        <td>Oscar Garayar</td>
+        <td>To Do</td>
+      </tr>
+    </table>
 
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 
-
+ <table border="1">
+      <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on</th>
+      </tr>
+      <tr>
+        <td>frontend/landing-page</td>
+        <td>feature/header</td>
+        <td>a1b2c3d</td>
+        <td>feat: main header component</td>
+        <td>Added responsive navbar</td>
+        <td>2025-05-07</td>
+      </tr>
+      <tr>
+        <td>backend/auth-service</td>
+        <td>feature/register</td>
+        <td>e4f5g6h</td>
+        <td>feat: registration endpoint</td>
+        <td>Implemented JWT validation</td>
+        <td>2025-05-10</td>
+      </tr>
+      <tr>
+        <td>mobile-app</td>
+        <td>feature/calendar</td>
+        <td>i7j8k9l</td>
+        <td>feat: date picker component</td>
+        <td>Added calendar UI with day selection</td>
+        <td>2025-05-12</td>
+      </tr>
+      <tr>
+        <td>frontend/landing-page</td>
+        <td>develop</td>
+        <td>m0n1o2p</td>
+        <td>fix: mobile responsiveness</td>
+        <td>Adjusted breakpoints for tablets</td>
+        <td>2025-05-13</td>
+      </tr>
+    </table>
 
 #### 6.2.1.4. Execution Evidence for Sprint Review
 
+#### Header
+
+ <img src="https://github.com/user-attachments/assets/91ca2728-48b9-4d08-a8fe-82af82e5d5f7"/>
+ 
 #### Desktop Web Browser
 
 <img src="https://github.com/user-attachments/assets/bbf1b3bc-7ec9-4c73-af17-e22bdce32bc2"/>
@@ -247,8 +397,8 @@ https://oncontrolupc.github.io/landingprueba/
  <img src="https://github.com/user-attachments/assets/2b116bc0-1f1e-4170-9e69-e4a48545e05a"/>
 
   #### Footer
- <img src="https://github.com/user-attachments/assets/91ca2728-48b9-4d08-a8fe-82af82e5d5f7"/>
 
+  <img src="https://github.com/user-attachments/assets/dbcaf820-268d-40fd-896c-da0eaad6ce1b"/>
 
 
 
