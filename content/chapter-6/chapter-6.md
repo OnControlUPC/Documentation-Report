@@ -410,11 +410,77 @@ https://oncontrolupc.github.io/landingprueba/
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
 
-- Repositorio inicial creado en GitHub: [https://github.com/OnControlUPC](https://github.com/OnControlUPC)
-- Estructura base para la Landing Page.
-- Implementación preliminar de HTML y CSS del index principal.
+
+##### Secciones implementadas en el Landing Page
+Puedes visualizar todas las funcionalidades en el siguiente enlace:  
+https://oncontrolupc.github.io/landingprueba/
 
 
+
+##### Herramientas de desarrollo utilizadas
+- **HTML**: Lenguaje base para estructura web  
+  *Evidencia:*  
+  `index.html` (archivo principal con integración de todas las secciones)  
+  `contact.html` (formulario de contacto funcional)
+
+- **CSS**: Estilos y diseño responsive  
+  *Evidencia:*  
+  `styles/main.css` (estilos globales)  
+  `styles/sections.css` (diseño por componentes)
+
+- **JavaScript**: Interactividad y validaciones  
+  *Evidencia:*  
+  `js/form-validation.js` (validación de formularios)  
+  `js/animations.js` (efectos de scroll)
+
+
+##### Tecnologías clave para el despliegue
+1. **Git**  
+   Control de versiones para trabajo colaborativo
+2. **GitHub**  
+   Plataforma de hosting para repositorio principal
+3. **Git Flow**  
+   Flujo de trabajo con ramas:  
+   - `develop` (integración continua)  
+   - `feature/*` (desarrollo por secciones)
+4. **GitHub Pages**  
+   Servicio de hosting estático para el despliegue final
+
+
+
+##### Proceso de despliegue
+1. **Configuración del repositorio**  
+   - Creación del repo en GitHub: `OnControl-UPC/Landing-Page`
+2. **Publicación en GitHub Pages**  
+   - Settings → Pages → Branch: `gh-pages` → Folder: `/root`
+3. **Integración continua**  
+   - Merge de ramas a `main` mediante Pull Requests
+4. **Despliegue automático**  
+   - Configuración de GitHub Actions para build automático
+
+
+
+##### Enlace de despliegue final
+▶️ **Landing Page en producción:**  
+https://oncontrolupc.github.io/landingprueba/
+
+
+
+
+##### Estructura técnica verificable
+```bash
+├── index.html          # Página principal
+├── styles/
+│   ├── main.css        # Estilos globales
+│   └── sections.css    # Estilos por sección
+├── js/
+│   ├── main.js         # Lógica principal
+│   └── animations.js   # Efectos visuales
+└── assets/             # Multimedia
+    ├── images/
+    └── videos/
+
+```
 
 #### 6.2.1.7. Team Collaboration Insights during Sprint
 
