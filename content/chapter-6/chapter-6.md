@@ -198,7 +198,7 @@ https://oncontrolupc.github.io/landingprueba/
 
 En esta sección se expone el avance correspondiente al Sprint 1, planificando el desarrollo y despliegue del Landing Page de la startup. Adicionalmente, durante este sprint se sentaron las bases para el backend de la aplicación, se definieron los procesos de despliegue iniciales y se realizó una primera aproximación al desarrollo de la app móvil. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review
 
-#### 6.2.1.1. Sprint Planning 1
+### 6.2.1.1. Sprint Planning 1
 
 
 <table>
@@ -243,7 +243,7 @@ En esta sección se expone el avance correspondiente al Sprint 1, planificando e
 <br>
 
 
-#### 6.2.1.2. Sprint Backlog 1
+### 6.2.1.2. Sprint Backlog 1
 
 Esta primera iteración se centró en el desarrollo y despliegue completo de nuestra Landing Page, junto con la creación y el despliegue de la arquitectura del backend principal y la implementación de la primera versión de nuestra aplicación móvil.
 
@@ -452,7 +452,7 @@ Esta primera iteración se centró en el desarrollo y despliegue completo de nue
 </table>
 
 
-#### 6.2.1.3. Development Evidence for Sprint Review
+### 6.2.1.3. Development Evidence for Sprint Review
 
  <table border="1">
       <tr>
@@ -497,9 +497,11 @@ Esta primera iteración se centró en el desarrollo y despliegue completo de nue
       </tr>
     </table>
 
-#### 6.2.1.4. Execution Evidence for Sprint Review
+### 6.2.1.4. Execution Evidence for Sprint Review
 
 En este primer Sprint del proyecto, hemos logrado implementar y desplegar una Landing Page operativa que comunica la propuesta de valor, dirige a las tiendas de aplicaciones y permite la suscripción por correo electrónico. Adicionalmente, se completó la creación y el despliegue del backend, incluyendo las APIs necesarias para la gestión de usuarios y la autenticación. Finalmente, se desarrolló e implementó la primera versión de nuestra aplicación móvil, permitiendo a los usuarios registrarse e iniciar sesión en la plataforma.
+
+* **Landing Page:**
 
 #### Header
 
@@ -525,15 +527,66 @@ En este primer Sprint del proyecto, hemos logrado implementar y desplegar una La
 
   <img src="https://github.com/user-attachments/assets/dbcaf820-268d-40fd-896c-da0eaad6ce1b"/>
 
+<br>
+
+* **Aplicacion Movil:**
+
+#### Pantalla de pacientes
+
+![](https://github.com/user-attachments/assets/3f8cf6f8-49a9-476d-8a92-ebb72a953c65)
+
+#### Pantalla de mensajes
+
+![](https://github.com/user-attachments/assets/7a01ef77-ce5d-4b2a-b900-9e4feb3a4140)
+
+#### Pantalla de chat
+
+![](https://github.com/user-attachments/assets/fe32361d-0e7a-4ebe-94e6-84d3ae9a3506)
+
+#### Pantalla de calendario
+![](https://github.com/user-attachments/assets/2882c4a1-47ac-403d-8451-929d4de42eb8)
+
+#### Pantalla de notificaciones
+![](https://github.com/user-attachments/assets/0e2e0e4f-2559-420c-a9eb-42aa7d3948fd)
+
+#### Pantalla de solicitudes
+![](https://github.com/user-attachments/assets/8606afc0-b30d-4b63-aa6c-3feddaf66547)
 
 
-#### 6.2.1.5. Services Documentation Evidence for Sprint Review
+
+### 6.2.1.5. Services Documentation Evidence for Sprint Review
 
 Durante el presente Sprint, se desarrollaron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente la aplicación.
 
-
 ![Api](https://github.com/user-attachments/assets/9dc5be2b-ce4b-4920-a21b-61ce14b29ef3)
 
+* **Authentication**
+
+![image](https://github.com/user-attachments/assets/3f901c32-255d-4ee8-8bc5-bc0613bd3dc4)
+
+* **Doctors**
+  
+![image](https://github.com/user-attachments/assets/5ae02994-d80c-4315-84c0-cf5d7589e696)
+
+* **Medicines**
+  
+![image](https://github.com/user-attachments/assets/0389a48c-0f59-48a2-939d-cf97b04d448b)
+
+* **PatientFollowUp**
+  
+![image](https://github.com/user-attachments/assets/6b9d4c13-946b-4e2b-801e-fe0d5014bc13)
+
+* **Patients**
+  
+![image](https://github.com/user-attachments/assets/ee0170c4-438a-49ce-bcc7-de74c74f4e91)
+
+* **Profiles**
+  
+![image](https://github.com/user-attachments/assets/afe4ed71-3b92-4699-ad5c-0736756956fa)
+
+* **Users**
+  
+![image](https://github.com/user-attachments/assets/0c21b990-0c01-43ed-8021-f3934ae356f9)
 
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review
@@ -712,5 +765,10 @@ https://oncontrolupc.github.io/landingprueba/
  
 #### 6.2.1.7. Team Collaboration Insights during Sprint
 
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. 
 
+![image](https://github.com/user-attachments/assets/d395fe20-1590-4fe0-b113-e980cabad875)
 
+![image](https://github.com/user-attachments/assets/787368a5-9062-4133-993e-36e0f1578a81)
+
+![image](https://github.com/user-attachments/assets/21012ebd-cd4d-40d8-b492-1207f410e2c2)
