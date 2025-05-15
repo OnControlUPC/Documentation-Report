@@ -708,7 +708,7 @@ https://oncontrolupc.github.io/landingprueba/
   2. Revisar **Annotations** para resolver errores (ej: propiedades no nulas en código).
   3. Acceder a enlaces de logs (`http://executor.buildbrackleapp.eu/index`).
 
-<img src="ttps://github.com/user-attachments/assets/a70ebc4b-7cc8-4084-9e7f-fe1394da718b"/>
+<img src="https://github.com/user-attachments/assets/bc945708-86ea-42f5-8d2a-c88c24030044"/>
  
 #### 6.2.1.7. Team Collaboration Insights during Sprint
 
