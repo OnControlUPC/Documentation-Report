@@ -270,6 +270,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             <b>Ramos Mendoza, Juan Pablo<br/>
             TB1</b><br/>
             Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del informe del proyect y durante el Event Storming. He comunicado cada uno de mis avances con el resto de mi grupo.<br/>
+            <b>TP</b><br/>
+            En esta entrega me enfoqué en el desarrollo grupal de la aplicación y el landing page, además del Software Configuration Design, permitiendo que desarrolle y reforzarme en temas que he visto desde cursos anteriores para un correcto desarrollo de software.<br/>
           </li>
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
@@ -315,6 +317,8 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
             <b>Ramos Mendoza, Juan Pablo<br/>
             TB1</b><br/>
             Utilizando mis notas y aprendizajes de cursos anteriores he realizado los diagramas C4 necesarios para nuestro proyecto, además de otras técnicas de organización de información.<br/>
+            <b>TP</b><br/>
+            Usando conocimientos de cursos anteriores, pude realizar un diseño base del aplicativo móvil y del landing page, usando buenas prácticas del desarrollo del software al momento de la creación de los mock-ups.<br/>
           </li>
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
@@ -339,7 +343,7 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 | Williams Gongora Castillejos | * Obtener una certificación intermedia en Ciberseguridad, como Certified Ethical Hacker (CEH), en un plazo de 3 años, complementando mi formación con cursos sobre análisis de vulnerabilidades, pruebas de penetración y normativas de seguridad.<br><br> * Dominar el uso de HTML, CSS y JavaScript para el diseño y desarrollo de landing pages modernas y responsivas en un plazo de 12 meses. Esto me permitirá posicionarme como desarrollador front-end en proyectos web profesionales.         |
 | Quique Vladimir Jara Benites | - Realizar pruebas exhaustivas de la aplicación móvil en las áreas de funcionalidad, usabilidad y rendimiento para garantizar su estabilidad y usabilidad antes del lanzamiento. Esto incluye completar al menos 20 pruebas de usabilidad y 10 pruebas de rendimiento, obteniendo un 90% de satisfacción en las respuestas de los testers. </br> - Dedicar 5 horas semanales durante los próximos 2 meses al proceso de pruebas y ajustes de la aplicación móvil, con el fin de asegurar que cumpla con los estándares de calidad y brinde una excelente experiencia al usuario |
 | Quispe Roldan Michael Fred   | - Fortalecer mis competencias técnicas mediante la realización de cursos especializados, obteniendo certificaciones profesionales en los próximos meses para mejorar mi perfil profesional y empleabilidad a corto plazo.<br/> - Incrementar mis conocimientos y habilidades en áreas clave relacionadas con mi carrera profesional mediante formación continua y práctica constante, logrando avances medibles que impacten positivamente en mi desarrollo profesional a mediano plazo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-| Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora.                                                                                                                                                                                                                                                                                                    |
+| Juan Pablo Ramos Mendoza     | - Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora. </br> - Tener suficiente experiencia en el desarrollo y diseño de software para mejorar tanto mi experiencia laboral como aumentar las chances de obtener mejores oportunidades de poner mis conocimientos en práctica.                                                                                                                                                                                                                                                                                |
 | Garayar Mori Oscar Nathaniel | - Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc.</br> - Mejorar mis habilidades relacionadas a mi ambito profesional para entrar al mundo laboral con el conocimiento necesario para sobresalir frente a los demás.
 |
 
@@ -454,4 +458,4 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 
 # Anexos
 
-Link del video (TB1): https://drive.google.com/drive/folders/1ysWorKN_fZnZEBhoClflUg5wBYiW2QBJ?usp=sharing
+Link del video (TP): https://drive.google.com/drive/folders/1ysWorKN_fZnZEBhoClflUg5wBYiW2QBJ?usp=sharing
