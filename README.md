@@ -148,13 +148,31 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
                <td>1.3</td>
                <td>10/05/2025</td>
                <td>Juan Ramos</td>
-               <td>Software Configuration Management</td>
+               <td>Software Configuration Management, landing page design</td>
             </tr>
             <tr>
                <td>1.4</td>
-               <td>10/05/2025</td>
+               <td>11/05/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Landing page</td>
+            </tr>
+            <tr>
+               <td>1.5</td>
+               <td>11/05/2025</td>
                <td>Quique Jara</td>
                <td>mobile application</td>
+            </tr>
+            <tr>
+               <td>1.6</td>
+               <td>12/05/2025</td>
+               <td>Oscar Garayar</td>
+               <td>Aplication Design, wireframes, mockups, wireflows, userflows</td>
+            </tr>
+            <tr>
+               <td>1.8</td>
+               <td>14/05/2025</td>
+               <td>Michael Quispe</td>
+               <td>Sprint 1</td>
             </tr>
          </tbody>
     </table>
@@ -193,6 +211,19 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
 
+**TP**
+
+Para el desarrollo del informe correspondiente a la entrega TP, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante| Tareas Asignadas                                                                                                                                                                                                                                                                                                                                                                                         |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Williams Gongora Castillejos |    General Style Guidelines, Information Architecture, Organization Systems, Labelling, Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page, Wireframe, Landing Page Mock-up |
+| Quique Vladimir Jara Benites |   Mobile application                                                                                                                                                                                      |
+| Quispe Roldan Michael Fred    |  Sprint 1, Sprint Planning 1, Sprint Backlog 1, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint.               |
+| Juan Pablo Ramos Mendoza     | Software Configuration Management, Landing page design, Presentation, Continuous fixes.|
+| Garayar Mori Oscar Nathaniel | Application Design, Wireframes, Mockups, Wireflows, Userflows, Some fixes. |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 <br><br>
 ## Student Outcome
 
@@ -217,7 +248,7 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             <b>Gongora Castillejos, Williams<br/>
             TB1</b><br/>
             Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/><br/>
-             TP</b><br/>
+            TP</b><br/>
             Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas. <br/>
           </li>
           <li>
@@ -229,6 +260,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             <b>Quispe Roldan Michael Fred<br/>
             TB1</b><br/>
             En esta entrega tuve que volver a estudiar C4 y los conceptos basicos de Domain Driver Design. Gracias a estos conceptos pude resolver varios puntos y me facilito su realizacion. Ademas de entender mejor los ebjetivos y metas de nuestra start up<br/>
+            <br/>
+            TP</b><br/>
+            En esta entrega, actualicé y apliqué conocimientos clave para el desarrollo de soluciones de software, especialmente para el proyecto. Participé en el Sprint 1, realizando la planificación, el Sprint Backlog, y aplicando metodologías ágiles. Desarrollé                  funcionalidades, documenté servicios y realicé despliegues, mientras fomentaba la colaboración en el equipo y mejoraba mis habilidades de forma autónoma.
           </li>
           <li>
             <b>Ramos Mendoza, Juan Pablo<br/>
@@ -265,6 +299,9 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
             <b>Quispe Roldan Michael Fred<br/>
             TB1</b><br/>
             El aprendizaje continuo me ayudo a entender de mejor manera la importancia de hacer un trabajo grupal de manera ordenada y rapida, gracias a ello pude tener comunicacion y coordinacion con mi grupo. Esto son muy importantes para poder realizar el trabajo de mejor manera. <br/>
+            <br/>
+            TP</b><br/>
+            En esta entrega, reconocí la necesidad del aprendizaje permanente al aplicar nuevos conocimientos en metodologías ágiles y herramientas de desarrollo para el proyecto. Participé activamente en el Sprint 1, realizando la planificación, el Sprint Backlog, y               generando evidencia de cada fase, lo que me permitió mejorar mis habilidades y asegurar el progreso del proyecto de manera continua.
           </li>
           <li>
             <b>Ramos Mendoza, Juan Pablo<br/>
