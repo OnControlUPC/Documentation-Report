@@ -138,6 +138,24 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
                <td>Quispe Michael</td>
                <td>Bounded context CItas</td>
             </tr>
+            <tr>
+               <td>1.1</td>
+               <td>5/05/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Capitulo 5</td>
+            </tr>
+            <tr>
+               <td>1.3</td>
+               <td>10/05/2025</td>
+               <td>Juan Ramos</td>
+               <td>Software Configuration Management</td>
+            </tr>
+            <tr>
+               <td>1.4</td>
+               <td>10/05/2025</td>
+               <td>Quique Jara</td>
+               <td>mobile application</td>
+            </tr>
          </tbody>
     </table>
 </span>
