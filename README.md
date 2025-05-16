@@ -272,7 +272,11 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
             TB1</b><br/>
-            Para la entrega de ahora, volví a investigar sobre el EventStorming y las practicas de los criterios de aceptación para arreglar los user stories.<br/>
+            Para la entrega de ahora, volví a investigar sobre el EventStorming y las practicas de los criterios de aceptación para arreglar los user stories.
+            <br>
+            <b>TP</b></br>
+            Para Esta entrega me centré en el diseño UI/UX de la aplicación movil. Además de asegurarme de revisar errores pasados para el informe.
+            <br/>
           </li>
         </ul>
       </td>
@@ -332,7 +336,8 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 | Quique Vladimir Jara Benites | Realizar pruebas exhaustivas de la aplicación móvil en las áreas de funcionalidad, usabilidad y rendimiento para garantizar su estabilidad y usabilidad antes del lanzamiento. Esto incluye completar al menos 20 pruebas de usabilidad y 10 pruebas de rendimiento, con un 90% de satisfacción en las respuestas de los testers, dedicando 5 horas a la semana durante los próximos 2 meses para asegurar que la app cumpla con los estándares de calidad y brinde una excelente experiencia al usuario |
 | Quispe Roldan Michael Fred   | - Fortalecer mis competencias técnicas mediante la realización de cursos especializados, obteniendo certificaciones profesionales en los próximos meses para mejorar mi perfil profesional y empleabilidad a corto plazo.<br/> - Incrementar mis conocimientos y habilidades en áreas clave relacionadas con mi carrera profesional mediante formación continua y práctica constante, logrando avances medibles que impacten positivamente en mi desarrollo profesional a mediano plazo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 | Juan Pablo Ramos Mendoza     | Poder trabajar mejorando los sistemas en los servicios de salud para una mejor funcionalidad para los pacientes y médicos al completar mis estudios universitarios en un plazo de 2 años desde ahora.                                                                                                                                                                                                                                                                                                    |
-| Garayar Mori Oscar Nathaniel | Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc.                                                                                                                                                                                                                                                             |
+| Garayar Mori Oscar Nathaniel | - Mi meta sería seguir investigando hasta conseguir suficiente conocimientos para crear nuevas herramientas virtuales que promuevan y ayuden con la producción musical, ya sean instrumentos virtuales o algún otro efecto, sintetizador, etc.</br> - Mejorar mis habilidades relacionadas a mi ambito profesional para entrar al mundo laboral con el conocimiento necesario para sobresalir frente a los demás.
+|
 
 
 <br><br>
