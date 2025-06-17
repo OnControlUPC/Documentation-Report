@@ -788,3 +788,50 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 ![image](https://github.com/user-attachments/assets/787368a5-9062-4133-993e-36e0f1578a81)
 
 ![image](https://github.com/user-attachments/assets/21012ebd-cd4d-40d8-b492-1207f410e2c2)
+
+### 6.2.2. Sprint 2
+
+En esta sección se expone el avance correspondiente al Sprint 2, planificando el desarrollo y despliegue del Backend de la startup. Adicionalmente, durante este sprint se solventaron las bases para el backend de la aplicación, se definieron los procesos de despliegue y se realizó mejoro el diseño y desarrollo de la app móvil. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review
+
+### 6.2.2.1. Sprint Planning 2
+
+
+
+
+### 6.2.2.2. Sprint Backlog 2
+
+
+
+### 6.2.2.3. Development Evidence for Sprint Review
+
+
+### 6.2.2.4. Execution Evidence for Sprint Review
+
+
+
+### 6.2.2.5. Services Documentation Evidence for Sprint Review
+
+
+#### 6.2.2.6. Software Deployment Evidence for Sprint Review
+
+
+ 
+#### 6.2.2.7. Team Collaboration Insights during Sprint
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. 
+
+![image](https://github.com/user-attachments/assets/d395fe20-1590-4fe0-b113-e980cabad875)
+
+![image](https://github.com/user-attachments/assets/787368a5-9062-4133-993e-36e0f1578a81)
+
+![image](https://github.com/user-attachments/assets/21012ebd-cd4d-40d8-b492-1207f410e2c2)
+
+### 6.3. Validation Interviews
+
+#### 6.3.1. Diseño de Entrevistas
+
+#### 6.3.2. Registro de Entrevistas
+
+#### 6.3.3. Evaluaciones según heurísticas
+
+### 6.4. Video About-the-Product
