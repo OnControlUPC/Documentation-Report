@@ -834,4 +834,60 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 #### 6.3.3. Evaluaciones según heurísticas
 
+#### UX Heuristics & Principles Evaluation
+
+#### Usability - Inclusive Design - Information Architecture
+
+* **CARRERA**: Ingeniería de Software
+* **CURSO**: CC238
+* **SECCION**: Curso de la sección
+* **PROFESORES**: Todos
+* **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
+* **CLIENTE(S)**: Nombre de las personas que participan en la sesión
+
+**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
+#### SITE O APP A EVALUAR:
+
+OnControl
+
+#### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1.  Registro de un usuario nuevo
+2.  Publicación de un post
+3.  Búsqueda de un paquete turístico
+4.  Reserva de un viaje
+5.  Cancelación de una reserva
+6.  Agregar items a un pedido
+7.  Pago de un paquete turístico
+8.  Etc.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.  Compartir reservas entre usuarios
+2.  Presentar ofertas de último minuto
+3.  Administrar puntos del programa de fidelización de viajes
+4.  Guardar "alerta de paquetes"
+5.  Etc.
+
+
+#### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| :---- | :---------- |
+| 1     | Problema superficial: Puede ser fácilmente superado por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les asigne una prioridad alta. |
+| 4     | Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :--: | :------- | :--: | :--------------------------|
+|  |  |  |  |
+
 ### 6.4. Video About-the-Product
