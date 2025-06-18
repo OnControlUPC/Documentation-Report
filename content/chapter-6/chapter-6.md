@@ -830,7 +830,64 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 #### 6.3.1. Diseño de Entrevistas
 
+*¿Podría presentarse con su nombre completo, edad, distrito de residencia y ocupación?*
+
+*Sobre el landing page, ¿la considera llamativa y visualmente interesante?*
+
+*¿Considera que la información proporcionada comunica de forma correcta las funciones de nuestra aplicación?*
+
+*¿Hay algo que considere deberíamos cambiar o eliminar en la página?*
+
+*Sobre la aplicación, ¿las herramientas son claras y de fácil lectura?*
+
+*¿Cree que nuestra aplicación le hubiera ayudado a tener mayor orden durante el proceso oncológico?*
+
+*¿Qué cambios propondría para mejorar los elementos visuales de nuestra aplicación?*
+
+*Si es que usara esta aplicación por primera vez sin una guía, ¿le parecería claro cómo utilizarla, o hay herramientas que no tienen un uso claro a simple vista?*
+
+*¿Hay alguna opción o herramienta que cree que le falta a nuestra aplicación?*
+
+*¿Recomendaría esta aplicación hacia médicos u otros pacientes oncológicos?*
+
+
+**Médicos:**
+*¿Considera que las herramientas brindadas mejorarían su orden con los pacientes?*
+ 
+*¿Utilizaría la aplicación para organizar los procesos médicos de cada uno de sus pacientes?*
+
 #### 6.3.2. Registro de Entrevistas
+
+Entrevista 1: Verónica Mendoza, 52, Chorrillos, profesora de tiempo completo en la upc ; familiar de paciente oncológico
+<img src="./img/Chapter-6/juan1.png"/>
+<br>https://drive.google.com/file/d/1aMSpnoVOVk1TBoXqOUFQYVw73LOTRLD1/view?usp=sharing
+
+Resumen:
+
+La entrevistada tuvo una buena experiencia con el landing page, considerándolo bastante llamativo de forma visual pero con información clara, permitiendo conocer el objetivo y función de nuestra startup y aplicación realizada. El único detalle que sugirió como cambio es que nuestro logo sea más visible, quizás aumentando su tamaño o colocándolo en más lugares.
+Sobre la aplicación, la entrevistada también tuvo una buena experiencia con ella. Consideró que cada botón y enlace mostrado era bastante claro en su función, por lo que incluso podría utilizarla de forma correcta sin necesidad de una guía. Los únicos cambios que realizaría sobre la aplicación es que el calendario muestre más detalles sobre el mes y semana en la que se realizarán las citas, una sección que presenta noticias sobre tratamientos oncológicos recientes y simplemente que nuestro logo aparezca más visible.
+La entrevistada consideró que nuestra aplicación sería de mucha ayuda para personas pasando por los procesos oncológicos, además de que las herramientas para los médicos les ayudarían a mejorar su eficiencia y organización, además de que le hubiera gustado mucho tener esta aplicación mientras que su pariente se encontró en el proceso oncológico.
+
+<br>
+Entrevista 2: Manuel Luis Ramos, 52, San Luis, posición administrativa en resocentro ; familiar de paciente oncológico
+<img src="./img/Chapter-6/juan2.png"/>
+<br>https://drive.google.com/file/d/1uc8FAaD1ArRYNPcP5_7kGPWF3bItJdF_/view?usp=sharing <br>
+
+Resumen:
+
+El entrevistado consideró la landing page impactante de forma visual, con la información en ella explicando claramente nuestra aplicación y objetivo al realizarla. Los únicos cambios que considera importantes son el uso de lazos de más colores, ya que solo utilizar un lazo rosado está vinculado a un solo tipo de cáncer y podría hacer creer a un usuario que solo nos enfocamos en ese tipo. Otro cambio que considera es cambiar el título de "Trabajando por tu salud" a uno más enfocado al cáncer y tratamientos oncológicos.
+Para la aplicación, el entrevistado considera que todo está claro y conciso y de fácil entendimiento, por lo que sí podría utilizarla aunque no tuviera a alguien que le explique como usarla. El único cambio que considera de gran importancia es que las aplicaciones no estén completamente vinculadas entre médicos y pacientes, es decir, si es que el médico no tenga la aplicación descargada, entonces el paciente debería poder registrar citas en su calendario personal. A parte de esto, la aplicación le parece de gran utilidad al entrevistado.
+
+<br>
+Entrevista 3: Eduard Travezaño, 20, San Juan de Lurigancho, Estudiante universitario ; familiar de paciente
+<img src="./img/Chapter-6/juan3.png"/>
+<br>https://drive.google.com/file/d/13l0HOKYB5VeZ4CLpG4pVyeep5gKchQea/view?usp=sharing<br>
+
+Resumen:
+
+El entrevistado tuvo una buena experiencia con nuestro landing page, pareciéndole única y llamativa con los tonos de colores rosados y con información no abrumadora que cause confusión visual. La página muestra información que comunica fácilmente el uso de la aplicación, aunque desearía que nos enfocáramos a la salud en general, no solamente a tratamientos y médicos oncológicos, aunque entiende nuestra misión de enfocarnos en ellos.
+En términos de la aplicación, todo le parece entendible y claro al entrevistado y le agrada el calendario, aunque desearía que hubiera más información sobre las citas y pacientes o médicos además de su nombre y fecha, cosas como especialidad o razón de cita.
+Además, el entrevistado considera que la aplicación está bastante completa, pero una lista de visitas al paciente si es que estuviera internado sería de gran ayuda.
 
 #### 6.3.3. Evaluaciones según heurísticas
 
