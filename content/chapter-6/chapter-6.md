@@ -897,16 +897,16 @@ Además, el entrevistado considera que la aplicación está bastante completa, p
 
 * **CARRERA**: Ingeniería de Software
 * **CURSO**: CC238
-* **SECCION**: Curso de la sección
+* **SECCION**: Aplicaciones para Dispositivos Móviles
 * **PROFESORES**: Todos
-* **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
-* **CLIENTE(S)**: Nombre de las personas que participan en la sesión
+* **AUDITOR**: EMSafe
+* **CLIENTE(S)**: Todos
 
-**NOTA**: Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
 
 #### SITE O APP A EVALUAR:
 
-OnControl
+EMSafe
 
 #### TAREAS A EVALUAR:
 
@@ -944,7 +944,78 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 #### TABLA RESUMEN:
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-| :--: | :------- | :--: | :--------------------------|
-|  |  |  |  |
+|:-:|:---------|:------------------:|:-------------------------------|
+| 1 | Mensaje de error genérico sin información específica sobre el fallo | 3 | Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+| 2 | Falta de indicador de progreso visual en el proceso de registro de 3 pasos | 2 | Visibilidad del estado del sistema |
+| 3 | Botón "Finalize" habilitado incluso cuando hay errores de guardado | 4 | Prevención de errores |
+| 4 | Campos obligatorios no están claramente identificados | 2 | Prevención de errores |
+| 5 | Inconsistencia en el manejo de estados de la foto de perfil | 3 | Consistencia y estándares |
+
+#### Problema Detallado
+
+* **PROBLEMA #1:** Mensaje de error genérico sin información específica sobre el fallo
+**Severidad:** 3
+**Heurística violada:** Usability: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+![Error saving profile](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6-Y35wL6ju2UYx03cDxAEbb2LJO5ANjC.png)
+
+**Problema:** En el paso final del registro de perfil, cuando ocurre un error al guardar la información, el sistema muestra únicamente el mensaje "Error saving your profile" sin proporcionar detalles específicos sobre qué causó el fallo. Esto deja al usuario sin información sobre cómo proceder para resolver el problema, generando frustración y posibles abandonos del proceso de registro. El usuario no puede determinar si el error se debe a problemas de conectividad, formato de datos, tamaño de imagen, o algún otro factor.
+
+**Recomendación:** Implementar mensajes de error específicos y descriptivos que indiquen la causa exacta del problema y las acciones que el usuario puede tomar para resolverlo. Por ejemplo: "Error al subir la imagen: El archivo es demasiado grande. Por favor, selecciona una imagen menor a 2MB" o "Error de conexión: Verifica tu conexión a internet e intenta nuevamente".
+
+ * **PROBLEMA #2:** Falta de indicador de progreso visual en el proceso de registro de 3 pasos
+**Severidad:** 2
+**Heurística violada:** Usability: Visibilidad del estado del sistema
+
+![Profile step 1](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2-tCn9DXyZep8CW3hAFOl7DdjcY2dWfX.png)
+
+**Problema:** Durante el proceso de registro que consta de 3 pasos, aunque se indica textualmente "step X to 3" en el título, no existe un indicador visual de progreso como una barra de progreso o puntos indicadores. Esto hace que los usuarios no tengan una referencia clara y visual de su avance en el proceso, lo que puede generar incertidumbre sobre cuánto falta para completar el registro y puede llevar a abandonos prematuros del proceso.
+
+**Recomendación:** Implementar un indicador visual de progreso en la parte superior de cada pantalla del proceso de registro. Esto puede ser una barra de progreso horizontal, puntos indicadores (1●●○) o pasos numerados visualmente destacados que muestren claramente el paso actual y los pasos restantes.
+
+* **PROBLEMA #3:** Botón "Finalize" habilitado incluso cuando hay errores de guardado
+**Severidad:** 4
+**Heurística violada:** Usability: Prevención de errores
+
+![Finalize button with error](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6-Y35wL6ju2UYx03cDxAEbb2LJO5ANjC.png)
+
+**Problema:** En el paso final del registro, cuando se presenta el mensaje de error "Error saving your profile", el botón "Finalize" permanece habilitado y permite al usuario intentar finalizar el proceso nuevamente sin haber resuelto el error subyacente. Esto puede llevar a múltiples intentos fallidos, frustración del usuario y posible corrupción de datos. El sistema no previene que el usuario repita una acción que ya ha fallado sin antes corregir la causa del problema.
+
+**Recomendación:** Deshabilitar el botón "Finalize" cuando se detecten errores en el proceso de guardado y solo habilitarlo nuevamente cuando el error haya sido resuelto. Alternativamente, cambiar el texto del botón a "Retry" o "Try Again" para indicar claramente que se está reintentando una acción que falló previamente.
+
+* **PROBLEMA #4:** Campos obligatorios no están claramente identificados
+**Severidad:** 2
+**Heurística violada:** Usability: Prevención de errores
+
+![Profile form fields](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3-lkdQpwcjK2xvMTxm2TwGyalLnlEGFF.png)
+
+**Problema:** En los formularios de registro, especialmente en los pasos 1 y 2 del proceso de completar el perfil, no hay indicadores visuales claros (como asteriscos *) que identifiquen cuáles campos son obligatorios y cuáles son opcionales. Esto puede llevar a que los usuarios envíen formularios incompletos, generando errores de validación inesperados y requiriendo que el usuario regrese a completar información faltante, aumentando el tiempo y esfuerzo necesario para completar el registro.
+
+**Recomendación:** Implementar indicadores visuales claros para campos obligatorios, como asteriscos rojos (*) junto al label del campo, o alternativamente, indicar claramente cuáles campos son opcionales con texto como "(opcional)". Además, implementar validación en tiempo real que muestre inmediatamente cuando un campo obligatorio está vacío.
+
+* **PROBLEMA #5:** Inconsistencia en el manejo de estados de la foto de perfil
+**Severidad:** 3  
+**Heurística violada:** Usability: Consistencia y estándares
+
+![No image state](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4-2Ruz6HYQ7oqizdCQUrn2AMvbCo9pFC.png)
+
+**Problema:** En el paso 3 del registro, el manejo de la foto de perfil presenta inconsistencias en la presentación de estados. Cuando no hay imagen seleccionada, se muestra un círculo gris con "No image yet" y el texto "No image selected yet" debajo, creando redundancia. Además, no queda claro si la foto de perfil es obligatoria u opcional, ya que no hay opción visible para omitir este paso, pero tampoco se indica claramente que sea requerida.
+
+**Recomendación:** Estandarizar la presentación de estados de la foto de perfil eliminando la redundancia textual. Mostrar claramente si la foto es opcional agregando un enlace "Skip for now" o "Add later", o si es obligatoria, indicarlo explícitamente. Mantener consistencia visual entre el estado vacío y el estado con imagen seleccionada.
+
 
 ### 6.4. Video About-the-Product
+
+La sección proporciona un panorama general del producto, resaltando su objetivo, características principales y el valor que brinda a sus usuarios. Esta introducción facilita la comprensión del contexto del producto y su orientación a cubrir las demandas de los usuarios, sincronizando sus características y habilidades con las metas de la solución sugerida.
+
+URL en Microsoft Teams:
+
+Duración:
+
+### 6.5. About the Team
+
+Esta parte facilitará la identificación del equipo que impulsó el proyecto, mostrando un video que refleja la esencia de nuestro proceso laboral, resaltando cómo cada integrante aportó con sus destrezas y empeños. Además, cada participante relata en cámara su vivencia personal, detallando las tareas que llevó a cabo, los éxitos alcanzados y las habilidades que cultivó durante el proceso. Algunos de los éxitos alcanzados en el equipo comprenden una comunicación eficaz que nos facilitó mantenernos en sintonía en cada fase del proyecto, garantizando que todas las ideas y contribuciones fueran oídas y tenidas en cuenta.
+
+URL en Microsoft Teams:
+
+Duración:
