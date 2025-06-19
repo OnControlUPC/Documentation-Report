@@ -812,11 +812,11 @@ En esta sección se expone el avance correspondiente al Sprint 2, planificando e
 ### 6.2.2.5. Services Documentation Evidence for Sprint Review
 
 
-#### 6.2.2.6. Software Deployment Evidence for Sprint Review
+### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
 
  
-#### 6.2.2.7. Team Collaboration Insights during Sprint
+### 6.2.2.7. Team Collaboration Insights during Sprint
 
 Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. 
 
