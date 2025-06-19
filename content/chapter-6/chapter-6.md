@@ -1048,7 +1048,9 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 #### 6.3.2. Registro de Entrevistas
 
 Entrevista 1: Verónica Mendoza, 52, Chorrillos, profesora de tiempo completo en la upc ; familiar de paciente oncológico
-<img src="./img/Chapter-6/juan1.png"/>
+
+![Image](https://github.com/user-attachments/assets/72287442-0be9-452b-9a8e-d46d8c438d7e)
+
 <br>https://drive.google.com/file/d/1aMSpnoVOVk1TBoXqOUFQYVw73LOTRLD1/view?usp=sharing
 
 Resumen:
@@ -1059,7 +1061,9 @@ La entrevistada consideró que nuestra aplicación sería de mucha ayuda para pe
 
 <br>
 Entrevista 2: Manuel Luis Ramos, 52, San Luis, posición administrativa en resocentro ; familiar de paciente oncológico
-<img src="./img/Chapter-6/juan2.png"/>
+
+![Image](https://github.com/user-attachments/assets/6da53316-9263-469a-8576-f81e8c4775d5)
+
 <br>https://drive.google.com/file/d/1uc8FAaD1ArRYNPcP5_7kGPWF3bItJdF_/view?usp=sharing <br>
 
 Resumen:
@@ -1069,7 +1073,9 @@ Para la aplicación, el entrevistado considera que todo está claro y conciso y 
 
 <br>
 Entrevista 3: Eduard Travezaño, 20, San Juan de Lurigancho, Estudiante universitario ; familiar de paciente
-<img src="./img/Chapter-6/juan3.png"/>
+
+![Image](https://github.com/user-attachments/assets/be7f293c-62ad-4055-ac2c-8d794cc31285)
+
 <br>https://drive.google.com/file/d/13l0HOKYB5VeZ4CLpG4pVyeep5gKchQea/view?usp=sharing<br>
 
 Resumen:
