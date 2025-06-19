@@ -863,6 +863,28 @@ En esta sección se expone el avance correspondiente al Sprint 2, planificando e
 
 ### 6.2.2.4. Execution Evidence for Sprint Review
 
+En este segundo sprint se realizo la aplicacion movil en kotlin y flutter. La aplicacion en kotlin esta casi culminada, agregamos y completamos las vistas como chat, calendario, etc. En el caso de flutter hemos hecho lo basico es decir el inicio de sesion, ingreso y registro del usuario, y la vista basica del home.
+
+* **Aplicacion movil kotlin:**
+  
+
+* **Aplicacion movil flutter:**
+
+#### Pantalla de inicio de sesion 
+
+![](https://github.com/user-attachments/assets/9a5db1bb-a71b-4da4-8d4a-4eb584333e5e)
+
+#### Pantalla de creacion de cuenta
+
+![](https://github.com/user-attachments/assets/31775220-5eb4-456a-95c1-cc59633c0ca9)
+
+#### Pantalla de creacion de perfil
+
+![](https://github.com/user-attachments/assets/b7fcb221-19c7-4757-93f5-35562f80fd09)
+
+#### Pantalla de home
+
+![](https://github.com/user-attachments/assets/4548c3e1-76a5-4c29-9cd8-949145e4e385)
 
 
 ### 6.2.2.5. Services Documentation Evidence for Sprint Review
