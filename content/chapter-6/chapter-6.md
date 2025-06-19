@@ -860,6 +860,15 @@ En esta sección se expone el avance correspondiente al Sprint 2, planificando e
 
 ### 6.2.2.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on
+|-----|-----|-----|-----|-----|-----
+| OnControlUPC/OnControl-flutter | main | 515cd95 | profile tab added in home, plus logout | Added profile navigation tab to home screen and implemented logout functionality for user session management | Jun 18, 2025
+| OnControlUPC/OnControl-flutter | main | b235434 | feat: auth finished, and profile too | Completed authentication system implementation and finalized user profile management features | Jun 18, 2025
+| OnControlUPC/OnControl-flutter | main | 33ea435 | feat: auth almost finished | Authentication flow nearly complete, pending final validations and error handling | Jun 17, 2025
+| OnControlUPC/OnControl-flutter | main | f79c791 | feat: auth almost finished | Continued work on authentication system, implemented login/register forms and validation | Jun 17, 2025
+| OnControlUPC/OnControl-flutter | main | c71c9ca | feat: auth almost finished | Authentication services and UI components development in progress | Jun 17, 2025
+| OnControlUPC/OnControl-flutter | main | 4bd5192 | feat: creacion de la rama auth | Created authentication branch and set up initial structure for user authentication features | Jun 14, 2025
+| OnControlUPC/OnControl-flutter | main | c74cd9a | the project is created | Initial Flutter project setup with basic structure and dependencies configuration | Jun 13, 2025
 
 ### 6.2.2.4. Execution Evidence for Sprint Review
 
@@ -889,10 +898,112 @@ En este segundo sprint se realizo la aplicacion movil en kotlin y flutter. La ap
 
 ### 6.2.2.5. Services Documentation Evidence for Sprint Review
 
+Durante el presente Sprint, se desarrollaron, mejoraron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente y la aplicación.
+
+
 
 ### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
+### Despliegue del Backend
 
+##### 1. Creación de aplicación web + base de datos
+- **Contenido**: Formulario de configuración de App Service y base de datos.
+- **Pasos clave**:
+  1. Elegir **Sistema operativo** (Windows/Linux) y **Región** (ej. East US 2).
+  2. Configurar **Plan de App Service** con tamaño (SKU) y memoria.
+  3. Crear base de datos **MySQL** con opciones como almacenamiento y versión.
+  
+ <img src="https://github.com/user-attachments/assets/0def481f-dadc-4807-ae38-32384f48182b5"/>
+
+##### 2. Detalles de implementación en curso
+- **Contenido**: Nombre de implementación, grupo de recursos y fecha de inicio.
+- **Pasos clave**:
+  1. Verificar el **Nombre de implementación**: `Microsoft.Web-WebAppDatabase-Portal-i623e2b4-b638`.
+  2. Confirmar el **Grupo de recursos asociado**: `orecipital`.
+  3. Revisar el estado **"La implementación está en curso"** y logs en **Detalles de la operación**.
+     
+  <img src="https://github.com/user-attachments/assets/0fd86907-a034-47a6-9a6c-12d0558aac1d"/>
+
+##### 3. Progreso de la implementación
+- **Contenido**: Lista de verificación con elementos completados (✓) y pendientes ( ).
+- **Pasos clave**:
+  1. Configurar **Grupo de recursos** y **Vnet** para la infraestructura.
+  2. Habilitar **Microsoft Defender for Cloud** para seguridad.
+  3. Definir alertas de costos para evitar sobrecargos.
+  4. Enlazar recursos con **Asociación** y **Identificación de implementación**.
+  
+ <img src="https://github.com/user-attachments/assets/fccdebe8-7c4c-458a-a9dc-94ac30b6f223"/>
+
+##### 4. Configuración de red privada y DNS
+- **Contenido**: Lista de recursos de red (VNet, zonas DNS privadas).
+- **Pasos clave**:
+  1. Vincular **Red virtual (VNet)** con la aplicación.
+  2. Crear **Zonas DNS privadas** para servicios como MySQL (`privatelink.mysql.database.azure.com`).
+  3. Establecer **Vínculos de red virtual** para acceso seguro a recursos.
+     
+ <img src="https://github.com/user-attachments/assets/8ad2d4b5-3017-41a4-a76a-f94aa9fb448d"/>
+
+##### 5. Configuración de variables de entorno y conexión a MySQL
+- **Contexto**: Sección de **Environment variables** en Azure App Service.
+- **Pasos clave**:
+  1. **Agregar variables de entorno**:
+     - Nombre: `ADJAE_UHTML_CONNECTIONSTRING`.
+     - Valor: Cadena de conexión a la base de datos MySQL (`Server=mi-servidor.mysql.database.stan.com;Database=oncontrol-database`).
+  2. **Configurar tipo y origen**:
+     - **Type**: MySQL (indica el motor de base de datos).
+     - **Source**: App Service (origen de la configuración).
+  3. **Acciones adicionales**:
+     - Opciones para edición avanzada o referencia completa de valores
+       
+ <img src="https://github.com/user-attachments/assets/0133e82c-857d-4675-ab72-31a6e1a07791"/>
+
+ ##### 6. Configuración de GitHub Actions para CI/CD
+- **Contexto**: Integración de Azure con GitHub Actions en **Deployment Center**.
+- **Pasos clave**:
+  1. **Vincular repositorio de GitHub**:
+     - **Organization**: `OnControlUPC`.
+     - **Repository**: `oncontrol-platform`.
+     - **Branch**: `main`.
+  2. **Definir workflow**:
+     - Crear un nuevo archivo YAML (`main_oncontrol.yml`) o usar uno existente.
+     - **Runtime stack**: .NET 8.0 (entorno de ejecución).
+  3. **Autenticación**:
+     - Elegir entre:
+       - **User-assigned identity**: Federación con Azure AD para permisos automatizados.
+       - **Basic authentication**: Credenciales manuales (menos seguro).
+     - **Suscripción asociada**: `Azure for Students`.
+  4. **Advertencias**:
+     - Evitar configurar CI/CD directamente en el **production slot** (no recomendado).
+     - Requiere permisos de escritura en el repositorio de GitHub.
+
+<img src="https://github.com/user-attachments/assets/c603dc47-5146-41b6-8f77-7f30868e4a65"/>
+
+##### 7. Deployment Center y flujo de GitHub Actions
+- **Contexto**: Configuración de automatización de despliegues en **Deployment Center**.
+- **Pasos clave**:
+  1. **Seleccionar origen**:
+     - Proveedor: **GitHub**.
+     - **Building with GitHub Actions**: Automatiza builds y despliegues.
+  2. **Detalles del workflow**:
+     - **Trigger**: Se activa con commits en la rama `main`.
+     - **Permisos**: Habilitar permisos adicionales en GitHub si es necesario.
+  3. **Configuración de seguridad**:
+     - **Microsoft Defender for Cloud**: Protege la infraestructura.
+     - **Alertas**: Monitorear eventos y costos.
+  4. **Advertencias clave**:
+     - **No usar el slot de producción para CI/CD**: Usar slots de staging para pruebas.
+     - **Validar archivo YAML**: Asegurar que el workflow no tenga errores de sintaxis.
+    
+<img src="https://github.com/user-attachments/assets/82ec9c77-539f-4e09-9278-05440a8c6fba"/>
+
+##### 8. Resultado de implementación exitosa
+- **Contenido**: Logs de ejecución y advertencias.
+- **Pasos clave**:
+  1. Verificar **Estado: Success** y duración (`20s`).
+  2. Revisar **Annotations** para resolver errores (ej: propiedades no nulas en código).
+  3. Acceder a enlaces de logs (`http://executor.buildbrackleapp.eu/index`).
+
+<img src="https://github.com/user-attachments/assets/bc945708-86ea-42f5-8d2a-c88c24030044"/>
  
 ### 6.2.2.7. Team Collaboration Insights during Sprint
 
