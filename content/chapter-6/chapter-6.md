@@ -791,16 +791,72 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 
 ### 6.2.2. Sprint 2
 
-En esta sección se expone el avance correspondiente al Sprint 2, planificando el desarrollo y despliegue del Backend de la startup. Adicionalmente, durante este sprint se solventaron las bases para el backend de la aplicación, se definieron los procesos de despliegue y se realizó mejoro el diseño y desarrollo de la app móvil. Se incorporan el Sprint Planning, el Sprint Backlog, evidencias del desarrollo y ejecución para la Sprint Review
+En esta sección se expone el avance correspondiente al Sprint 2, planificando el desarrollo de las funcionalidades core del sistema OnControl, enfocándose en la implementación completa del módulo de médicos y las correcciones identificadas en la primera entrega, junto con la funcionalidad básica de autenticación para pacientes.
 
 ### 6.2.2.1. Sprint Planning 2
 
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Sprint** | Sprint 2 |
+| **Sprint Planning Date** | 2025-06-18 |
+| **Time** | 03:00 PM |
+| **Location** | Meet |
+| **Prepared By** | Quique Vladimir Jara Benites |
+| **Attendees** | Williams Góngora / Oscar Garayar / Juan Ramos / Michael Quispe / Williams Góngora |
+| **Sprint Goal** | Implementar funcionalidades completas del módulo médico, login de pacientes y correcciones del Sprint 1 para la aplicación móvil OnControl. |
+| **Sprint Velocity** | 7 |
+| **Sum of Story Points** | 25 |
 
 
 
 ### 6.2.2.2. Sprint Backlog 2
 
+| User Story | Work-Item / Task Id | ID | Title | Description | Estimation (Hours) | Assigned To | Status
+|-----|-----|-----|-----|-----|-----|-----|-----
+| US03 | WI-001 | SB2-001 | Implementar login de paciente | Desarrollar pantalla de login para pacientes con validación de credenciales | 8 | TBD | To-do
+| US03 | WI-002 | SB2-002 | Integrar autenticación backend paciente | Conectar frontend de login con API de autenticación | 6 | TBD | To-do
+| US04 | WI-003 | SB2-003 | Implementar logout de paciente | Desarrollar funcionalidad de cierre de sesión para pacientes | 4 | TBD | To-do
+| US01 | WI-004 | SB2-004 | Registro completo de doctor | Implementar formulario de registro para médicos con validaciones | 12 | TBD | To-do
+| US03 | WI-005 | SB2-005 | Login completo de doctor | Desarrollar sistema de autenticación completo para médicos | 8 | TBD | To-do
+| US04 | WI-006 | SB2-006 | Logout de doctor | Implementar cierre de sesión para médicos | 4 | TBD | To-do
+| US05 | WI-007 | SB2-007 | Recuperación de cuenta doctor | Desarrollar sistema de recuperación por email y SMS para médicos | 10 | TBD | To-do
+| US06 | WI-008 | SB2-008 | Cambio de teléfono doctor | Implementar actualización de número telefónico para médicos | 6 | TBD | To-do
+| US07 | WI-009 | SB2-009 | Cambio de contraseña doctor | Desarrollar funcionalidad de cambio de contraseña para médicos | 6 | TBD | To-do
+| US08 | WI-010 | SB2-010 | Actualizar foto perfil doctor | Implementar subida y actualización de foto de perfil para médicos | 8 | TBD | To-do
+| US09 | WI-011 | SB2-011 | Solicitud de cita por doctor | Desarrollar formulario para que médicos envíen solicitudes de cita | 10 | TBD | To-do
+| US13 | WI-012 | SB2-012 | Solicitud de tratamiento | Implementar formulario para médicos envíen solicitudes de tratamiento | 12 | TBD | To-do
+| US17 | WI-013 | SB2-013 | Asignar especialista | Desarrollar funcionalidad para que médicos asignen especialistas | 8 | TBD | To-do
+| US19 | WI-014 | SB2-014 | Revisar síntomas reportados | Implementar panel para que médicos revisen síntomas de pacientes | 10 | TBD | To-do
+| US22 | WI-015 | SB2-015 | Notificación fin de tratamiento | Desarrollar sistema de notificaciones para médicos sobre fin de tratamiento | 8 | TBD | To-do
+| US25 | WI-016 | SB2-016 | Agregar paciente por username | Implementar funcionalidad para médicos inviten pacientes por usuario | 10 | TBD | To-do
+| US26 | WI-017 | SB2-017 | Crear procedimiento médico | Desarrollar formulario para médicos creen procedimientos médicos | 12 | TBD | To-do
+| US28 | WI-018 | SB2-018 | Configurar procedimiento | Implementar ajustes de duración y frecuencia de procedimientos | 8 | TBD | To-do
+| US32 | WI-019 | SB2-019 | Eliminar paciente | Desarrollar funcionalidad para médicos eliminen pacientes finalizados | 6 | TBD | To-do
+| US34 | WI-020 | SB2-020 | Lista de pacientes | Implementar vista de lista de pacientes para médicos | 10 | TBD | To-do
+| US35 | WI-021 | SB2-021 | Historial de tratamientos | Desarrollar vista de historial cronológico de tratamientos | 12 | TBD | To-do
+| US30 | WI-022 | SB2-022 | Configurar recordatorios doctor | Implementar personalización de notificaciones para médicos | 8 | TBD | To-do
+| US31 | WI-023 | SB2-023 | Avisos de cambios sistema doctor | Desarrollar sistema de notificaciones de cambios para médicos | 10 | TBD | To-do
+| US33 | WI-024 | SB2-024 | Contactar soporte doctor | Implementar formulario de contacto con soporte para médicos | 6 | TBD | To-do
+| US02 | WI-025 | SB2-025 | Configurar pagos doctor | Desarrollar sistema de configuración de métodos de pago para médicos | 10 | TBD | To-do
 
+
+**Total Estimation: 212 hours**
+
+**Sprint Goals:**
+
+- Completar funcionalidad básica de login para pacientes
+- Implementar todas las funcionalidades core para médicos (excepto chat)
+- Establecer base sólida para gestión de tratamientos y procedimientos
+- Corregir issues identificados en Sprint 1
+
+
+**Notes:**
+
+- Las tareas están priorizadas por dependencias técnicas
+- Se excluyen funcionalidades de chat (US23, US24) según especificaciones
+- Se incluye solo login básico para pacientes, no funcionalidades completas
+- Estimaciones basadas en complejidad técnica y correcciones del Sprint 1
 
 ### 6.2.2.3. Development Evidence for Sprint Review
 
