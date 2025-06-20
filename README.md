@@ -160,7 +160,7 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
                <td>1.5</td>
                <td>11/05/2025</td>
                <td>Quique Jara</td>
-               <td>mobile application</td>
+               <td>Mobile application</td>
             </tr>
             <tr>
                <td>1.6</td>
@@ -173,6 +173,36 @@ Link del repositorio: [Enlace](https://github.com/OnControlUPC/Documentation-Rep
                <td>14/05/2025</td>
                <td>Michael Quispe</td>
                <td>Sprint 1</td>
+            </tr>
+            <tr>
+               <td>2.0</td>
+               <td>13/06/2025</td>
+               <td>Juan Ramos</td>
+               <td>Validation Interviews</td>
+            </tr>
+            <tr>
+               <td>2.3</td>
+               <td>15/06/2025</td>
+               <td>Williams Castillejos</td>
+               <td>Sprint 2, Sprint Planning 2, Sprint Backlog 2 y evaluaciones según heurísticas.</td>
+            </tr>
+            <tr>
+               <td>2.5</td>
+               <td>17/06/2025</td>
+               <td>Quique Jara</td>
+               <td>Android Project front-end.</td>
+            </tr>
+            <tr>
+               <td>2.7</td>
+               <td>18/06/2025</td>
+               <td>Oscar Garayar</td>
+               <td>Flutter Project front-end.</td>
+            </tr>
+            <tr>
+               <td>2.8</td>
+               <td>19/06/2025</td>
+               <td>Michael Quispe</td>
+               <td>Flutter Project front-end.</td>
             </tr>
          </tbody>
     </table>
@@ -225,6 +255,22 @@ Para el desarrollo del informe correspondiente a la entrega TP, se estableció l
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 <br><br>
+
+
+**TB2**
+
+Para el desarrollo del informe correspondiente a la entrega TB2, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante| Tareas Asignadas                                                                                                                                                                                                                                                                                                                                                                                         |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Williams Gongora Castillejos |    Sprint 2, Sprint Planning 2, Sprint Backlog 2 y evaluaciones según heurísticas. |
+| Quique Vladimir Jara Benites |  Android Project front-end, Back-end.                                    |
+| Quispe Roldan Michael Fred    |  Flutter Project Front-end.               |
+| Juan Pablo Ramos Mendoza     | Validation Interviews, Android Project front-end.|
+| Garayar Mori Oscar Nathaniel | Flutter Project Front-end. |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
+<br><br>
 ## Student Outcome
 
 En Ingeniería de Software, el logro contribuye a alcanzar el:
@@ -264,7 +310,10 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             En esta entrega tuve que volver a estudiar C4 y los conceptos basicos de Domain Driver Design. Gracias a estos conceptos pude resolver varios puntos y me facilito su realizacion. Ademas de entender mejor los ebjetivos y metas de nuestra start up<br/>
             <br/>
             TP</b><br/>
-            En esta entrega, actualicé y apliqué conocimientos clave para el desarrollo de soluciones de software, especialmente para el proyecto. Participé en el Sprint 1, realizando la planificación, el Sprint Backlog, y aplicando metodologías ágiles. Desarrollé                  funcionalidades, documenté servicios y realicé despliegues, mientras fomentaba la colaboración en el equipo y mejoraba mis habilidades de forma autónoma.
+            En esta entrega, actualicé y apliqué conocimientos clave para el desarrollo de soluciones de software, especialmente para el proyecto. Participé en el Sprint 1, realizando la planificación, el Sprint Backlog, y aplicando metodologías ágiles. Desarrollé funcionalidades, documenté servicios y realicé despliegues, mientras fomentaba la colaboración en el equipo y mejoraba mis habilidades de forma autónoma.
+           <br/>
+           TB2</b><br/>
+            En esta entrega actualice y reforce mis conocimientos en Flutter, especialmente en la construcción de interfaces, manejo de formularios, consumo de servicios REST y gestión de estado. Estos aprendizajes fueron esenciales para desarrollar la aplicación de manera funcional y siguiendo buenas prácticas, contribuyendo así a mi desarrollo profesional en soluciones de software.
           </li>
           <li>
             <b>Ramos Mendoza, Juan Pablo<br/>
