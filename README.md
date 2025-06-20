@@ -295,7 +295,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             TB1</b><br/>
             Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/><br/>
             TP</b><br/>
-            Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas. <br/>
+            Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas.<br/><br/>
+           TB2</b><br/>
+            Durante el proyecto, actualicé y reforcé mis conocimientos relacionados con el desarrollo de soluciones de software, especialmente en el ámbito de aplicaciones móviles. Investigué sobre nuevas metodologías, herramientas y enfoques que me permitieran tomar mejores decisiones técnicas y de diseño. <br/><br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -345,7 +347,9 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
             TB1</b><br/>
             Reconocí la importancia de actualizarme constantemente, por lo que reforcé mis conocimientos en metodologías modernas como Domain-Driven Design. Esta actitud me permitió aplicar soluciones más estructuradas y efectivas durante el desarrollo del proyecto<br/><br/>
              TP</b><br/>
-            A lo largo del proyecto, comprendí la importancia de mantenerme en constante actualización, especialmente en temas como diseño de interfaces, estructura de contenidos y optimización para motores de búsqueda. Dado que las tecnologías, estándares de usabilidad y expectativas de los usuarios cambian constantemente, reconozco que el aprendizaje continuo es esencial para ofrecer soluciones de software relevantes, funcionales y competitivas en el mercado actual. <br/>
+            A lo largo del proyecto, comprendí la importancia de mantenerme en constante actualización, especialmente en temas como diseño de interfaces, estructura de contenidos y optimización para motores de búsqueda. Dado que las tecnologías, estándares de usabilidad y expectativas de los usuarios cambian constantemente, reconozco que el aprendizaje continuo es esencial para ofrecer soluciones de software relevantes, funcionales y competitivas en el mercado actual. <br/><br/>
+           TB2</b><br/>
+            Durante el proceso, asumí una actitud proactiva hacia el aprendizaje permanente, investigando nuevas tendencias y recursos relacionados con el desarrollo de software. Esta disposición me permitió identificar áreas de mejora personal y profesional, motivándome a buscar continuamente nuevas fuentes de conocimiento, como artículos especializados, cursos en línea y buenas prácticas compartidas por la comunidad tecnológica. <br/><br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
