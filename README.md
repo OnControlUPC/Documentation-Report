@@ -304,7 +304,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             TB1</b><br/>
             Actualicé mis conocimientos a través de la investigación sobre metodologías de modelado como EventStorming y Bounded Context Canvases, aplicando estas herramientas en el diseño de la arquitectura de mi proyecto. A través de cursos y documentación, profundicé en técnicas que optimizan la estructura de soluciones de software, mejorando la eficiencia del desarrollo.<br/>
              TP</b><br/>
-           Durante el desarrollo de este entregable, actualicé y apliqué conocimientos relevantes para el despliegue del backend, así como para el avance del desarrollo de la aplicación móvil. Para ello, investigué y apliqué nuevas herramientas y buenas prácticas que optimizan el funcionamiento del sistema. Además, revisé y corregí elementos del product backlog, lo cual me permitió afianzar criterios de priorización y gestión ágil del proyecto.
+           Durante el desarrollo de este entregable, actualicé y apliqué conocimientos relevantes para el despliegue del backend, así como para el avance del desarrollo de la aplicación móvil. Para ello, investigué y apliqué nuevas herramientas y buenas prácticas que optimizan el funcionamiento del sistema. Además, revisé y corregí elementos del product backlog, lo cual me permitió afianzar criterios de priorización y gestión ágil del proyecto.<br/><br/>
+           TB2</b><br/>
+            En esta etapa, reforcé mis habilidades en el desarrollo móvil utilizando Flutter, enfocándome en la integración con servicios, manejo de interfaces y estructura del código. Esta experiencia me permitió mejorar mis capacidades técnicas, adaptarme mejor al trabajo en equipo y aportar soluciones funcionales al proyecto, todo como parte de un proceso de aprendizaje continuo. <br/><br/>
           </li>
           <li>
             <b>Quispe Roldan Michael Fred<br/>
@@ -322,7 +324,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             TB1</b><br/>
             Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del informe del proyect y durante el Event Storming. He comunicado cada uno de mis avances con el resto de mi grupo.<br/>
             <b>TP</b><br/>
-            En esta entrega me enfoqué en el desarrollo grupal de la aplicación y el landing page, además del Software Configuration Design, permitiendo que desarrolle y reforzarme en temas que he visto desde cursos anteriores para un correcto desarrollo de software.<br/>
+            En esta entrega me enfoqué en el desarrollo grupal de la aplicación y el landing page, además del Software Configuration Design, permitiendo que desarrolle y reforzarme en temas que he visto desde cursos anteriores para un correcto desarrollo de software.<br/><br/>
+           TB2</b><br/>
+            Durante el desarrollo de esta entrega, investigué recursos adicionales sobre el diseño de software y la organización de sistemas. Amplié mis conocimientos en diseño visual, usabilidad y arquitectura, aplicándolos al desarrollo de la aplicación y del landing page.<br/><br/>
           </li>
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
@@ -330,7 +334,9 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             Para la entrega de ahora, volví a investigar sobre el EventStorming y las practicas de los criterios de aceptación para arreglar los user stories.
             <br>
             <b>TP</b></br>
-            Para Esta entrega me centré en el diseño UI/UX de la aplicación movil. Además de asegurarme de revisar errores pasados para el informe.
+            Para Esta entrega me centré en el diseño UI/UX de la aplicación movil. Además de asegurarme de revisar errores pasados para el informe.<br/><br/>
+           TB2</b><br/>
+            En esta fase del proyecto, actualicé mis conocimientos sobre diseño de interfaces y experiencia de usuario, lo cual fue clave para desarrollar una aplicación más intuitiva y funcional. <br/><br/>
             <br/>
           </li>
         </ul>
@@ -356,7 +362,9 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
             TB1</b><br/>
             Reconociendo la importancia del aprendizaje continuo, me comprometí a investigar las últimas tendencias en desarrollo de software y participé en seminarios y cursos en línea. Esta práctica constante me permitió aplicar nuevos conocimientos y mantenerme actualizado para mejorar el desempeño en mis proyectos.<br/>
              TP</b><br/>
-           Durante esta etapa del proyecto, reconocí la importancia del aprendizaje continuo al enfrentarme a tareas como el despliegue del backend y el desarrollo de la aplicación móvil. Estas actividades exigieron que buscara nuevas soluciones técnicas y me actualizara en herramientas y metodologías que no dominaba completamente. Asimismo, al corregir partes del product backlog, comprendí mejor los procesos de planificación y gestión ágil, lo que refuerza mi convicción de que el aprendizaje constante es esencial para adaptarme a los retos del desarrollo de software y crecer profesionalmente.
+           Durante esta etapa del proyecto, reconocí la importancia del aprendizaje continuo al enfrentarme a tareas como el despliegue del backend y el desarrollo de la aplicación móvil. Estas actividades exigieron que buscara nuevas soluciones técnicas y me actualizara en herramientas y metodologías que no dominaba completamente. Asimismo, al corregir partes del product backlog, comprendí mejor los procesos de planificación y gestión ágil, lo que refuerza mi convicción de que el aprendizaje constante es esencial para adaptarme a los retos del desarrollo de software y crecer profesionalmente.<br/><br/>
+           TB2</b><br/>
+            Durante esta etapa, reafirmé la importancia del aprendizaje permanente al enfrentarme a desafíos técnicos y de gestión dentro del proyecto. Buscar nuevas herramientas y metodologías me permitió adaptarme a los cambios y necesidades del sistema. <br/><br/>
           </li>
           <li>
             <b>Quispe Roldan Michael Fred<br/>
@@ -364,19 +372,25 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
             El aprendizaje continuo me ayudo a entender de mejor manera la importancia de hacer un trabajo grupal de manera ordenada y rapida, gracias a ello pude tener comunicacion y coordinacion con mi grupo. Esto son muy importantes para poder realizar el trabajo de mejor manera. <br/>
             <br/>
             TP</b><br/>
-            En esta entrega, reconocí la necesidad del aprendizaje permanente al aplicar nuevos conocimientos en metodologías ágiles y herramientas de desarrollo para el proyecto. Participé activamente en el Sprint 1, realizando la planificación, el Sprint Backlog, y               generando evidencia de cada fase, lo que me permitió mejorar mis habilidades y asegurar el progreso del proyecto de manera continua.
+            En esta entrega, reconocí la necesidad del aprendizaje permanente al aplicar nuevos conocimientos en metodologías ágiles y herramientas de desarrollo para el proyecto. Participé activamente en el Sprint 1, realizando la planificación, el Sprint Backlog, y               generando evidencia de cada fase, lo que me permitió mejorar mis habilidades y asegurar el progreso del proyecto de manera continua.<br/><br/>
+           TB2</b><br/>
+            Reconocí que el aprendizaje constante es clave para adaptarme a los cambios del entorno tecnológico. Por ello, busqué nuevas formas de mejorar mis habilidades, tanto técnicas como colaborativas. Esta mentalidad me permitió avanzar de manera más sólida en el desarrollo del proyecto y adquirir mayor confianza en mi crecimiento profesional dentro del campo del software.<br/><br/>
           </li>
           <li>
             <b>Ramos Mendoza, Juan Pablo<br/>
             TB1</b><br/>
             Utilizando mis notas y aprendizajes de cursos anteriores he realizado los diagramas C4 necesarios para nuestro proyecto, además de otras técnicas de organización de información.<br/>
             <b>TP</b><br/>
-            Usando conocimientos de cursos anteriores, pude realizar un diseño base del aplicativo móvil y del landing page, usando buenas prácticas del desarrollo del software al momento de la creación de los mock-ups.<br/>
+            Usando conocimientos de cursos anteriores, pude realizar un diseño base del aplicativo móvil y del landing page, usando buenas prácticas del desarrollo del software al momento de la creación de los mock-ups.<br/><br/>
+           TB2</b><br/>
+            Durante el proyecto, comprendí que aplicar conocimientos pasados no es suficiente, por lo que comencé a investigar nuevas tendencias y herramientas relacionadas con el desarrollo móvil y web. <br/><br/>
           </li>
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
             TB1</b><br/>
-            Investigue sobre las tecnicas del event storming, también sobre los bounded context para poder realizar mi parte del trabajo.<br/>
+            Investigue sobre las tecnicas del event storming, también sobre los bounded context para poder realizar mi parte del trabajo.<br/><br/>
+           TB2</b><br/>
+            A lo largo del proyecto, me di cuenta de que para mejorar mis aportes al equipo debía actualizar constantemente mis conocimientos. Por ello, me involucré en la búsqueda de nuevas estrategias de diseño y desarrollo, entendiendo que el aprendizaje permanente no solo mejora mi desempeño actual, sino que también es esencial para crecer profesionalmente en un entorno en constante evolución.<br/><br/>
           </li>
         </ul>
       </td>
