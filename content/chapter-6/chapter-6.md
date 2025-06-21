@@ -900,7 +900,35 @@ En este segundo sprint se realizo la aplicacion movil en kotlin y flutter. La ap
 
 Durante el presente Sprint, se desarrollaron, mejoraron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente y la aplicación.
 
+![Api](https://github.com/user-attachments/assets/9dc5be2b-ce4b-4920-a21b-61ce14b29ef3)
 
+* **Authentication**
+
+![image](https://github.com/user-attachments/assets/3f901c32-255d-4ee8-8bc5-bc0613bd3dc4)
+
+* **Doctors**
+  
+![image](https://github.com/user-attachments/assets/5ae02994-d80c-4315-84c0-cf5d7589e696)
+
+* **Medicines**
+  
+![image](https://github.com/user-attachments/assets/0389a48c-0f59-48a2-939d-cf97b04d448b)
+
+* **PatientFollowUp**
+  
+![image](https://github.com/user-attachments/assets/6b9d4c13-946b-4e2b-801e-fe0d5014bc13)
+
+* **Patients**
+  
+![image](https://github.com/user-attachments/assets/ee0170c4-438a-49ce-bcc7-de74c74f4e91)
+
+* **Profiles**
+  
+![image](https://github.com/user-attachments/assets/afe4ed71-3b92-4699-ad5c-0736756956fa)
+
+* **Users**
+  
+![image](https://github.com/user-attachments/assets/0c21b990-0c01-43ed-8021-f3934ae356f9)
 
 ### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
