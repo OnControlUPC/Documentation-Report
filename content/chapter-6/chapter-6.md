@@ -1169,6 +1169,32 @@ Servidor de despliegue
 
 <img width="1264" alt="image" src="https://github.com/user-attachments/assets/0a49d7a2-d9e3-4f5c-9302-4d431aa64c70" />
 
+* Authentication: Gestiona el registro e inicio de sesión de usuarios, asegurando acceso seguro mediante endpoints de autenticación.
+
+* User Management: Permite obtener la lista y detalles de usuarios registrados, facilitando su administración en el sistema.
+
+* Patient & Doctor Profiles: Administra la información de perfil de pacientes y médicos, incluyendo edición, búsqueda y desactivación.
+
+* Doctor-Patient Link: Controla la relación entre médicos y pacientes mediante solicitudes, activación, rechazo y consultas de estado.
+
+* Treatment & Procedures: Maneja la creación, edición y seguimiento de tratamientos y procedimientos médicos asignados.
+
+* Procedure Executions: Permite registrar y consultar la ejecución de procedimientos diarios por parte de pacientes o médicos.
+
+* Appointments: Controla la creación, consulta, cancelación y seguimiento de citas agendadas entre médicos y pacientes.
+
+* Symptoms & Logs: Registra síntomas reportados por pacientes y su visualización para seguimiento clínico.
+
+* Messaging (Chat): Expone el historial conversacional entre paciente y doctor en sesiones clínicas o de tratamiento.
+
+* Subscriptions & Payments: Administra planes, suscripciones, claves de activación, pagos, métodos de pago y su historial.
+
+* Storage: Facilita la subida segura de archivos e imágenes mediante generación de URLs prefirmadas.
+
+* Plans: Permite crear y modificar planes de suscripción que definen acceso y niveles de servicio para los usuarios.
+
+**Evidencias**
+
 * **Authentication**
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/8a8bc751-173d-4ea9-aebb-5b3966012148" />
