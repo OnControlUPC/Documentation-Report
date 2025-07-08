@@ -900,8 +900,6 @@ En este segundo sprint se realizo la aplicacion movil en kotlin y flutter. La ap
 
 Durante el presente Sprint, se desarrollaron, mejoraron y documentaron diversos endpoints que forman parte de los servicios backend de la aplicación. Estos endpoints permiten la interacción entre el cliente y la aplicación.
 
-![Api](https://github.com/user-attachments/assets/9dc5be2b-ce4b-4920-a21b-61ce14b29ef3)
-
 * **Authentication**
 
 ![image](https://github.com/user-attachments/assets/3f901c32-255d-4ee8-8bc5-bc0613bd3dc4)
@@ -1042,6 +1040,312 @@ Se proporcionará información detallada sobre la colaboración y comunicación 
 ![image](https://github.com/user-attachments/assets/787368a5-9062-4133-993e-36e0f1578a81)
 
 ![image](https://github.com/user-attachments/assets/21012ebd-cd4d-40d8-b492-1207f410e2c2)
+
+### 6.2.3. Sprint 3
+
+En esta sección se presenta el avance correspondiente al Sprint 3, centrado en el desarrollo integral de las funcionalidades clave del sistema OnControl. Durante este ciclo, se priorizó:
+
+* La culminación del módulo de médicos, incluyendo mejoras y ajustes identificados en entregas anteriores.
+
+* La implementación completa de las funcionalidades para la aplicación de pacientes, garantizando su operatividad y conexión efectiva con los médicos.
+
+* El fortalecimiento del vínculo entre ambas aplicaciones (Flutter y Android), mediante el intercambio de datos clínicos, solicitudes y notificaciones.
+
+Este sprint representa un hito importante en la consolidación de la arquitectura funcional del sistema, sentando las bases para próximas funcionalidades como mensajería, seguimiento de tratamientos y mejoras UX.
+
+### 6.2.3.1. Sprint Planning 3
+
+| **Campo** | **Detalle** |
+|-----------|-------------|
+| **Sprint** | Sprint 3 |
+| **Sprint Planning Date** | 2025-07-02 |
+| **Time** | 03:00 PM |
+| **Location** | Meet |
+| **Prepared By** | Quique Vladimir Jara Benites |
+| **Attendees** | Williams Góngora / Oscar Garayar / Juan Ramos / Michael Quispe / Quique Vladimir Jara |
+| **Sprint Goal** | Completar todas las funcionalidades del módulo de pacientes e integrarlo con el módulo médico. Este sprint marca la consolidación total de la plataforma OnControl en términos de autenticación, gestión de tratamientos, citas y notificaciones. |
+| **Sprint Velocity** | 7 |
+| **Sum of Story Points** | 34 |
+
+### 6.2.3.2. Sprint Backlog 3
+
+| User Story | Work-Item / Task Id | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+|------------|---------------------|-----|--------|-------------|--------------------|--------------|--------|
+| US01 | WI-026 | SB3-001 | Registro de usuario (Flutter) | Desarrollar formulario de registro para pacientes con validaciones y conexión a API | 10 | TBD | To-do |
+| US02 | WI-027 | SB3-002 | Configurar pagos (Flutter) | Implementar vista de métodos de pago en pacientes y conexión con backend | 10 | TBD | To-do |
+| US05 | WI-028 | SB3-003 | Recuperar cuenta paciente | Integrar sistema de recuperación por email y SMS para Flutter | 8 | TBD | To-do |
+| US06 | WI-029 | SB3-004 | Cambio número telefónico paciente | Permitir a pacientes editar su número desde su perfil con validación | 6 | TBD | To-do |
+| US07 | WI-030 | SB3-005 | Cambio de contraseña paciente | Agregar vista y lógica para actualización de contraseña con validaciones | 6 | TBD | To-do |
+| US08 | WI-031 | SB3-006 | Actualizar foto de perfil paciente | Permitir a pacientes subir, previsualizar y guardar una imagen de perfil | 6 | TBD | To-do |
+| US10 | WI-032 | SB3-007 | Aceptar cita | Desarrollar funcionalidad para que pacientes confirmen citas propuestas | 6 | TBD | To-do |
+| US11 | WI-033 | SB3-008 | Cancelar cita | Permitir cancelación de citas activas con notificación al médico responsable | 6 | TBD | To-do |
+| US12 | WI-034 | SB3-009 | Reprogramar cita | Implementar lógica de cambio de fecha para citas y notificación automática | 8 | TBD | To-do |
+| US14 | WI-035 | SB3-010 | Responder cambios en tratamiento | Integrar opción para aceptar o rechazar modificaciones propuestas | 6 | TBD | To-do |
+| US15 | WI-036 | SB3-011 | Personalizar fecha de inicio | Añadir selector para definir inicio de tratamiento según disponibilidad | 4 | TBD | To-do |
+| US16 | WI-037 | SB3-012 | Marcar cumplimiento diario | Permitir seguimiento de cumplimiento por parte del paciente | 6 | TBD | To-do |
+| US18 | WI-038 | SB3-013 | Enviar síntomas | Implementar formulario para que pacientes reporten síntomas periódicamente | 8 | TBD | To-do |
+| US27 | WI-039 | SB3-014 | Ver resumen tratamiento | Mostrar resumen del tratamiento previo a aceptación del paciente | 6 | TBD | To-do |
+| US29 | WI-040 | SB3-015 | Modificar fecha de inicio | Habilitar cambio de fecha de inicio del tratamiento con notificación al médico | 4 | TBD | To-do |
+| US36 | WI-041 | SB3-016 | Ver procedimientos del día | Mostrar lista diaria de procedimientos activos asignados al paciente | 6 | TBD | To-do |
+| US21 | WI-042 | SB3-017 | Notificaciones de cambio tratamiento | Mostrar alertas cuando se propongan cambios en el plan terapéutico | 6 | TBD | To-do |
+| US20 | WI-043 | SB3-018 | Consultar medicamentos | Visualizar detalles de medicamentos activos, dosis y advertencias | 6 | TBD | To-do |
+| US30 | WI-044 | SB3-019 | Configurar recordatorios paciente | Permitir personalización de notificaciones, tono y horario | 6 | TBD | To-do |
+| US31 | WI-045 | SB3-020 | Avisos de cambios sistema paciente | Notificar a pacientes sobre reprogramaciones, nuevas versiones u otras actualizaciones | 6 | TBD | To-do |
+
+**Total Estimation: 136 hours**
+
+
+**Sprint Goals**
+
+- Finalizar todas las funcionalidades del módulo de pacientes: autenticación, perfil, citas, tratamiento y configuración.
+- Integrar completamente el módulo de pacientes con el módulo de médicos mediante flujos de comunicación y notificaciones.
+- Consolidar la plataforma OnControl como sistema funcional y estable para ambas aplicaciones móviles.
+
+### 6.2.3.3. Development Evidence for Sprint Review
+
+* **OnControlUPC/OnControlDoctor**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|------------|--------|-----------|----------------|----------------------|---------------|
+| OnControlUPC/OnControlDoctor | master | fae3850 | Merge pull request #7 from OnControlUPC/develop | Integración de funcionalidades desde rama `develop` hacia `master`, consolidando avances para entrega final | Jul 7, 2025 |
+| OnControlUPC/OnControlDoctor | master | 00e1751 | Merge pull request #6 from OnControlUPC/feature/home | Incorporación de interfaz principal (`home`) al proyecto de doctores con navegación y vista base | Jul 7, 2025 |
+| OnControlUPC/OnControlDoctor | master | d70e8cd | feat: get history messages | Implementada función para recuperar historial de mensajes en contexto de comunicación clínica | Jul 7, 2025 |
+| OnControlUPC/OnControlDoctor | master | 3abab4b3 | feat: add communication context | Añadido componente de contexto para manejar sesiones y flujos de comunicación entre doctor y paciente | Jul 5, 2025 |
+| OnControlUPC/OnControlDoctor | master | 8619718 | Merge pull request #5 from OnControlUPC/develop | Consolidación de desarrollos previos al entorno `master` | Jul 5, 2025 |
+| OnControlUPC/OnControlDoctor | master | a3a0216 | Merge pull request #4 from OnControlUPC/feature/home | Incorporación de vista inicial y navegación principal desde rama `feature/home` | Jul 5, 2025 |
+| OnControlUPC/OnControlDoctor | master | ed15cb3 | feat: add communication context | Configuración inicial del contexto compartido para flujos de interacción en tiempo real | Jul 3, 2025 |
+
+* **OnControlUPC/OnControl-flutter**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|------------|--------|-----------|----------------|----------------------|---------------|
+| OnControlUPC/OnControl-flutter | main | b25f591 | calendar hot fixed | Ajuste crítico en la visualización y lógica del calendario de procedimientos y citas | Jul 6, 2025 |
+| OnControlUPC/OnControl-flutter | main | ab96979 | appointments fixed | Corrección de flujo de asignación y visualización de citas agendadas | Jul 6, 2025 |
+| OnControlUPC/OnControl-flutter | main | 098cda7 | procedures finished | Finalización de implementación de procedimientos asignados al paciente | Jul 6, 2025 |
+| OnControlUPC/OnControl-flutter | main | db26d38 | the upload photo is created | Se habilita funcionalidad para subir y actualizar imagen de perfil | Jul 5, 2025 |
+| OnControlUPC/OnControl-flutter | main | 8c8923d | Symptoms added | Registro de síntomas habilitado desde la aplicación del paciente | Jul 3, 2025 |
+| OnControlUPC/OnControl-flutter | main | ec66c7f | logicas de varias secciones arreglada, chat tmb | Arreglos generales en navegación, validación de formularios y módulo de mensajería | Jul 1, 2025 |
+| OnControlUPC/OnControl-flutter | main | 75d930e | feat: update design of calendar_page.dart | Rediseño visual del calendario con mejoras de UX | Jul 1, 2025 |
+| OnControlUPC/OnControl-flutter | main | b8b4f6d | feat: update design of treatments_list_page.dart | Estética y estructura mejoradas para la vista de tratamientos del paciente | Jul 1, 2025 |
+
+### 6.2.3.4. Execution Evidence for Sprint Review
+
+Durante el tercer sprint se finalizó la implementación funcional de ambas aplicaciones móviles: una desarrollada en Kotlin para médicos y la otra en Flutter para pacientes, consolidando así la plataforma OnControl en su versión completa.
+
+* En la aplicación de médicos (Kotlin), se concluyó el desarrollo e integración de componentes clave como el historial de mensajes, el contexto de comunicación, el calendario clínico y la navegación principal. Estos avances permiten una interacción fluida con pacientes y una gestión eficiente de citas, tratamientos y seguimiento clínico.
+
+* En la aplicación de pacientes (Flutter), se completaron todas las funcionalidades esenciales: autenticación, registro, actualización de perfil, gestión de citas, notificaciones, visualización de tratamientos y procedimientos diarios, así como el envío de síntomas y configuración de recordatorios. Además, se mejoró la interfaz del calendario y se integraron los módulos de mensajería y seguimiento.
+
+* **Aplicacion movil kotlin:**
+  
+
+* **Aplicacion movil flutter:**
+
+#### Pantalla de inicio de sesion 
+
+![](https://github.com/user-attachments/assets/9a5db1bb-a71b-4da4-8d4a-4eb584333e5e)
+
+#### Pantalla de creacion de cuenta
+
+![](https://github.com/user-attachments/assets/31775220-5eb4-456a-95c1-cc59633c0ca9)
+
+#### Pantalla de creacion de perfil
+
+![](https://github.com/user-attachments/assets/b7fcb221-19c7-4757-93f5-35562f80fd09)
+
+#### Pantalla de home
+
+![](https://github.com/user-attachments/assets/4548c3e1-76a5-4c29-9cd8-949145e4e385)
+
+
+### 6.2.2.5. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se consolidó y mejoró la documentación de todos los servicios backend del sistema OnControl, utilizando OpenAPI Specification (OAS 3.1) como estándar para garantizar claridad, interoperabilidad y trazabilidad entre equipos. La documentación está disponible a través del endpoint:
+
+Servidor de despliegue
+* URL activa: https://oncontrolbackend-gtbdhpc9fgd2epdx.westus3-01.azurewebsites.net
+
+* Entorno: Producción (Azure App Service, región West US 3)
+
+<img width="1264" alt="image" src="https://github.com/user-attachments/assets/0a49d7a2-d9e3-4f5c-9302-4d431aa64c70" />
+
+* **Authentication**
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/8a8bc751-173d-4ea9-aebb-5b3966012148" />
+
+* **Root**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/e11841f3-64d0-4b2b-812e-37a7fd0865cd" />
+
+* **Users**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/9980e006-e6f2-410f-ad0c-63d357f59f0f" />
+
+* **treatment-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/a310d7cc-b404-4d6b-bf62-d127cf357f2d" />
+
+* **subscription-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/39c5ab80-ec74-4457-a67d-d453394a5aea" />
+
+* **subscription-key-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/7a5257ca-de25-4fbd-8efa-36039f9f14f9" />
+
+* **storage-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/411f23ad-acfc-4bad-8190-894e00a76fb3" />
+
+* **plan-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/a81b9b85-359d-451b-a7fc-483e87bd0b89" />
+
+* **payment-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/f92f9c34-ade4-493a-b2d9-9d5118a5e3b3" />
+
+* **payment-method-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/4e9ec8f0-95f5-4e2a-95db-6b3aff2f1bce" />
+
+* **patient-profile-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/4e8f9680-81cc-490b-ac5a-bcd50f65851a" />
+
+* **doctor-profile-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/291ad3d6-01af-4319-afd0-b6de16388b31" />
+
+* **doctor-patient-link-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/01f843f5-f892-451c-9669-313ffa85aa42" />
+
+* **appointment-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/a344ba80-bb23-422d-82d6-21876f2040cf" />
+
+* **procedure-execution-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/d1ce3b2f-bec6-4077-b3c4-019b81cad82b" />
+
+* **chat-message-query-controller**
+  
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/6cce2dbb-179f-44dc-b7e9-e3487f2008ad" />
+
+### 6.2.2.6. Software Deployment Evidence for Sprint Review
+
+### Despliegue del Backend
+
+##### 1. Creación de aplicación web + base de datos
+- **Contenido**: Formulario de configuración de App Service y base de datos.
+- **Pasos clave**:
+  1. Elegir **Sistema operativo** (Windows/Linux) y **Región** (ej. East US 2).
+  2. Configurar **Plan de App Service** con tamaño (SKU) y memoria.
+  3. Crear base de datos **MySQL** con opciones como almacenamiento y versión.
+  
+ <img src="https://github.com/user-attachments/assets/0def481f-dadc-4807-ae38-32384f48182b5"/>
+
+##### 2. Detalles de implementación en curso
+- **Contenido**: Nombre de implementación, grupo de recursos y fecha de inicio.
+- **Pasos clave**:
+  1. Verificar el **Nombre de implementación**: `Microsoft.Web-WebAppDatabase-Portal-i623e2b4-b638`.
+  2. Confirmar el **Grupo de recursos asociado**: `orecipital`.
+  3. Revisar el estado **"La implementación está en curso"** y logs en **Detalles de la operación**.
+     
+  <img src="https://github.com/user-attachments/assets/0fd86907-a034-47a6-9a6c-12d0558aac1d"/>
+
+##### 3. Progreso de la implementación
+- **Contenido**: Lista de verificación con elementos completados (✓) y pendientes ( ).
+- **Pasos clave**:
+  1. Configurar **Grupo de recursos** y **Vnet** para la infraestructura.
+  2. Habilitar **Microsoft Defender for Cloud** para seguridad.
+  3. Definir alertas de costos para evitar sobrecargos.
+  4. Enlazar recursos con **Asociación** y **Identificación de implementación**.
+  
+ <img src="https://github.com/user-attachments/assets/fccdebe8-7c4c-458a-a9dc-94ac30b6f223"/>
+
+##### 4. Configuración de red privada y DNS
+- **Contenido**: Lista de recursos de red (VNet, zonas DNS privadas).
+- **Pasos clave**:
+  1. Vincular **Red virtual (VNet)** con la aplicación.
+  2. Crear **Zonas DNS privadas** para servicios como MySQL (`privatelink.mysql.database.azure.com`).
+  3. Establecer **Vínculos de red virtual** para acceso seguro a recursos.
+     
+ <img src="https://github.com/user-attachments/assets/8ad2d4b5-3017-41a4-a76a-f94aa9fb448d"/>
+
+##### 5. Configuración de variables de entorno y conexión a MySQL
+- **Contexto**: Sección de **Environment variables** en Azure App Service.
+- **Pasos clave**:
+  1. **Agregar variables de entorno**:
+     - Nombre: `ADJAE_UHTML_CONNECTIONSTRING`.
+     - Valor: Cadena de conexión a la base de datos MySQL (`Server=mi-servidor.mysql.database.stan.com;Database=oncontrol-database`).
+  2. **Configurar tipo y origen**:
+     - **Type**: MySQL (indica el motor de base de datos).
+     - **Source**: App Service (origen de la configuración).
+  3. **Acciones adicionales**:
+     - Opciones para edición avanzada o referencia completa de valores
+       
+ <img src="https://github.com/user-attachments/assets/0133e82c-857d-4675-ab72-31a6e1a07791"/>
+
+ ##### 6. Configuración de GitHub Actions para CI/CD
+- **Contexto**: Integración de Azure con GitHub Actions en **Deployment Center**.
+- **Pasos clave**:
+  1. **Vincular repositorio de GitHub**:
+     - **Organization**: `OnControlUPC`.
+     - **Repository**: `oncontrol-platform`.
+     - **Branch**: `main`.
+  2. **Definir workflow**:
+     - Crear un nuevo archivo YAML (`main_oncontrol.yml`) o usar uno existente.
+     - **Runtime stack**: .NET 8.0 (entorno de ejecución).
+  3. **Autenticación**:
+     - Elegir entre:
+       - **User-assigned identity**: Federación con Azure AD para permisos automatizados.
+       - **Basic authentication**: Credenciales manuales (menos seguro).
+     - **Suscripción asociada**: `Azure for Students`.
+  4. **Advertencias**:
+     - Evitar configurar CI/CD directamente en el **production slot** (no recomendado).
+     - Requiere permisos de escritura en el repositorio de GitHub.
+
+<img src="https://github.com/user-attachments/assets/c603dc47-5146-41b6-8f77-7f30868e4a65"/>
+
+##### 7. Deployment Center y flujo de GitHub Actions
+- **Contexto**: Configuración de automatización de despliegues en **Deployment Center**.
+- **Pasos clave**:
+  1. **Seleccionar origen**:
+     - Proveedor: **GitHub**.
+     - **Building with GitHub Actions**: Automatiza builds y despliegues.
+  2. **Detalles del workflow**:
+     - **Trigger**: Se activa con commits en la rama `main`.
+     - **Permisos**: Habilitar permisos adicionales en GitHub si es necesario.
+  3. **Configuración de seguridad**:
+     - **Microsoft Defender for Cloud**: Protege la infraestructura.
+     - **Alertas**: Monitorear eventos y costos.
+  4. **Advertencias clave**:
+     - **No usar el slot de producción para CI/CD**: Usar slots de staging para pruebas.
+     - **Validar archivo YAML**: Asegurar que el workflow no tenga errores de sintaxis.
+    
+<img src="https://github.com/user-attachments/assets/82ec9c77-539f-4e09-9278-05440a8c6fba"/>
+
+##### 8. Resultado de implementación exitosa
+- **Contenido**: Logs de ejecución y advertencias.
+- **Pasos clave**:
+  1. Verificar **Estado: Success** y duración (`20s`).
+  2. Revisar **Annotations** para resolver errores (ej: propiedades no nulas en código).
+  3. Acceder a enlaces de logs (`http://executor.buildbrackleapp.eu/index`).
+
+<img src="https://github.com/user-attachments/assets/bc945708-86ea-42f5-8d2a-c88c24030044"/>
+ 
+### 6.2.2.7. Team Collaboration Insights during Sprint
+
+Se proporcionará información detallada sobre la colaboración y comunicación entre los miembros del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de actividades, la gestión de tareas asignadas y la resolución de inconvenientes surgidos en el proceso. Las responsabilidades se distribuyeron equitativamente entre los integrantes del equipo. 
+
+![image](https://github.com/user-attachments/assets/d395fe20-1590-4fe0-b113-e980cabad875)
+
+![image](https://github.com/user-attachments/assets/787368a5-9062-4133-993e-36e0f1578a81)
+
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/201b9282-79a2-4b97-ad54-072da78ab99a" />
+
 
 ### 6.3. Validation Interviews
 
