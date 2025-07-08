@@ -1465,22 +1465,23 @@ EMSafe
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.  Registro de un usuario nuevo
-2.  Publicación de un post
-3.  Búsqueda de un paquete turístico
-4.  Reserva de un viaje
-5.  Cancelación de una reserva
-6.  Agregar items a un pedido
-7.  Pago de un paquete turístico
-8.  Etc.
+1. Registro y autenticación de usuarios (pacientes y doctores)
 
-No están incluidas en esta versión de la evaluación las siguientes tareas:
+2. Actualización de perfil y configuración de cuenta
 
-1.  Compartir reservas entre usuarios
-2.  Presentar ofertas de último minuto
-3.  Administrar puntos del programa de fidelización de viajes
-4.  Guardar "alerta de paquetes"
-5.  Etc.
+3. Visualización y aceptación de solicitudes de cita médica
+
+4. Registro de síntomas y seguimiento de tratamiento
+
+5. Visualización del calendario de procedimientos diarios
+
+6. Configuración de recordatorios y notificaciones
+
+7. Reprogramación o cancelación de citas
+
+8. Interacción básica en el módulo de mensajería clínica
+
+9. Visualización del historial de tratamientos
 
 
 #### ESCALA DE SEVERIDAD:
