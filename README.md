@@ -298,6 +298,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas.<br/><br/>
            TB2</b><br/>
             Durante el proyecto, actualicé y reforcé mis conocimientos relacionados con el desarrollo de soluciones de software, especialmente en el ámbito de aplicaciones móviles. Investigué sobre nuevas metodologías, herramientas y enfoques que me permitieran tomar mejores decisiones técnicas y de diseño. <br/><br/>
+           <b>TF</b></br>
+            Aplicó y consolidó conocimientos avanzados en desarrollo backend, autenticación con JWT y comunicación segura entre APIs, reforzando además su dominio de integración con Flutter.<br/><br/>
           </li>
           <li>
             <b>Jara Benites, Quique Vladimir<br/>
@@ -307,6 +309,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
            Durante el desarrollo de este entregable, actualicé y apliqué conocimientos relevantes para el despliegue del backend, así como para el avance del desarrollo de la aplicación móvil. Para ello, investigué y apliqué nuevas herramientas y buenas prácticas que optimizan el funcionamiento del sistema. Además, revisé y corregí elementos del product backlog, lo cual me permitió afianzar criterios de priorización y gestión ágil del proyecto.<br/><br/>
            TB2</b><br/>
             En esta etapa, reforcé mis habilidades en el desarrollo móvil utilizando Flutter, enfocándome en la integración con servicios, manejo de interfaces y estructura del código. Esta experiencia me permitió mejorar mis capacidades técnicas, adaptarme mejor al trabajo en equipo y aportar soluciones funcionales al proyecto, todo como parte de un proceso de aprendizaje continuo. <br/><br/>
+           <b>TF</b></br>
+            Lideró la planificación de sprints, gestionó entregables y participó activamente en decisiones arquitectónicas que requerían actualización constante de conceptos en diseño de software móvil.<br/><br/>
           </li>
           <li>
             <b>Quispe Roldan Michael Fred<br/>
@@ -319,6 +323,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
            TB2</b><br/>
             En esta entrega actualice y reforce mis conocimientos en Flutter, especialmente en la construcción de interfaces, manejo de formularios, consumo de servicios REST y gestión de estado. Estos aprendizajes fueron esenciales para desarrollar la aplicación de manera funcional y siguiendo buenas prácticas, contribuyendo así a mi desarrollo profesional en soluciones de software.
           </li>
+           <b>TF</b></br>
+            Profundizó sus conocimientos en la construcción de interfaces móviles usando Kotlin y adaptó nuevas lógicas de navegación, calendario y sesiones.<br/><br/>
           <li>
             <b>Ramos Mendoza, Juan Pablo<br/>
             TB1</b><br/>
@@ -327,6 +333,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             En esta entrega me enfoqué en el desarrollo grupal de la aplicación y el landing page, además del Software Configuration Design, permitiendo que desarrolle y reforzarme en temas que he visto desde cursos anteriores para un correcto desarrollo de software.<br/><br/>
            TB2</b><br/>
             Durante el desarrollo de esta entrega, investigué recursos adicionales sobre el diseño de software y la organización de sistemas. Amplié mis conocimientos en diseño visual, usabilidad y arquitectura, aplicándolos al desarrollo de la aplicación y del landing page.<br/><br/>
+           <b>TF</b></br>
+            Contribuyó a la implementación de lógica de citas, notificaciones y control de sesiones en Flutter, enfrentando desafíos técnicos a través del estudio autónomo de librerías y métodos asincrónicos.<br/><br/>
           </li>
           <li>
             <b>Garayar Mori, Oscar Nathaniel<br/>
@@ -337,6 +345,8 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
             Para Esta entrega me centré en el diseño UI/UX de la aplicación movil. Además de asegurarme de revisar errores pasados para el informe.<br/><br/>
            TB2</b><br/>
             En esta fase del proyecto, actualicé mis conocimientos sobre diseño de interfaces y experiencia de usuario, lo cual fue clave para desarrollar una aplicación más intuitiva y funcional. <br/><br/>
+           <b>TF</b></br>
+            Participó activamente en la implementación de lógica de negocio y procesamiento de datos clínicos, investigando nuevas estrategias para la representación de procedimientos médicos.<br/><br/>
             <br/>
           </li>
         </ul>
