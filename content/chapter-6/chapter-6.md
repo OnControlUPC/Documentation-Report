@@ -1072,9 +1072,6 @@ Este sprint representa un hito importante en la consolidación de la arquitectur
 | User Story | Work-Item / Task Id | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
 |------------|---------------------|-----|--------|-------------|--------------------|--------------|--------|
 | US01 | WI-026 | SB3-001 | Registro de usuario (Flutter) | Desarrollar formulario de registro para pacientes con validaciones y conexión a API | 10 | TBD | To-do |
-| US02 | WI-027 | SB3-002 | Configurar pagos (Flutter) | Implementar vista de métodos de pago en pacientes y conexión con backend | 10 | TBD | To-do |
-| US05 | WI-028 | SB3-003 | Recuperar cuenta paciente | Integrar sistema de recuperación por email y SMS para Flutter | 8 | TBD | To-do |
-| US06 | WI-029 | SB3-004 | Cambio número telefónico paciente | Permitir a pacientes editar su número desde su perfil con validación | 6 | TBD | To-do |
 | US07 | WI-030 | SB3-005 | Cambio de contraseña paciente | Agregar vista y lógica para actualización de contraseña con validaciones | 6 | TBD | To-do |
 | US08 | WI-031 | SB3-006 | Actualizar foto de perfil paciente | Permitir a pacientes subir, previsualizar y guardar una imagen de perfil | 6 | TBD | To-do |
 | US10 | WI-032 | SB3-007 | Aceptar cita | Desarrollar funcionalidad para que pacientes confirmen citas propuestas | 6 | TBD | To-do |
@@ -1083,9 +1080,6 @@ Este sprint representa un hito importante en la consolidación de la arquitectur
 | US14 | WI-035 | SB3-010 | Responder cambios en tratamiento | Integrar opción para aceptar o rechazar modificaciones propuestas | 6 | TBD | To-do |
 | US15 | WI-036 | SB3-011 | Personalizar fecha de inicio | Añadir selector para definir inicio de tratamiento según disponibilidad | 4 | TBD | To-do |
 | US16 | WI-037 | SB3-012 | Marcar cumplimiento diario | Permitir seguimiento de cumplimiento por parte del paciente | 6 | TBD | To-do |
-| US18 | WI-038 | SB3-013 | Enviar síntomas | Implementar formulario para que pacientes reporten síntomas periódicamente | 8 | TBD | To-do |
-| US27 | WI-039 | SB3-014 | Ver resumen tratamiento | Mostrar resumen del tratamiento previo a aceptación del paciente | 6 | TBD | To-do |
-| US29 | WI-040 | SB3-015 | Modificar fecha de inicio | Habilitar cambio de fecha de inicio del tratamiento con notificación al médico | 4 | TBD | To-do |
 | US36 | WI-041 | SB3-016 | Ver procedimientos del día | Mostrar lista diaria de procedimientos activos asignados al paciente | 6 | TBD | To-do |
 | US21 | WI-042 | SB3-017 | Notificaciones de cambio tratamiento | Mostrar alertas cuando se propongan cambios en el plan terapéutico | 6 | TBD | To-do |
 | US20 | WI-043 | SB3-018 | Consultar medicamentos | Visualizar detalles de medicamentos activos, dosis y advertencias | 6 | TBD | To-do |
