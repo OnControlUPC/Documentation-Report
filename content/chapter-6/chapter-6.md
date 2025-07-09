@@ -1130,26 +1130,33 @@ Durante el tercer sprint se finalizó la implementación funcional de ambas apli
 
 * En la aplicación de pacientes (Flutter), se completaron todas las funcionalidades esenciales: autenticación, registro, actualización de perfil, gestión de citas, notificaciones, visualización de tratamientos y procedimientos diarios, así como el envío de síntomas y configuración de recordatorios. Además, se mejoró la interfaz del calendario y se integraron los módulos de mensajería y seguimiento.
 
-* **Aplicacion movil kotlin:**
-  
-
 * **Aplicacion movil flutter:**
 
-#### Pantalla de inicio de sesion 
+![2](https://github.com/user-attachments/assets/cc8f366e-efbc-4bcb-be1c-1d4eeddcad98)
 
-![](https://github.com/user-attachments/assets/9a5db1bb-a71b-4da4-8d4a-4eb584333e5e)
+![1](https://github.com/user-attachments/assets/857b7583-d1a1-4de4-9c67-29ae8cbf5bcb)
 
-#### Pantalla de creacion de cuenta
+![12](https://github.com/user-attachments/assets/d85577b7-20a2-4dc6-b965-b33937647fae)
 
-![](https://github.com/user-attachments/assets/31775220-5eb4-456a-95c1-cc59633c0ca9)
+![11](https://github.com/user-attachments/assets/c3d002e4-84b6-44b6-aa2a-7d661ccd741c)
 
-#### Pantalla de creacion de perfil
+![10](https://github.com/user-attachments/assets/196cf371-b379-425b-b7eb-57bb63cc3ca8)
 
-![](https://github.com/user-attachments/assets/b7fcb221-19c7-4757-93f5-35562f80fd09)
+![9](https://github.com/user-attachments/assets/97b1f569-6434-40f5-a53e-6bb7d4044217)
 
-#### Pantalla de home
+![8](https://github.com/user-attachments/assets/21ec4f89-892b-448c-ac2e-9f3e7c446a98)
 
-![](https://github.com/user-attachments/assets/4548c3e1-76a5-4c29-9cd8-949145e4e385)
+![7](https://github.com/user-attachments/assets/dacfa1eb-f941-46bd-8dda-1a4a9017801d)
+
+![6](https://github.com/user-attachments/assets/d890cb7b-e63e-4ffd-b89d-280043ef0f05)
+
+![5 2](https://github.com/user-attachments/assets/4fe3612b-3ff4-4f50-bd85-c2d1a2b027a8)
+
+![5 1](https://github.com/user-attachments/assets/6e6c425b-da6a-45ea-9816-4119ce8c7645)
+
+![4](https://github.com/user-attachments/assets/cf1f66b8-e90e-4911-a5ba-e7a9096a61db)
+
+![3](https://github.com/user-attachments/assets/55a45d8c-d89b-4a41-b5bb-ca61ce04b7aa)
 
 
 ### 6.2.2.5. Services Documentation Evidence for Sprint Review
