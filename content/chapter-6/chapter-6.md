@@ -1565,10 +1565,16 @@ La sección proporciona un panorama general del producto, resaltando su objetivo
 
 ![image](https://github.com/user-attachments/assets/ffb512ad-c7ca-46ee-aa80-7f421fde5da8)
 
-
-URL en youtube: https://www.youtube.com/watch?v=CWmXz7oLo78
+URL en youtube: [https://youtu.be/CWmXz7oLo78](https://youtu.be/CWmXz7oLo78)
 
 Duración: 3:04
+
+<img width="731" height="718" alt="image" src="https://github.com/user-attachments/assets/be288a0b-4926-48db-a7e8-7a13dea0e45b" />
+
+
+URL en youtube: [https://youtu.be/1R_rNvDC_hI](https://youtu.be/1R_rNvDC_hI)
+
+Duración: 5:34
 
 ### 6.5. About the Team
 
