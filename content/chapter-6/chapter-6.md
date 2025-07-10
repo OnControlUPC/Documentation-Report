@@ -1563,9 +1563,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 La sección proporciona un panorama general del producto, resaltando su objetivo, características principales y el valor que brinda a sus usuarios. Esta introducción facilita la comprensión del contexto del producto y su orientación a cubrir las demandas de los usuarios, sincronizando sus características y habilidades con las metas de la solución sugerida.
 
-URL en Microsoft Teams:
+![image](https://github.com/user-attachments/assets/ffb512ad-c7ca-46ee-aa80-7f421fde5da8)
 
-Duración:
+
+URL en youtube: ![https://www.youtube.com/watch?v=CWmXz7oLo78]
+
+Duración: 3:04
 
 ### 6.5. About the Team
 
