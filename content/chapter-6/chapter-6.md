@@ -1566,7 +1566,7 @@ La sección proporciona un panorama general del producto, resaltando su objetivo
 ![image](https://github.com/user-attachments/assets/ffb512ad-c7ca-46ee-aa80-7f421fde5da8)
 
 
-URL en youtube: ![https://www.youtube.com/watch?v=CWmXz7oLo78]
+URL en youtube: https://www.youtube.com/watch?v=CWmXz7oLo78
 
 Duración: 3:04
 
@@ -1574,6 +1574,8 @@ Duración: 3:04
 
 Esta parte facilitará la identificación del equipo que impulsó el proyecto, mostrando un video que refleja la esencia de nuestro proceso laboral, resaltando cómo cada integrante aportó con sus destrezas y empeños. Además, cada participante relata en cámara su vivencia personal, detallando las tareas que llevó a cabo, los éxitos alcanzados y las habilidades que cultivó durante el proceso. Algunos de los éxitos alcanzados en el equipo comprenden una comunicación eficaz que nos facilitó mantenernos en sintonía en cada fase del proyecto, garantizando que todas las ideas y contribuciones fueran oídas y tenidas en cuenta.
 
-URL en Microsoft Teams:
+<img width="1080" height="626" alt="image" src="https://github.com/user-attachments/assets/3b369548-feeb-42b4-99f9-e13cc4d4ff47" />
 
-Duración:
+URL en youtube: https://youtu.be/Mtk9u0L_dR4
+
+Duración: 5:53
