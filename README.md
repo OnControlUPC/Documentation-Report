@@ -271,6 +271,22 @@ Para el desarrollo del informe correspondiente a la entrega TB2, se estableció 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 <br><br>
+
+**TF**
+
+Para el desarrollo del informe correspondiente a la entrega TF, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante| Tareas Asignadas                                                                                                                                                                                                                                                                                                                                                                                         |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Williams Gongora Castillejos |    Flutter Project. |
+| Quique Vladimir Jara Benites |  Android Project front-end, Back-end.                                    |
+| Quispe Roldan Michael Fred    |  Flutter Project.               |
+| Juan Pablo Ramos Mendoza     | Android Project.|
+| Garayar Mori Oscar Nathaniel | Flutter Project Front-end.|
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
+<br><br>
+
 ## Student Outcome
 
 En Ingeniería de Software, el logro contribuye a alcanzar el:
@@ -290,64 +306,35 @@ necesario, utilizando estrategias de aprendizaje apropiadas.
     <tr>
       <td style="border: 1px solid black;">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
-          <li>
-            <b>Gongora Castillejos, Williams<br/>
-            TB1</b><br/>
-            Exploré, investigué y apliqué de forma autónoma técnicas como Event Storming y el enfoque de Bounded Context para estructurar mejor el dominio del sistema. Esto incluyó el análisis de eventos, actores, comandos y el diseño de diagramas de clases, componentes y base de datos, mejorando la comprensión del sistema y su arquitectura.<br/><br/>
-            TP</b><br/>
-            Durante el desarrollo del proyecto, actualicé mis conocimientos en arquitectura de la información y experiencia de usuario, aplicando conceptos clave como sistemas de organización, etiquetado, navegación y búsqueda. Además, profundicé en el uso de buenas                prácticas para la elaboración de wireframes y mock-ups, así como en la implementación de etiquetas SEO y metadatos, fundamentales en el desarrollo de soluciones web efectivas.<br/><br/>
-           TB2</b><br/>
-            Durante el proyecto, actualicé y reforcé mis conocimientos relacionados con el desarrollo de soluciones de software, especialmente en el ámbito de aplicaciones móviles. Investigué sobre nuevas metodologías, herramientas y enfoques que me permitieran tomar mejores decisiones técnicas y de diseño. <br/><br/>
-           <b>TF</b></br>
-            Aplicó y consolidó conocimientos avanzados en desarrollo backend, autenticación con JWT y comunicación segura entre APIs, reforzando además su dominio de integración con Flutter.<br/><br/>
+          <li><b>Gongora Castillejos, Williams</b><br/>
+            <b>TB1:</b> Investigué el uso del Event Storming como técnica clave para el modelado de dominios complejos. Estudié ejemplos reales de startups tecnológicas, adaptando sus enfoques a nuestro caso.<br/>
+            <b>TP:</b> Me sumergí en artículos y guías sobre diseño de interacción y arquitectura de la información, con énfasis en jerarquías de contenido y navegación accesible.<br/>
+            <b>TB2:</b> Exploré frameworks móviles actuales, como FlutterFlow y su comparación con Flutter, optando por la herramienta que ofrecía mayor flexibilidad. <br/>
+            <b>TF:</b> Consolidé el uso de JWT con flujos de autenticación OAuth2 y aseguré la integración con el backend, lo cual implicó adaptar headers y middlewares personalizados.
           </li>
-          <li>
-            <b>Jara Benites, Quique Vladimir<br/>
-            TB1</b><br/>
-            Actualicé mis conocimientos a través de la investigación sobre metodologías de modelado como EventStorming y Bounded Context Canvases, aplicando estas herramientas en el diseño de la arquitectura de mi proyecto. A través de cursos y documentación, profundicé en técnicas que optimizan la estructura de soluciones de software, mejorando la eficiencia del desarrollo.<br/>
-             TP</b><br/>
-           Durante el desarrollo de este entregable, actualicé y apliqué conocimientos relevantes para el despliegue del backend, así como para el avance del desarrollo de la aplicación móvil. Para ello, investigué y apliqué nuevas herramientas y buenas prácticas que optimizan el funcionamiento del sistema. Además, revisé y corregí elementos del product backlog, lo cual me permitió afianzar criterios de priorización y gestión ágil del proyecto.<br/><br/>
-           TB2</b><br/>
-            En esta etapa, reforcé mis habilidades en el desarrollo móvil utilizando Flutter, enfocándome en la integración con servicios, manejo de interfaces y estructura del código. Esta experiencia me permitió mejorar mis capacidades técnicas, adaptarme mejor al trabajo en equipo y aportar soluciones funcionales al proyecto, todo como parte de un proceso de aprendizaje continuo. <br/><br/>
-           <b>TF</b></br>
-            Lideró la planificación de sprints, gestionó entregables y participó activamente en decisiones arquitectónicas que requerían actualización constante de conceptos en diseño de software móvil.<br/><br/>
+          <li><b>Jara Benites, Quique Vladimir</b><br/>
+            <b>TB1:</b> Reforcé conocimientos en separación de responsabilidades dentro del diseño orientado a dominio. Evalué herramientas de documentación visual para facilitar el desarrollo colaborativo.<br/>
+            <b>TP:</b> Aprendí a configurar entornos productivos para APIs RESTful en servidores cloud y a establecer pipelines de integración continua para el backend.<br/>
+            <b>TB2:</b> Implementé estrategias de manejo de estados usando Riverpod y Provider, comparando ventajas según el tamaño del proyecto. <br/>
+            <b>TF:</b> Coordiné tareas de arquitectura móvil y revisé constantemente la consistencia de rutas, estados y modularidad del código.
           </li>
-          <li>
-            <b>Quispe Roldan Michael Fred<br/>
-            TB1</b><br/>
-            En esta entrega tuve que volver a estudiar C4 y los conceptos basicos de Domain Driver Design. Gracias a estos conceptos pude resolver varios puntos y me facilito su realizacion. Ademas de entender mejor los ebjetivos y metas de nuestra start up<br/>
-            <br/>
-            TP</b><br/>
-            En esta entrega, actualicé y apliqué conocimientos clave para el desarrollo de soluciones de software, especialmente para el proyecto. Participé en el Sprint 1, realizando la planificación, el Sprint Backlog, y aplicando metodologías ágiles. Desarrollé funcionalidades, documenté servicios y realicé despliegues, mientras fomentaba la colaboración en el equipo y mejoraba mis habilidades de forma autónoma.
-           <br/>
-           TB2</b><br/>
-            En esta entrega actualice y reforce mis conocimientos en Flutter, especialmente en la construcción de interfaces, manejo de formularios, consumo de servicios REST y gestión de estado. Estos aprendizajes fueron esenciales para desarrollar la aplicación de manera funcional y siguiendo buenas prácticas, contribuyendo así a mi desarrollo profesional en soluciones de software.
+          <li><b>Quispe Roldan Michael Fred</b><br/>
+            <b>TB1:</b> A partir de una autoevaluación, identifiqué debilidades en modelado estructural y reforcé temas de agregados y entidades dentro del dominio.<br/>
+            <b>TP:</b> Apliqué conceptos de Scrum y estimación por puntos historia. También integré documentación Swagger al backend para mejorar comunicación equipo.<br/>
+            <b>TB2:</b> Practiqué validaciones en formularios Flutter, considerando expresiones regulares, mensajes de error y campos requeridos.<br/>
+            <b>TF:</b> Migré interfaces de prueba en Jetpack Compose a producción, considerando arquitectura MVVM y separación de concerns.
           </li>
-           <b>TF</b></br>
-            Profundizó sus conocimientos en la construcción de interfaces móviles usando Kotlin y adaptó nuevas lógicas de navegación, calendario y sesiones.<br/><br/>
-          <li>
-            <b>Ramos Mendoza, Juan Pablo<br/>
-            TB1</b><br/>
-            Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del informe del proyect y durante el Event Storming. He comunicado cada uno de mis avances con el resto de mi grupo.<br/>
-            <b>TP</b><br/>
-            En esta entrega me enfoqué en el desarrollo grupal de la aplicación y el landing page, además del Software Configuration Design, permitiendo que desarrolle y reforzarme en temas que he visto desde cursos anteriores para un correcto desarrollo de software.<br/><br/>
-           TB2</b><br/>
-            Durante el desarrollo de esta entrega, investigué recursos adicionales sobre el diseño de software y la organización de sistemas. Amplié mis conocimientos en diseño visual, usabilidad y arquitectura, aplicándolos al desarrollo de la aplicación y del landing page.<br/><br/>
-           <b>TF</b></br>
-            Contribuyó a la implementación de lógica de citas, notificaciones y control de sesiones en Flutter, enfrentando desafíos técnicos a través del estudio autónomo de librerías y métodos asincrónicos.<br/><br/>
+          <li><b>Ramos Mendoza, Juan Pablo</b><br/>
+            <b>TB1:</b> Trabajé en el levantamiento de información para el modelo C4, profundizando en relaciones entre niveles de abstracción.<br/>
+            <b>TP:</b> Estudié guías de diseño responsive y principios de accesibilidad para web, los cuales apliqué en el desarrollo de la landing page.<br/>
+            <b>TB2:</b> Me enfoqué en la jerarquía visual y contraste de colores para garantizar usabilidad en ambientes con limitación tecnológica.<br/>
+            <b>TF:</b> Incorporé la lógica de recordatorios y eventos con manejo de fechas asincrónicas, aplicando TimeZone conversions en Flutter.
           </li>
-          <li>
-            <b>Garayar Mori, Oscar Nathaniel<br/>
-            TB1</b><br/>
-            Para la entrega de ahora, volví a investigar sobre el EventStorming y las practicas de los criterios de aceptación para arreglar los user stories.
-            <br>
-            <b>TP</b></br>
-            Para Esta entrega me centré en el diseño UI/UX de la aplicación movil. Además de asegurarme de revisar errores pasados para el informe.<br/><br/>
-           TB2</b><br/>
-            En esta fase del proyecto, actualicé mis conocimientos sobre diseño de interfaces y experiencia de usuario, lo cual fue clave para desarrollar una aplicación más intuitiva y funcional. <br/><br/>
-           <b>TF</b></br>
-            Participó activamente en la implementación de lógica de negocio y procesamiento de datos clínicos, investigando nuevas estrategias para la representación de procedimientos médicos.<br/><br/>
-            <br/>
+          <li><b>Garayar Mori, Oscar Nathaniel</b><br/>
+            <b>TB1:</b> Aprendí sobre los distintos tipos de eventos (comando, de integración, de dominio) y su importancia dentro del modelado colaborativo.<br/>
+            <b>TP:</b> Analicé patrones de diseño centrado en el usuario y evalué heurísticas de Nielsen para mejorar flujos de interacción.<br/>
+            <b>TB2:</b> Me actualicé en nuevas tendencias de diseño móvil, priorizando accesibilidad y velocidad de carga.<br/>
+            <b>TF:</b> Implementé funciones para mostrar procedimientos clínicos según tipo de usuario, configurando lógica condicional y parsers de datos.
           </li>
         </ul>
       </td>
@@ -358,49 +345,35 @@ Durante el desarrollo del proyecto, el equipo adquirió y aplicó nuevos conocim
 <tr>
       <td style="border: 1px solid black;">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. </td>      <td style="border: 1px solid black;">
         <ul>
-          <li>
-            <b>Gongora Castillejos, Williams<br/>
-            TB1</b><br/>
-            Reconocí la importancia de actualizarme constantemente, por lo que reforcé mis conocimientos en metodologías modernas como Domain-Driven Design. Esta actitud me permitió aplicar soluciones más estructuradas y efectivas durante el desarrollo del proyecto<br/><br/>
-             TP</b><br/>
-            A lo largo del proyecto, comprendí la importancia de mantenerme en constante actualización, especialmente en temas como diseño de interfaces, estructura de contenidos y optimización para motores de búsqueda. Dado que las tecnologías, estándares de usabilidad y expectativas de los usuarios cambian constantemente, reconozco que el aprendizaje continuo es esencial para ofrecer soluciones de software relevantes, funcionales y competitivas en el mercado actual. <br/><br/>
-           TB2</b><br/>
-            Durante el proceso, asumí una actitud proactiva hacia el aprendizaje permanente, investigando nuevas tendencias y recursos relacionados con el desarrollo de software. Esta disposición me permitió identificar áreas de mejora personal y profesional, motivándome a buscar continuamente nuevas fuentes de conocimiento, como artículos especializados, cursos en línea y buenas prácticas compartidas por la comunidad tecnológica. <br/><br/>
+          <li><b>Gongora Castillejos, Williams</b><br/>
+            <b>TB1:</b> Reflexioné sobre la rapidez con la que evolucionan las herramientas de desarrollo. Me propuse buscar fuentes confiables (blogs, libros y podcasts) para mantenerme actualizado.<br/>
+            <b>TP:</b> Reforcé mi interés en mejorar habilidades relacionadas con SEO técnico y accesibilidad web, asistiendo a seminarios virtuales y foros.<br/>
+            <b>TB2:</b> Decidí crear una bitácora de aprendizaje para registrar lo nuevo que descubro en cada fase del proyecto, lo que me ayuda a reflexionar sobre mi progreso.<br/>
+            <b>TF:</b> Tomé un minicurso especializado en autenticación segura, aplicando lo aprendido directamente en la implementación de login con JWT.
           </li>
-          <li>
-            <b>Jara Benites, Quique Vladimir<br/>
-            TB1</b><br/>
-            Reconociendo la importancia del aprendizaje continuo, me comprometí a investigar las últimas tendencias en desarrollo de software y participé en seminarios y cursos en línea. Esta práctica constante me permitió aplicar nuevos conocimientos y mantenerme actualizado para mejorar el desempeño en mis proyectos.<br/>
-             TP</b><br/>
-           Durante esta etapa del proyecto, reconocí la importancia del aprendizaje continuo al enfrentarme a tareas como el despliegue del backend y el desarrollo de la aplicación móvil. Estas actividades exigieron que buscara nuevas soluciones técnicas y me actualizara en herramientas y metodologías que no dominaba completamente. Asimismo, al corregir partes del product backlog, comprendí mejor los procesos de planificación y gestión ágil, lo que refuerza mi convicción de que el aprendizaje constante es esencial para adaptarme a los retos del desarrollo de software y crecer profesionalmente.<br/><br/>
-           TB2</b><br/>
-            Durante esta etapa, reafirmé la importancia del aprendizaje permanente al enfrentarme a desafíos técnicos y de gestión dentro del proyecto. Buscar nuevas herramientas y metodologías me permitió adaptarme a los cambios y necesidades del sistema. <br/><br/>
+          <li><b>Jara Benites, Quique Vladimir</b><br/>
+            <b>TB1:</b> Asistí a webinars sobre diseño de software evolutivo y mantenimiento técnico. Tomé apuntes y compartí conocimientos con el equipo.<br/>
+            <b>TP:</b> Reconocí que necesitaba fortalecer habilidades de integración continua y entrega, por lo que me formé de forma autodidacta en GitHub Actions y Docker.<br/>
+            <b>TB2:</b> Reflexioné sobre cómo las tecnologías móviles cambian rápidamente. Empecé a seguir canales de actualización sobre Flutter y Firebase.<br/>
+            <b>TF:</b> Practiqué lectura crítica de documentación técnica para poder implementar mejoras sin depender exclusivamente del docente o compañeros.
           </li>
-          <li>
-            <b>Quispe Roldan Michael Fred<br/>
-            TB1</b><br/>
-            El aprendizaje continuo me ayudo a entender de mejor manera la importancia de hacer un trabajo grupal de manera ordenada y rapida, gracias a ello pude tener comunicacion y coordinacion con mi grupo. Esto son muy importantes para poder realizar el trabajo de mejor manera. <br/>
-            <br/>
-            TP</b><br/>
-            En esta entrega, reconocí la necesidad del aprendizaje permanente al aplicar nuevos conocimientos en metodologías ágiles y herramientas de desarrollo para el proyecto. Participé activamente en el Sprint 1, realizando la planificación, el Sprint Backlog, y               generando evidencia de cada fase, lo que me permitió mejorar mis habilidades y asegurar el progreso del proyecto de manera continua.<br/><br/>
-           TB2</b><br/>
-            Reconocí que el aprendizaje constante es clave para adaptarme a los cambios del entorno tecnológico. Por ello, busqué nuevas formas de mejorar mis habilidades, tanto técnicas como colaborativas. Esta mentalidad me permitió avanzar de manera más sólida en el desarrollo del proyecto y adquirir mayor confianza en mi crecimiento profesional dentro del campo del software.<br/><br/>
+          <li><b>Quispe Roldan Michael Fred</b><br/>
+            <b>TB1:</b> Durante el Event Storming me di cuenta de que necesitaba mejorar mi capacidad para aprender en equipo. Empecé a investigar cómo fortalecer el trabajo colaborativo.<br/>
+            <b>TP:</b> Leí artículos sobre comunicación efectiva en equipos ágiles. Esto me ayudó a plantear mejor mis ideas y buscar feedback constructivo.<br/>
+            <b>TB2:</b> Reconocí mis vacíos en el consumo eficiente de APIs REST. Por ello, realicé prácticas adicionales fuera del horario de clases.<br/>
+            <b>TF:</b> Me suscribí a newsletters sobre Kotlin y arquitectura limpia, con el objetivo de seguir creciendo más allá del proyecto final.
           </li>
-          <li>
-            <b>Ramos Mendoza, Juan Pablo<br/>
-            TB1</b><br/>
-            Utilizando mis notas y aprendizajes de cursos anteriores he realizado los diagramas C4 necesarios para nuestro proyecto, además de otras técnicas de organización de información.<br/>
-            <b>TP</b><br/>
-            Usando conocimientos de cursos anteriores, pude realizar un diseño base del aplicativo móvil y del landing page, usando buenas prácticas del desarrollo del software al momento de la creación de los mock-ups.<br/><br/>
-           TB2</b><br/>
-            Durante el proyecto, comprendí que aplicar conocimientos pasados no es suficiente, por lo que comencé a investigar nuevas tendencias y herramientas relacionadas con el desarrollo móvil y web. <br/><br/>
+          <li><b>Ramos Mendoza, Juan Pablo</b><br/>
+            <b>TB1:</b> Usé mis apuntes de cursos anteriores, pero me di cuenta de que necesitaba reforzar temas de arquitectura de software, por lo que revisé material actualizado.<br/>
+            <b>TP:</b> Me motivó ver los avances de mis compañeros, lo que me impulsó a investigar nuevas herramientas para mejorar la landing page del proyecto.<br/>
+            <b>TB2:</b> Seguí cursos en línea para complementar mis conocimientos en interfaces responsivas y accesibilidad.<br/>
+            <b>TF:</b> Descubrí nuevas formas de automatizar funciones en Flutter y practiqué mediante ejercicios que no estaban en la entrega, por iniciativa propia.
           </li>
-          <li>
-            <b>Garayar Mori, Oscar Nathaniel<br/>
-            TB1</b><br/>
-            Investigue sobre las tecnicas del event storming, también sobre los bounded context para poder realizar mi parte del trabajo.<br/><br/>
-           TB2</b><br/>
-            A lo largo del proyecto, me di cuenta de que para mejorar mis aportes al equipo debía actualizar constantemente mis conocimientos. Por ello, me involucré en la búsqueda de nuevas estrategias de diseño y desarrollo, entendiendo que el aprendizaje permanente no solo mejora mi desempeño actual, sino que también es esencial para crecer profesionalmente en un entorno en constante evolución.<br/><br/>
+          <li><b>Garayar Mori, Oscar Nathaniel</b><br/>
+            <b>TB1:</b> Identifiqué que muchos de mis conocimientos estaban desactualizados, por lo que volví a repasar fundamentos clave de modelado y metodologías ágiles.<br/>
+            <b>TP:</b> Me propuse mejorar mi capacidad de diseñar interfaces adaptativas, y para ello investigué patrones modernos de diseño en aplicaciones móviles.<br/>
+            <b>TB2:</b> Consulté experiencias de otros desarrolladores y revisé buenas prácticas de Git y control de versiones.<br/>
+            <b>TF:</b> Me uní a una comunidad online para intercambiar ideas y resolver dudas sobre patrones de arquitectura de software.
           </li>
         </ul>
       </td>
@@ -535,4 +508,4 @@ A continuación, se presentan los objetivos SMART personales definidos tras culm
 
 # Anexos
 
-Link del video (TP): https://drive.google.com/drive/folders/1ysWorKN_fZnZEBhoClflUg5wBYiW2QBJ?usp=sharing
+Link del video (TF): https://drive.google.com/drive/folders/1ysWorKN_fZnZEBhoClflUg5wBYiW2QBJ?usp=sharing
